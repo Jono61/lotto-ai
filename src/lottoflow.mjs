@@ -127,7 +127,7 @@ export const train = async(data) => {
 
     
      // Use 80% of the data for training
-     const trainSize = Math.floor(0.95 * xs.shape[0]);
+     const trainSize = Math.floor(0.80 * xs.shape[0]);
      const xsTrain = xs.slice([0, 0, 0, 0], [trainSize, -1, -1, -1]);
      const ysTrain = ys.slice([0, 0], [trainSize, -1]);
      
