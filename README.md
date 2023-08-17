@@ -1,4 +1,4 @@
-# lotto-alstm
+# LOTTO AI
 
 > A fun project to predict the next german lottery numbers using an Attention LSTM neural network trained on the last 1000+ draws aka: A fancy random number generator ;)
 
