@@ -1,0 +1,17 @@
+{
+  "name": "lotto-alstm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A fun project to predict the next german lottery numbers using an Attention LSTM neural network trained on the last 1000+ draws aka: A fancy random number generator ;)",
+  "license": "MIT",
+  "packageManager": "yarn@1.22.19",
+  "scripts": {
+    "train": "node ./src/train.mjs",
+    "predict": "node ./src/predict.mjs",
+    "stats": "node ./src/stats.mjs",
+    "transform": "node ./src/transform.mjs"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.10.0"
+  }
+}

@@ -1,0 +1,10732 @@
+[
+  {
+    "Zahl1": 48,
+    "Zahl2": 7,
+    "Zahl3": 5,
+    "Zahl4": 11,
+    "Zahl5": 22,
+    "Zahl6": 21,
+    "Superzahl": 8,
+    "date": "2013-05-04"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 22,
+    "Zahl3": 42,
+    "Zahl4": 30,
+    "Zahl5": 11,
+    "Zahl6": 4,
+    "Superzahl": 7,
+    "date": "2013-05-08"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 7,
+    "Zahl3": 32,
+    "Zahl4": 3,
+    "Zahl5": 31,
+    "Zahl6": 41,
+    "Superzahl": 2,
+    "date": "2013-05-11"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 16,
+    "Zahl3": 45,
+    "Zahl4": 4,
+    "Zahl5": 38,
+    "Zahl6": 2,
+    "Superzahl": 2,
+    "date": "2013-05-15"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 32,
+    "Zahl3": 20,
+    "Zahl4": 2,
+    "Zahl5": 1,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2013-05-18"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 35,
+    "Zahl3": 23,
+    "Zahl4": 8,
+    "Zahl5": 36,
+    "Zahl6": 24,
+    "Superzahl": 8,
+    "date": "2013-05-22"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 25,
+    "Zahl3": 23,
+    "Zahl4": 17,
+    "Zahl5": 3,
+    "Zahl6": 44,
+    "Superzahl": 0,
+    "date": "2013-05-25"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 2,
+    "Zahl3": 41,
+    "Zahl4": 14,
+    "Zahl5": 7,
+    "Zahl6": 5,
+    "Superzahl": 5,
+    "date": "2013-05-29"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 30,
+    "Zahl3": 28,
+    "Zahl4": 13,
+    "Zahl5": 36,
+    "Zahl6": 32,
+    "Superzahl": 1,
+    "date": "2013-06-01"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 30,
+    "Zahl3": 21,
+    "Zahl4": 49,
+    "Zahl5": 39,
+    "Zahl6": 19,
+    "Superzahl": 1,
+    "date": "2013-06-05"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 38,
+    "Zahl3": 47,
+    "Zahl4": 26,
+    "Zahl5": 3,
+    "Zahl6": 30,
+    "Superzahl": 3,
+    "date": "2013-06-08"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 15,
+    "Zahl3": 5,
+    "Zahl4": 7,
+    "Zahl5": 23,
+    "Zahl6": 10,
+    "Superzahl": 6,
+    "date": "2013-06-12"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 16,
+    "Zahl3": 49,
+    "Zahl4": 43,
+    "Zahl5": 6,
+    "Zahl6": 25,
+    "Superzahl": 1,
+    "date": "2013-06-15"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 42,
+    "Zahl3": 19,
+    "Zahl4": 49,
+    "Zahl5": 29,
+    "Zahl6": 3,
+    "Superzahl": 5,
+    "date": "2013-06-19"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 19,
+    "Zahl3": 31,
+    "Zahl4": 43,
+    "Zahl5": 5,
+    "Zahl6": 35,
+    "Superzahl": 8,
+    "date": "2013-06-22"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 22,
+    "Zahl3": 32,
+    "Zahl4": 39,
+    "Zahl5": 2,
+    "Zahl6": 43,
+    "Superzahl": 2,
+    "date": "2013-06-26"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 43,
+    "Zahl3": 22,
+    "Zahl4": 28,
+    "Zahl5": 7,
+    "Zahl6": 44,
+    "Superzahl": 9,
+    "date": "2013-06-29"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 9,
+    "Zahl3": 13,
+    "Zahl4": 17,
+    "Zahl5": 7,
+    "Zahl6": 14,
+    "Superzahl": 2,
+    "date": "2013-07-03"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 17,
+    "Zahl3": 49,
+    "Zahl4": 8,
+    "Zahl5": 20,
+    "Zahl6": 3,
+    "Superzahl": 9,
+    "date": "2013-07-06"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 16,
+    "Zahl3": 19,
+    "Zahl4": 11,
+    "Zahl5": 29,
+    "Zahl6": 43,
+    "Superzahl": 9,
+    "date": "2013-07-10"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 3,
+    "Zahl3": 48,
+    "Zahl4": 28,
+    "Zahl5": 29,
+    "Zahl6": 38,
+    "Superzahl": 1,
+    "date": "2013-07-13"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 38,
+    "Zahl3": 20,
+    "Zahl4": 28,
+    "Zahl5": 26,
+    "Zahl6": 11,
+    "Superzahl": 3,
+    "date": "2013-07-17"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 46,
+    "Zahl3": 33,
+    "Zahl4": 11,
+    "Zahl5": 29,
+    "Zahl6": 18,
+    "Superzahl": 4,
+    "date": "2013-07-20"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 28,
+    "Zahl3": 31,
+    "Zahl4": 8,
+    "Zahl5": 2,
+    "Zahl6": 36,
+    "Superzahl": 6,
+    "date": "2013-07-24"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 20,
+    "Zahl3": 11,
+    "Zahl4": 31,
+    "Zahl5": 30,
+    "Zahl6": 40,
+    "Superzahl": 0,
+    "date": "2013-07-27"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 6,
+    "Zahl3": 3,
+    "Zahl4": 47,
+    "Zahl5": 39,
+    "Zahl6": 26,
+    "Superzahl": 7,
+    "date": "2013-07-31"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 47,
+    "Zahl3": 19,
+    "Zahl4": 25,
+    "Zahl5": 6,
+    "Zahl6": 40,
+    "Superzahl": 2,
+    "date": "2013-08-03"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 24,
+    "Zahl3": 14,
+    "Zahl4": 36,
+    "Zahl5": 16,
+    "Zahl6": 11,
+    "Superzahl": 4,
+    "date": "2013-08-07"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 39,
+    "Zahl3": 36,
+    "Zahl4": 9,
+    "Zahl5": 3,
+    "Zahl6": 17,
+    "Superzahl": 7,
+    "date": "2013-08-10"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 39,
+    "Zahl3": 8,
+    "Zahl4": 3,
+    "Zahl5": 34,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2013-08-14"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 42,
+    "Zahl3": 28,
+    "Zahl4": 19,
+    "Zahl5": 17,
+    "Zahl6": 25,
+    "Superzahl": 8,
+    "date": "2013-08-17"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 5,
+    "Zahl3": 29,
+    "Zahl4": 21,
+    "Zahl5": 27,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2013-08-21"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 6,
+    "Zahl3": 29,
+    "Zahl4": 27,
+    "Zahl5": 2,
+    "Zahl6": 25,
+    "Superzahl": 3,
+    "date": "2013-08-24"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 35,
+    "Zahl3": 3,
+    "Zahl4": 22,
+    "Zahl5": 2,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2013-08-28"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 22,
+    "Zahl3": 44,
+    "Zahl4": 37,
+    "Zahl5": 26,
+    "Zahl6": 1,
+    "Superzahl": 4,
+    "date": "2013-08-31"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 19,
+    "Zahl3": 17,
+    "Zahl4": 38,
+    "Zahl5": 31,
+    "Zahl6": 1,
+    "Superzahl": 9,
+    "date": "2013-09-04"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 22,
+    "Zahl3": 24,
+    "Zahl4": 37,
+    "Zahl5": 41,
+    "Zahl6": 12,
+    "Superzahl": 9,
+    "date": "2013-09-07"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 40,
+    "Zahl3": 48,
+    "Zahl4": 42,
+    "Zahl5": 28,
+    "Zahl6": 16,
+    "Superzahl": 3,
+    "date": "2013-09-11"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 22,
+    "Zahl3": 21,
+    "Zahl4": 30,
+    "Zahl5": 10,
+    "Zahl6": 40,
+    "Superzahl": 2,
+    "date": "2013-09-14"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 11,
+    "Zahl3": 4,
+    "Zahl4": 20,
+    "Zahl5": 30,
+    "Zahl6": 21,
+    "Superzahl": 3,
+    "date": "2013-09-18"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 32,
+    "Zahl3": 8,
+    "Zahl4": 40,
+    "Zahl5": 13,
+    "Zahl6": 43,
+    "Superzahl": 8,
+    "date": "2013-09-21"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 43,
+    "Zahl3": 14,
+    "Zahl4": 26,
+    "Zahl5": 30,
+    "Zahl6": 33,
+    "Superzahl": 3,
+    "date": "2013-09-25"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 23,
+    "Zahl3": 37,
+    "Zahl4": 3,
+    "Zahl5": 41,
+    "Zahl6": 32,
+    "Superzahl": 2,
+    "date": "2013-09-28"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 17,
+    "Zahl3": 42,
+    "Zahl4": 27,
+    "Zahl5": 43,
+    "Zahl6": 47,
+    "Superzahl": 3,
+    "date": "2013-10-02"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 48,
+    "Zahl3": 12,
+    "Zahl4": 9,
+    "Zahl5": 35,
+    "Zahl6": 44,
+    "Superzahl": 5,
+    "date": "2013-10-05"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 29,
+    "Zahl3": 46,
+    "Zahl4": 22,
+    "Zahl5": 48,
+    "Zahl6": 11,
+    "Superzahl": 3,
+    "date": "2013-10-09"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 44,
+    "Zahl3": 14,
+    "Zahl4": 29,
+    "Zahl5": 25,
+    "Zahl6": 46,
+    "Superzahl": 9,
+    "date": "2013-10-12"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 38,
+    "Zahl3": 32,
+    "Zahl4": 9,
+    "Zahl5": 44,
+    "Zahl6": 40,
+    "Superzahl": 8,
+    "date": "2013-10-16"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 38,
+    "Zahl3": 24,
+    "Zahl4": 4,
+    "Zahl5": 14,
+    "Zahl6": 40,
+    "Superzahl": 5,
+    "date": "2013-10-19"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 26,
+    "Zahl3": 7,
+    "Zahl4": 21,
+    "Zahl5": 33,
+    "Zahl6": 16,
+    "Superzahl": 7,
+    "date": "2013-10-23"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 20,
+    "Zahl3": 22,
+    "Zahl4": 24,
+    "Zahl5": 9,
+    "Zahl6": 18,
+    "Superzahl": 2,
+    "date": "2013-10-26"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 30,
+    "Zahl3": 12,
+    "Zahl4": 13,
+    "Zahl5": 10,
+    "Zahl6": 45,
+    "Superzahl": 1,
+    "date": "2013-10-30"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 15,
+    "Zahl3": 38,
+    "Zahl4": 12,
+    "Zahl5": 19,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2013-11-02"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 22,
+    "Zahl3": 35,
+    "Zahl4": 30,
+    "Zahl5": 12,
+    "Zahl6": 13,
+    "Superzahl": 2,
+    "date": "2013-11-06"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 12,
+    "Zahl3": 13,
+    "Zahl4": 33,
+    "Zahl5": 32,
+    "Zahl6": 6,
+    "Superzahl": 7,
+    "date": "2013-11-09"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 5,
+    "Zahl3": 15,
+    "Zahl4": 16,
+    "Zahl5": 35,
+    "Zahl6": 46,
+    "Superzahl": 1,
+    "date": "2013-11-13"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 42,
+    "Zahl3": 19,
+    "Zahl4": 39,
+    "Zahl5": 9,
+    "Zahl6": 24,
+    "Superzahl": 4,
+    "date": "2013-11-16"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 36,
+    "Zahl3": 42,
+    "Zahl4": 16,
+    "Zahl5": 9,
+    "Zahl6": 19,
+    "Superzahl": 5,
+    "date": "2013-11-20"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 30,
+    "Zahl3": 35,
+    "Zahl4": 12,
+    "Zahl5": 19,
+    "Zahl6": 33,
+    "Superzahl": 5,
+    "date": "2013-11-23"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 42,
+    "Zahl3": 31,
+    "Zahl4": 36,
+    "Zahl5": 11,
+    "Zahl6": 38,
+    "Superzahl": 7,
+    "date": "2013-11-27"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 1,
+    "Zahl3": 47,
+    "Zahl4": 39,
+    "Zahl5": 30,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2013-11-30"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 22,
+    "Zahl3": 20,
+    "Zahl4": 41,
+    "Zahl5": 49,
+    "Zahl6": 42,
+    "Superzahl": 6,
+    "date": "2013-12-04"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 15,
+    "Zahl3": 9,
+    "Zahl4": 4,
+    "Zahl5": 48,
+    "Zahl6": 26,
+    "Superzahl": 0,
+    "date": "2013-12-07"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 38,
+    "Zahl3": 7,
+    "Zahl4": 49,
+    "Zahl5": 39,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2013-12-11"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 27,
+    "Zahl3": 38,
+    "Zahl4": 17,
+    "Zahl5": 19,
+    "Zahl6": 6,
+    "Superzahl": 3,
+    "date": "2013-12-14"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 2,
+    "Zahl3": 18,
+    "Zahl4": 34,
+    "Zahl5": 35,
+    "Zahl6": 12,
+    "Superzahl": 9,
+    "date": "2013-12-18"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 5,
+    "Zahl3": 27,
+    "Zahl4": 35,
+    "Zahl5": 4,
+    "Zahl6": 17,
+    "Superzahl": 5,
+    "date": "2013-12-21"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 40,
+    "Zahl3": 44,
+    "Zahl4": 26,
+    "Zahl5": 27,
+    "Zahl6": 4,
+    "Superzahl": 8,
+    "date": "2013-12-25"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 9,
+    "Zahl3": 22,
+    "Zahl4": 6,
+    "Zahl5": 32,
+    "Zahl6": 10,
+    "Superzahl": 3,
+    "date": "2013-12-28"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 25,
+    "Zahl3": 24,
+    "Zahl4": 8,
+    "Zahl5": 23,
+    "Zahl6": 6,
+    "Superzahl": 6,
+    "date": "2014-01-01"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 19,
+    "Zahl3": 25,
+    "Zahl4": 36,
+    "Zahl5": 39,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2014-01-04"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 44,
+    "Zahl3": 45,
+    "Zahl4": 28,
+    "Zahl5": 20,
+    "Zahl6": 31,
+    "Superzahl": 9,
+    "date": "2014-01-08"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 8,
+    "Zahl3": 29,
+    "Zahl4": 23,
+    "Zahl5": 5,
+    "Zahl6": 38,
+    "Superzahl": 1,
+    "date": "2014-01-11"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 49,
+    "Zahl3": 41,
+    "Zahl4": 22,
+    "Zahl5": 39,
+    "Zahl6": 43,
+    "Superzahl": 4,
+    "date": "2014-01-15"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 16,
+    "Zahl3": 36,
+    "Zahl4": 26,
+    "Zahl5": 11,
+    "Zahl6": 15,
+    "Superzahl": 2,
+    "date": "2014-01-18"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 42,
+    "Zahl3": 18,
+    "Zahl4": 2,
+    "Zahl5": 46,
+    "Zahl6": 23,
+    "Superzahl": 8,
+    "date": "2014-01-22"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 32,
+    "Zahl3": 48,
+    "Zahl4": 24,
+    "Zahl5": 45,
+    "Zahl6": 36,
+    "Superzahl": 8,
+    "date": "2014-01-25"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 12,
+    "Zahl3": 36,
+    "Zahl4": 34,
+    "Zahl5": 15,
+    "Zahl6": 26,
+    "Superzahl": 5,
+    "date": "2014-01-29"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 49,
+    "Zahl3": 18,
+    "Zahl4": 46,
+    "Zahl5": 47,
+    "Zahl6": 42,
+    "Superzahl": 2,
+    "date": "2014-02-01"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 32,
+    "Zahl3": 17,
+    "Zahl4": 7,
+    "Zahl5": 16,
+    "Zahl6": 9,
+    "Superzahl": 1,
+    "date": "2014-02-05"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 18,
+    "Zahl3": 42,
+    "Zahl4": 4,
+    "Zahl5": 29,
+    "Zahl6": 33,
+    "Superzahl": 4,
+    "date": "2014-02-08"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 15,
+    "Zahl3": 37,
+    "Zahl4": 18,
+    "Zahl5": 10,
+    "Zahl6": 35,
+    "Superzahl": 5,
+    "date": "2014-02-12"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 31,
+    "Zahl3": 17,
+    "Zahl4": 7,
+    "Zahl5": 8,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2014-02-15"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 43,
+    "Zahl3": 29,
+    "Zahl4": 21,
+    "Zahl5": 36,
+    "Zahl6": 4,
+    "Superzahl": 3,
+    "date": "2014-02-19"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 39,
+    "Zahl3": 32,
+    "Zahl4": 26,
+    "Zahl5": 25,
+    "Zahl6": 30,
+    "Superzahl": 5,
+    "date": "2014-02-22"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 31,
+    "Zahl3": 9,
+    "Zahl4": 8,
+    "Zahl5": 48,
+    "Zahl6": 11,
+    "Superzahl": 7,
+    "date": "2014-02-26"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 47,
+    "Zahl3": 13,
+    "Zahl4": 24,
+    "Zahl5": 28,
+    "Zahl6": 38,
+    "Superzahl": 1,
+    "date": "2014-03-01"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 44,
+    "Zahl3": 5,
+    "Zahl4": 34,
+    "Zahl5": 13,
+    "Zahl6": 16,
+    "Superzahl": 3,
+    "date": "2014-03-05"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 45,
+    "Zahl3": 10,
+    "Zahl4": 16,
+    "Zahl5": 24,
+    "Zahl6": 43,
+    "Superzahl": 9,
+    "date": "2014-03-08"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 27,
+    "Zahl3": 4,
+    "Zahl4": 38,
+    "Zahl5": 7,
+    "Zahl6": 31,
+    "Superzahl": 4,
+    "date": "2014-03-12"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 3,
+    "Zahl3": 23,
+    "Zahl4": 36,
+    "Zahl5": 12,
+    "Zahl6": 41,
+    "Superzahl": 9,
+    "date": "2014-03-15"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 7,
+    "Zahl3": 1,
+    "Zahl4": 40,
+    "Zahl5": 25,
+    "Zahl6": 10,
+    "Superzahl": 3,
+    "date": "2014-03-19"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 46,
+    "Zahl3": 34,
+    "Zahl4": 29,
+    "Zahl5": 30,
+    "Zahl6": 10,
+    "Superzahl": 6,
+    "date": "2014-03-22"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 38,
+    "Zahl3": 3,
+    "Zahl4": 43,
+    "Zahl5": 30,
+    "Zahl6": 36,
+    "Superzahl": 4,
+    "date": "2014-03-26"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 20,
+    "Zahl3": 11,
+    "Zahl4": 8,
+    "Zahl5": 7,
+    "Zahl6": 5,
+    "Superzahl": 1,
+    "date": "2014-03-29"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 48,
+    "Zahl3": 42,
+    "Zahl4": 20,
+    "Zahl5": 4,
+    "Zahl6": 6,
+    "Superzahl": 0,
+    "date": "2014-04-02"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 14,
+    "Zahl3": 21,
+    "Zahl4": 17,
+    "Zahl5": 42,
+    "Zahl6": 47,
+    "Superzahl": 4,
+    "date": "2014-04-05"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 32,
+    "Zahl3": 46,
+    "Zahl4": 43,
+    "Zahl5": 12,
+    "Zahl6": 6,
+    "Superzahl": 9,
+    "date": "2014-04-09"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 28,
+    "Zahl3": 38,
+    "Zahl4": 16,
+    "Zahl5": 13,
+    "Zahl6": 49,
+    "Superzahl": 1,
+    "date": "2014-04-12"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 18,
+    "Zahl3": 35,
+    "Zahl4": 49,
+    "Zahl5": 30,
+    "Zahl6": 28,
+    "Superzahl": 8,
+    "date": "2014-04-16"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 46,
+    "Zahl3": 25,
+    "Zahl4": 3,
+    "Zahl5": 47,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2014-04-19"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 40,
+    "Zahl3": 44,
+    "Zahl4": 23,
+    "Zahl5": 12,
+    "Zahl6": 13,
+    "Superzahl": 3,
+    "date": "2014-04-23"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 23,
+    "Zahl3": 34,
+    "Zahl4": 3,
+    "Zahl5": 48,
+    "Zahl6": 7,
+    "Superzahl": 1,
+    "date": "2014-04-26"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 48,
+    "Zahl3": 38,
+    "Zahl4": 6,
+    "Zahl5": 10,
+    "Zahl6": 30,
+    "Superzahl": 6,
+    "date": "2014-04-30"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 41,
+    "Zahl3": 14,
+    "Zahl4": 40,
+    "Zahl5": 34,
+    "Zahl6": 2,
+    "Superzahl": 3,
+    "date": "2014-05-03"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 1,
+    "Zahl3": 23,
+    "Zahl4": 30,
+    "Zahl5": 28,
+    "Zahl6": 19,
+    "Superzahl": 9,
+    "date": "2014-05-07"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 21,
+    "Zahl3": 42,
+    "Zahl4": 9,
+    "Zahl5": 11,
+    "Zahl6": 20,
+    "Superzahl": 1,
+    "date": "2014-05-10"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 32,
+    "Zahl3": 39,
+    "Zahl4": 22,
+    "Zahl5": 30,
+    "Zahl6": 7,
+    "Superzahl": 8,
+    "date": "2014-05-14"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 9,
+    "Zahl3": 37,
+    "Zahl4": 21,
+    "Zahl5": 42,
+    "Zahl6": 24,
+    "Superzahl": 9,
+    "date": "2014-05-17"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 21,
+    "Zahl3": 2,
+    "Zahl4": 16,
+    "Zahl5": 5,
+    "Zahl6": 31,
+    "Superzahl": 4,
+    "date": "2014-05-21"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 34,
+    "Zahl3": 7,
+    "Zahl4": 16,
+    "Zahl5": 27,
+    "Zahl6": 13,
+    "Superzahl": 9,
+    "date": "2014-05-24"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 29,
+    "Zahl3": 13,
+    "Zahl4": 44,
+    "Zahl5": 40,
+    "Zahl6": 10,
+    "Superzahl": 0,
+    "date": "2014-05-28"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 31,
+    "Zahl3": 19,
+    "Zahl4": 13,
+    "Zahl5": 41,
+    "Zahl6": 5,
+    "Superzahl": 5,
+    "date": "2014-05-31"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 24,
+    "Zahl3": 20,
+    "Zahl4": 21,
+    "Zahl5": 43,
+    "Zahl6": 28,
+    "Superzahl": 0,
+    "date": "2014-06-04"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 12,
+    "Zahl3": 47,
+    "Zahl4": 35,
+    "Zahl5": 27,
+    "Zahl6": 23,
+    "Superzahl": 2,
+    "date": "2014-06-07"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 11,
+    "Zahl3": 3,
+    "Zahl4": 6,
+    "Zahl5": 44,
+    "Zahl6": 21,
+    "Superzahl": 1,
+    "date": "2014-06-11"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 42,
+    "Zahl3": 6,
+    "Zahl4": 11,
+    "Zahl5": 12,
+    "Zahl6": 47,
+    "Superzahl": 5,
+    "date": "2014-06-14"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 20,
+    "Zahl3": 43,
+    "Zahl4": 33,
+    "Zahl5": 38,
+    "Zahl6": 28,
+    "Superzahl": 5,
+    "date": "2014-06-18"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 30,
+    "Zahl3": 12,
+    "Zahl4": 32,
+    "Zahl5": 44,
+    "Zahl6": 21,
+    "Superzahl": 5,
+    "date": "2014-06-21"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 1,
+    "Zahl3": 7,
+    "Zahl4": 6,
+    "Zahl5": 13,
+    "Zahl6": 28,
+    "Superzahl": 4,
+    "date": "2014-06-25"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 39,
+    "Zahl3": 2,
+    "Zahl4": 32,
+    "Zahl5": 18,
+    "Zahl6": 26,
+    "Superzahl": 3,
+    "date": "2014-06-28"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 15,
+    "Zahl3": 10,
+    "Zahl4": 41,
+    "Zahl5": 44,
+    "Zahl6": 6,
+    "Superzahl": 8,
+    "date": "2014-07-02"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 22,
+    "Zahl3": 41,
+    "Zahl4": 6,
+    "Zahl5": 24,
+    "Zahl6": 10,
+    "Superzahl": 0,
+    "date": "2014-07-05"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 3,
+    "Zahl3": 45,
+    "Zahl4": 25,
+    "Zahl5": 4,
+    "Zahl6": 18,
+    "Superzahl": 3,
+    "date": "2014-07-09"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 26,
+    "Zahl3": 17,
+    "Zahl4": 5,
+    "Zahl5": 29,
+    "Zahl6": 37,
+    "Superzahl": 2,
+    "date": "2014-07-12"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 26,
+    "Zahl3": 41,
+    "Zahl4": 17,
+    "Zahl5": 31,
+    "Zahl6": 3,
+    "Superzahl": 5,
+    "date": "2014-07-16"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 19,
+    "Zahl3": 49,
+    "Zahl4": 5,
+    "Zahl5": 34,
+    "Zahl6": 6,
+    "Superzahl": 0,
+    "date": "2014-07-19"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 25,
+    "Zahl3": 15,
+    "Zahl4": 9,
+    "Zahl5": 38,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2014-07-23"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 33,
+    "Zahl3": 38,
+    "Zahl4": 30,
+    "Zahl5": 14,
+    "Zahl6": 28,
+    "Superzahl": 7,
+    "date": "2014-07-26"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 37,
+    "Zahl3": 13,
+    "Zahl4": 12,
+    "Zahl5": 10,
+    "Zahl6": 11,
+    "Superzahl": 3,
+    "date": "2014-07-30"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 6,
+    "Zahl3": 41,
+    "Zahl4": 8,
+    "Zahl5": 20,
+    "Zahl6": 40,
+    "Superzahl": 7,
+    "date": "2014-08-02"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 31,
+    "Zahl3": 45,
+    "Zahl4": 21,
+    "Zahl5": 5,
+    "Zahl6": 7,
+    "Superzahl": 1,
+    "date": "2014-08-06"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 22,
+    "Zahl3": 3,
+    "Zahl4": 40,
+    "Zahl5": 11,
+    "Zahl6": 37,
+    "Superzahl": 5,
+    "date": "2014-08-09"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 41,
+    "Zahl3": 46,
+    "Zahl4": 3,
+    "Zahl5": 30,
+    "Zahl6": 24,
+    "Superzahl": 6,
+    "date": "2014-08-13"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 49,
+    "Zahl3": 29,
+    "Zahl4": 2,
+    "Zahl5": 15,
+    "Zahl6": 5,
+    "Superzahl": 8,
+    "date": "2014-08-16"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 3,
+    "Zahl3": 28,
+    "Zahl4": 1,
+    "Zahl5": 22,
+    "Zahl6": 31,
+    "Superzahl": 4,
+    "date": "2014-08-20"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 9,
+    "Zahl3": 23,
+    "Zahl4": 10,
+    "Zahl5": 18,
+    "Zahl6": 36,
+    "Superzahl": 7,
+    "date": "2014-08-23"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 29,
+    "Zahl3": 14,
+    "Zahl4": 15,
+    "Zahl5": 47,
+    "Zahl6": 16,
+    "Superzahl": 5,
+    "date": "2014-08-27"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 14,
+    "Zahl3": 25,
+    "Zahl4": 18,
+    "Zahl5": 43,
+    "Zahl6": 39,
+    "Superzahl": 3,
+    "date": "2014-08-30"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 40,
+    "Zahl3": 19,
+    "Zahl4": 18,
+    "Zahl5": 47,
+    "Zahl6": 39,
+    "Superzahl": 2,
+    "date": "2014-09-03"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 6,
+    "Zahl3": 33,
+    "Zahl4": 18,
+    "Zahl5": 11,
+    "Zahl6": 32,
+    "Superzahl": 6,
+    "date": "2014-09-06"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 8,
+    "Zahl3": 32,
+    "Zahl4": 24,
+    "Zahl5": 38,
+    "Zahl6": 23,
+    "Superzahl": 3,
+    "date": "2014-09-10"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 11,
+    "Zahl3": 33,
+    "Zahl4": 39,
+    "Zahl5": 7,
+    "Zahl6": 27,
+    "Superzahl": 3,
+    "date": "2014-09-13"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 38,
+    "Zahl3": 49,
+    "Zahl4": 44,
+    "Zahl5": 16,
+    "Zahl6": 43,
+    "Superzahl": 9,
+    "date": "2014-09-17"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 47,
+    "Zahl3": 1,
+    "Zahl4": 14,
+    "Zahl5": 6,
+    "Zahl6": 40,
+    "Superzahl": 6,
+    "date": "2014-09-20"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 31,
+    "Zahl3": 4,
+    "Zahl4": 35,
+    "Zahl5": 36,
+    "Zahl6": 46,
+    "Superzahl": 3,
+    "date": "2014-09-24"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 39,
+    "Zahl3": 19,
+    "Zahl4": 13,
+    "Zahl5": 16,
+    "Zahl6": 48,
+    "Superzahl": 5,
+    "date": "2014-09-27"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 23,
+    "Zahl3": 3,
+    "Zahl4": 21,
+    "Zahl5": 42,
+    "Zahl6": 39,
+    "Superzahl": 4,
+    "date": "2014-10-01"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 4,
+    "Zahl3": 31,
+    "Zahl4": 7,
+    "Zahl5": 24,
+    "Zahl6": 45,
+    "Superzahl": 6,
+    "date": "2014-10-04"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 34,
+    "Zahl3": 37,
+    "Zahl4": 32,
+    "Zahl5": 6,
+    "Zahl6": 19,
+    "Superzahl": 8,
+    "date": "2014-10-08"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 44,
+    "Zahl3": 36,
+    "Zahl4": 34,
+    "Zahl5": 32,
+    "Zahl6": 23,
+    "Superzahl": 0,
+    "date": "2014-10-11"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 14,
+    "Zahl3": 16,
+    "Zahl4": 27,
+    "Zahl5": 12,
+    "Zahl6": 26,
+    "Superzahl": 9,
+    "date": "2014-10-15"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 11,
+    "Zahl3": 27,
+    "Zahl4": 48,
+    "Zahl5": 30,
+    "Zahl6": 29,
+    "Superzahl": 0,
+    "date": "2014-10-18"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 42,
+    "Zahl3": 49,
+    "Zahl4": 25,
+    "Zahl5": 35,
+    "Zahl6": 1,
+    "Superzahl": 1,
+    "date": "2014-10-22"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 22,
+    "Zahl3": 28,
+    "Zahl4": 23,
+    "Zahl5": 35,
+    "Zahl6": 30,
+    "Superzahl": 8,
+    "date": "2014-10-25"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 26,
+    "Zahl3": 4,
+    "Zahl4": 21,
+    "Zahl5": 9,
+    "Zahl6": 43,
+    "Superzahl": 4,
+    "date": "2014-10-29"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 4,
+    "Zahl3": 14,
+    "Zahl4": 48,
+    "Zahl5": 41,
+    "Zahl6": 30,
+    "Superzahl": 7,
+    "date": "2014-11-01"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 49,
+    "Zahl3": 6,
+    "Zahl4": 31,
+    "Zahl5": 8,
+    "Zahl6": 33,
+    "Superzahl": 9,
+    "date": "2014-11-05"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 45,
+    "Zahl3": 1,
+    "Zahl4": 8,
+    "Zahl5": 9,
+    "Zahl6": 13,
+    "Superzahl": 8,
+    "date": "2014-11-08"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 24,
+    "Zahl3": 32,
+    "Zahl4": 47,
+    "Zahl5": 37,
+    "Zahl6": 14,
+    "Superzahl": 2,
+    "date": "2014-11-12"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 25,
+    "Zahl3": 13,
+    "Zahl4": 14,
+    "Zahl5": 10,
+    "Zahl6": 19,
+    "Superzahl": 6,
+    "date": "2014-11-15"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 18,
+    "Zahl3": 26,
+    "Zahl4": 5,
+    "Zahl5": 34,
+    "Zahl6": 4,
+    "Superzahl": 0,
+    "date": "2014-11-19"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 6,
+    "Zahl3": 25,
+    "Zahl4": 5,
+    "Zahl5": 1,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2014-11-22"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 33,
+    "Zahl3": 8,
+    "Zahl4": 32,
+    "Zahl5": 24,
+    "Zahl6": 11,
+    "Superzahl": 6,
+    "date": "2014-11-26"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 17,
+    "Zahl3": 46,
+    "Zahl4": 30,
+    "Zahl5": 7,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2014-11-29"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 23,
+    "Zahl3": 35,
+    "Zahl4": 10,
+    "Zahl5": 14,
+    "Zahl6": 32,
+    "Superzahl": 3,
+    "date": "2014-12-03"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 29,
+    "Zahl3": 16,
+    "Zahl4": 21,
+    "Zahl5": 44,
+    "Zahl6": 47,
+    "Superzahl": 2,
+    "date": "2014-12-06"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 11,
+    "Zahl3": 22,
+    "Zahl4": 30,
+    "Zahl5": 9,
+    "Zahl6": 41,
+    "Superzahl": 6,
+    "date": "2014-12-10"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 5,
+    "Zahl3": 26,
+    "Zahl4": 43,
+    "Zahl5": 8,
+    "Zahl6": 18,
+    "Superzahl": 6,
+    "date": "2014-12-13"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 46,
+    "Zahl3": 44,
+    "Zahl4": 17,
+    "Zahl5": 16,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2014-12-17"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 32,
+    "Zahl3": 6,
+    "Zahl4": 10,
+    "Zahl5": 24,
+    "Zahl6": 3,
+    "Superzahl": 9,
+    "date": "2014-12-20"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 33,
+    "Zahl3": 38,
+    "Zahl4": 14,
+    "Zahl5": 45,
+    "Zahl6": 25,
+    "Superzahl": 5,
+    "date": "2014-12-24"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 43,
+    "Zahl3": 10,
+    "Zahl4": 44,
+    "Zahl5": 36,
+    "Zahl6": 48,
+    "Superzahl": 7,
+    "date": "2014-12-27"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 22,
+    "Zahl3": 49,
+    "Zahl4": 20,
+    "Zahl5": 15,
+    "Zahl6": 39,
+    "Superzahl": 7,
+    "date": "2014-12-31"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 37,
+    "Zahl3": 17,
+    "Zahl4": 36,
+    "Zahl5": 38,
+    "Zahl6": 28,
+    "Superzahl": 6,
+    "date": "2015-01-03"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 46,
+    "Zahl3": 41,
+    "Zahl4": 42,
+    "Zahl5": 10,
+    "Zahl6": 43,
+    "Superzahl": 3,
+    "date": "2015-01-07"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 5,
+    "Zahl3": 32,
+    "Zahl4": 19,
+    "Zahl5": 20,
+    "Zahl6": 11,
+    "Superzahl": 6,
+    "date": "2015-01-10"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 19,
+    "Zahl3": 38,
+    "Zahl4": 1,
+    "Zahl5": 46,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2015-01-14"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 29,
+    "Zahl3": 22,
+    "Zahl4": 47,
+    "Zahl5": 11,
+    "Zahl6": 46,
+    "Superzahl": 1,
+    "date": "2015-01-17"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 11,
+    "Zahl3": 48,
+    "Zahl4": 15,
+    "Zahl5": 12,
+    "Zahl6": 29,
+    "Superzahl": 9,
+    "date": "2015-01-21"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 27,
+    "Zahl3": 7,
+    "Zahl4": 37,
+    "Zahl5": 47,
+    "Zahl6": 1,
+    "Superzahl": 8,
+    "date": "2015-01-24"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 43,
+    "Zahl3": 22,
+    "Zahl4": 8,
+    "Zahl5": 47,
+    "Zahl6": 6,
+    "Superzahl": 6,
+    "date": "2015-01-28"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 47,
+    "Zahl3": 42,
+    "Zahl4": 7,
+    "Zahl5": 45,
+    "Zahl6": 27,
+    "Superzahl": 5,
+    "date": "2015-01-31"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 22,
+    "Zahl3": 37,
+    "Zahl4": 40,
+    "Zahl5": 49,
+    "Zahl6": 21,
+    "Superzahl": 2,
+    "date": "2015-02-04"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 25,
+    "Zahl3": 12,
+    "Zahl4": 14,
+    "Zahl5": 23,
+    "Zahl6": 13,
+    "Superzahl": 9,
+    "date": "2015-02-07"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 27,
+    "Zahl3": 28,
+    "Zahl4": 25,
+    "Zahl5": 6,
+    "Zahl6": 47,
+    "Superzahl": 5,
+    "date": "2015-02-11"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 36,
+    "Zahl3": 29,
+    "Zahl4": 21,
+    "Zahl5": 41,
+    "Zahl6": 23,
+    "Superzahl": 3,
+    "date": "2015-02-14"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 24,
+    "Zahl3": 31,
+    "Zahl4": 46,
+    "Zahl5": 42,
+    "Zahl6": 27,
+    "Superzahl": 6,
+    "date": "2015-02-18"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 18,
+    "Zahl3": 3,
+    "Zahl4": 31,
+    "Zahl5": 35,
+    "Zahl6": 42,
+    "Superzahl": 1,
+    "date": "2015-02-21"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 38,
+    "Zahl3": 43,
+    "Zahl4": 25,
+    "Zahl5": 30,
+    "Zahl6": 27,
+    "Superzahl": 0,
+    "date": "2015-02-25"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 45,
+    "Zahl3": 41,
+    "Zahl4": 49,
+    "Zahl5": 20,
+    "Zahl6": 25,
+    "Superzahl": 0,
+    "date": "2015-02-28"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 16,
+    "Zahl3": 48,
+    "Zahl4": 22,
+    "Zahl5": 46,
+    "Zahl6": 36,
+    "Superzahl": 7,
+    "date": "2015-03-04"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 19,
+    "Zahl3": 41,
+    "Zahl4": 16,
+    "Zahl5": 7,
+    "Zahl6": 1,
+    "Superzahl": 5,
+    "date": "2015-03-07"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 8,
+    "Zahl3": 42,
+    "Zahl4": 10,
+    "Zahl5": 32,
+    "Zahl6": 28,
+    "Superzahl": 6,
+    "date": "2015-03-11"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 43,
+    "Zahl3": 48,
+    "Zahl4": 39,
+    "Zahl5": 21,
+    "Zahl6": 23,
+    "Superzahl": 1,
+    "date": "2015-03-14"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 6,
+    "Zahl3": 23,
+    "Zahl4": 25,
+    "Zahl5": 46,
+    "Zahl6": 12,
+    "Superzahl": 9,
+    "date": "2015-03-18"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 4,
+    "Zahl3": 5,
+    "Zahl4": 19,
+    "Zahl5": 41,
+    "Zahl6": 3,
+    "Superzahl": 1,
+    "date": "2015-03-21"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 13,
+    "Zahl3": 39,
+    "Zahl4": 19,
+    "Zahl5": 16,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2015-03-25"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 7,
+    "Zahl3": 46,
+    "Zahl4": 26,
+    "Zahl5": 6,
+    "Zahl6": 27,
+    "Superzahl": 4,
+    "date": "2015-03-28"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 29,
+    "Zahl3": 38,
+    "Zahl4": 7,
+    "Zahl5": 16,
+    "Zahl6": 32,
+    "Superzahl": 8,
+    "date": "2015-04-01"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 23,
+    "Zahl3": 34,
+    "Zahl4": 12,
+    "Zahl5": 28,
+    "Zahl6": 20,
+    "Superzahl": 8,
+    "date": "2015-04-04"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 44,
+    "Zahl3": 41,
+    "Zahl4": 37,
+    "Zahl5": 14,
+    "Zahl6": 47,
+    "Superzahl": 9,
+    "date": "2015-04-08"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 47,
+    "Zahl3": 36,
+    "Zahl4": 2,
+    "Zahl5": 15,
+    "Zahl6": 11,
+    "Superzahl": 6,
+    "date": "2015-04-11"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 39,
+    "Zahl3": 46,
+    "Zahl4": 29,
+    "Zahl5": 14,
+    "Zahl6": 37,
+    "Superzahl": 7,
+    "date": "2015-04-15"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 44,
+    "Zahl3": 3,
+    "Zahl4": 17,
+    "Zahl5": 39,
+    "Zahl6": 14,
+    "Superzahl": 7,
+    "date": "2015-04-18"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 21,
+    "Zahl3": 11,
+    "Zahl4": 22,
+    "Zahl5": 35,
+    "Zahl6": 4,
+    "Superzahl": 7,
+    "date": "2015-04-22"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 1,
+    "Zahl3": 36,
+    "Zahl4": 7,
+    "Zahl5": 11,
+    "Zahl6": 23,
+    "Superzahl": 6,
+    "date": "2015-04-25"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 38,
+    "Zahl3": 41,
+    "Zahl4": 7,
+    "Zahl5": 20,
+    "Zahl6": 9,
+    "Superzahl": 6,
+    "date": "2015-04-29"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 18,
+    "Zahl3": 45,
+    "Zahl4": 9,
+    "Zahl5": 6,
+    "Zahl6": 7,
+    "Superzahl": 9,
+    "date": "2015-05-02"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 6,
+    "Zahl3": 26,
+    "Zahl4": 2,
+    "Zahl5": 40,
+    "Zahl6": 43,
+    "Superzahl": 7,
+    "date": "2015-05-06"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 29,
+    "Zahl3": 35,
+    "Zahl4": 14,
+    "Zahl5": 41,
+    "Zahl6": 13,
+    "Superzahl": 3,
+    "date": "2015-05-09"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 20,
+    "Zahl3": 49,
+    "Zahl4": 3,
+    "Zahl5": 7,
+    "Zahl6": 27,
+    "Superzahl": 1,
+    "date": "2015-05-13"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 16,
+    "Zahl3": 15,
+    "Zahl4": 47,
+    "Zahl5": 14,
+    "Zahl6": 40,
+    "Superzahl": 5,
+    "date": "2015-05-16"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 38,
+    "Zahl3": 26,
+    "Zahl4": 2,
+    "Zahl5": 11,
+    "Zahl6": 30,
+    "Superzahl": 7,
+    "date": "2015-05-20"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 46,
+    "Zahl3": 4,
+    "Zahl4": 6,
+    "Zahl5": 14,
+    "Zahl6": 27,
+    "Superzahl": 0,
+    "date": "2015-05-23"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 11,
+    "Zahl3": 14,
+    "Zahl4": 29,
+    "Zahl5": 8,
+    "Zahl6": 12,
+    "Superzahl": 2,
+    "date": "2015-05-27"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 3,
+    "Zahl3": 24,
+    "Zahl4": 2,
+    "Zahl5": 44,
+    "Zahl6": 11,
+    "Superzahl": 0,
+    "date": "2015-05-30"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 20,
+    "Zahl3": 37,
+    "Zahl4": 23,
+    "Zahl5": 8,
+    "Zahl6": 24,
+    "Superzahl": 6,
+    "date": "2015-06-03"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 22,
+    "Zahl3": 29,
+    "Zahl4": 48,
+    "Zahl5": 41,
+    "Zahl6": 16,
+    "Superzahl": 0,
+    "date": "2015-06-06"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 34,
+    "Zahl3": 12,
+    "Zahl4": 2,
+    "Zahl5": 40,
+    "Zahl6": 22,
+    "Superzahl": 0,
+    "date": "2015-06-10"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 5,
+    "Zahl3": 4,
+    "Zahl4": 26,
+    "Zahl5": 1,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2015-06-13"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 15,
+    "Zahl3": 48,
+    "Zahl4": 8,
+    "Zahl5": 37,
+    "Zahl6": 41,
+    "Superzahl": 2,
+    "date": "2015-06-17"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 21,
+    "Zahl3": 32,
+    "Zahl4": 38,
+    "Zahl5": 16,
+    "Zahl6": 35,
+    "Superzahl": 4,
+    "date": "2015-06-20"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 16,
+    "Zahl3": 20,
+    "Zahl4": 31,
+    "Zahl5": 45,
+    "Zahl6": 42,
+    "Superzahl": 3,
+    "date": "2015-06-24"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 33,
+    "Zahl3": 29,
+    "Zahl4": 19,
+    "Zahl5": 3,
+    "Zahl6": 28,
+    "Superzahl": 7,
+    "date": "2015-06-27"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 11,
+    "Zahl3": 35,
+    "Zahl4": 41,
+    "Zahl5": 10,
+    "Zahl6": 37,
+    "Superzahl": 2,
+    "date": "2015-07-01"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 17,
+    "Zahl3": 42,
+    "Zahl4": 14,
+    "Zahl5": 32,
+    "Zahl6": 18,
+    "Superzahl": 1,
+    "date": "2015-07-04"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 33,
+    "Zahl3": 5,
+    "Zahl4": 38,
+    "Zahl5": 12,
+    "Zahl6": 39,
+    "Superzahl": 4,
+    "date": "2015-07-08"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 19,
+    "Zahl3": 11,
+    "Zahl4": 42,
+    "Zahl5": 20,
+    "Zahl6": 35,
+    "Superzahl": 9,
+    "date": "2015-07-11"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 18,
+    "Zahl3": 34,
+    "Zahl4": 48,
+    "Zahl5": 45,
+    "Zahl6": 9,
+    "Superzahl": 2,
+    "date": "2015-07-15"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 18,
+    "Zahl3": 31,
+    "Zahl4": 30,
+    "Zahl5": 5,
+    "Zahl6": 42,
+    "Superzahl": 6,
+    "date": "2015-07-18"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 22,
+    "Zahl3": 18,
+    "Zahl4": 33,
+    "Zahl5": 20,
+    "Zahl6": 19,
+    "Superzahl": 7,
+    "date": "2015-07-22"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 46,
+    "Zahl3": 41,
+    "Zahl4": 4,
+    "Zahl5": 47,
+    "Zahl6": 17,
+    "Superzahl": 6,
+    "date": "2015-07-25"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 30,
+    "Zahl3": 37,
+    "Zahl4": 25,
+    "Zahl5": 18,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2015-07-29"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 20,
+    "Zahl3": 31,
+    "Zahl4": 16,
+    "Zahl5": 7,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2015-08-01"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 15,
+    "Zahl3": 10,
+    "Zahl4": 38,
+    "Zahl5": 35,
+    "Zahl6": 39,
+    "Superzahl": 1,
+    "date": "2015-08-05"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 13,
+    "Zahl3": 29,
+    "Zahl4": 48,
+    "Zahl5": 36,
+    "Zahl6": 7,
+    "Superzahl": 0,
+    "date": "2015-08-08"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 10,
+    "Zahl3": 6,
+    "Zahl4": 15,
+    "Zahl5": 28,
+    "Zahl6": 24,
+    "Superzahl": 9,
+    "date": "2015-08-12"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 42,
+    "Zahl3": 26,
+    "Zahl4": 14,
+    "Zahl5": 3,
+    "Zahl6": 30,
+    "Superzahl": 3,
+    "date": "2015-08-15"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 28,
+    "Zahl3": 22,
+    "Zahl4": 48,
+    "Zahl5": 38,
+    "Zahl6": 16,
+    "Superzahl": 2,
+    "date": "2015-08-19"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 46,
+    "Zahl3": 26,
+    "Zahl4": 44,
+    "Zahl5": 3,
+    "Zahl6": 45,
+    "Superzahl": 7,
+    "date": "2015-08-22"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 26,
+    "Zahl3": 36,
+    "Zahl4": 42,
+    "Zahl5": 16,
+    "Zahl6": 30,
+    "Superzahl": 2,
+    "date": "2015-08-26"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 8,
+    "Zahl3": 28,
+    "Zahl4": 16,
+    "Zahl5": 12,
+    "Zahl6": 44,
+    "Superzahl": 8,
+    "date": "2015-08-29"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 16,
+    "Zahl3": 35,
+    "Zahl4": 18,
+    "Zahl5": 3,
+    "Zahl6": 20,
+    "Superzahl": 1,
+    "date": "2015-09-02"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 47,
+    "Zahl3": 43,
+    "Zahl4": 13,
+    "Zahl5": 22,
+    "Zahl6": 12,
+    "Superzahl": 1,
+    "date": "2015-09-05"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 19,
+    "Zahl3": 44,
+    "Zahl4": 26,
+    "Zahl5": 46,
+    "Zahl6": 28,
+    "Superzahl": 2,
+    "date": "2015-09-09"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 2,
+    "Zahl3": 28,
+    "Zahl4": 26,
+    "Zahl5": 22,
+    "Zahl6": 15,
+    "Superzahl": 5,
+    "date": "2015-09-12"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 1,
+    "Zahl3": 24,
+    "Zahl4": 5,
+    "Zahl5": 42,
+    "Zahl6": 4,
+    "Superzahl": 2,
+    "date": "2015-09-16"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 17,
+    "Zahl3": 12,
+    "Zahl4": 37,
+    "Zahl5": 44,
+    "Zahl6": 29,
+    "Superzahl": 3,
+    "date": "2015-09-19"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 24,
+    "Zahl3": 14,
+    "Zahl4": 18,
+    "Zahl5": 10,
+    "Zahl6": 44,
+    "Superzahl": 9,
+    "date": "2015-09-23"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 6,
+    "Zahl3": 33,
+    "Zahl4": 31,
+    "Zahl5": 16,
+    "Zahl6": 15,
+    "Superzahl": 7,
+    "date": "2015-09-26"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 39,
+    "Zahl3": 49,
+    "Zahl4": 2,
+    "Zahl5": 1,
+    "Zahl6": 22,
+    "Superzahl": 8,
+    "date": "2015-09-30"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 31,
+    "Zahl3": 40,
+    "Zahl4": 32,
+    "Zahl5": 33,
+    "Zahl6": 18,
+    "Superzahl": 8,
+    "date": "2015-10-03"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 33,
+    "Zahl3": 28,
+    "Zahl4": 7,
+    "Zahl5": 11,
+    "Zahl6": 12,
+    "Superzahl": 4,
+    "date": "2015-10-07"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 40,
+    "Zahl3": 26,
+    "Zahl4": 5,
+    "Zahl5": 38,
+    "Zahl6": 37,
+    "Superzahl": 1,
+    "date": "2015-10-10"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 28,
+    "Zahl3": 17,
+    "Zahl4": 15,
+    "Zahl5": 41,
+    "Zahl6": 29,
+    "Superzahl": 5,
+    "date": "2015-10-14"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 41,
+    "Zahl3": 10,
+    "Zahl4": 19,
+    "Zahl5": 23,
+    "Zahl6": 9,
+    "Superzahl": 0,
+    "date": "2015-10-17"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 4,
+    "Zahl3": 24,
+    "Zahl4": 39,
+    "Zahl5": 49,
+    "Zahl6": 18,
+    "Superzahl": 2,
+    "date": "2015-10-21"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 6,
+    "Zahl3": 36,
+    "Zahl4": 4,
+    "Zahl5": 29,
+    "Zahl6": 22,
+    "Superzahl": 2,
+    "date": "2015-10-24"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 29,
+    "Zahl3": 49,
+    "Zahl4": 1,
+    "Zahl5": 18,
+    "Zahl6": 33,
+    "Superzahl": 0,
+    "date": "2015-10-28"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 7,
+    "Zahl3": 17,
+    "Zahl4": 26,
+    "Zahl5": 40,
+    "Zahl6": 9,
+    "Superzahl": 9,
+    "date": "2015-10-31"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 40,
+    "Zahl3": 45,
+    "Zahl4": 24,
+    "Zahl5": 33,
+    "Zahl6": 5,
+    "Superzahl": 6,
+    "date": "2015-11-04"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 4,
+    "Zahl3": 25,
+    "Zahl4": 39,
+    "Zahl5": 17,
+    "Zahl6": 48,
+    "Superzahl": 4,
+    "date": "2015-11-07"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 28,
+    "Zahl3": 15,
+    "Zahl4": 14,
+    "Zahl5": 25,
+    "Zahl6": 20,
+    "Superzahl": 3,
+    "date": "2015-11-11"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 48,
+    "Zahl3": 29,
+    "Zahl4": 8,
+    "Zahl5": 1,
+    "Zahl6": 24,
+    "Superzahl": 3,
+    "date": "2015-11-14"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 48,
+    "Zahl3": 33,
+    "Zahl4": 19,
+    "Zahl5": 49,
+    "Zahl6": 9,
+    "Superzahl": 9,
+    "date": "2015-11-18"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 42,
+    "Zahl3": 46,
+    "Zahl4": 23,
+    "Zahl5": 17,
+    "Zahl6": 29,
+    "Superzahl": 8,
+    "date": "2015-11-21"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 43,
+    "Zahl3": 36,
+    "Zahl4": 19,
+    "Zahl5": 46,
+    "Zahl6": 41,
+    "Superzahl": 9,
+    "date": "2015-11-25"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 6,
+    "Zahl3": 3,
+    "Zahl4": 24,
+    "Zahl5": 37,
+    "Zahl6": 47,
+    "Superzahl": 1,
+    "date": "2015-11-28"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 31,
+    "Zahl3": 12,
+    "Zahl4": 44,
+    "Zahl5": 3,
+    "Zahl6": 26,
+    "Superzahl": 8,
+    "date": "2015-12-02"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 29,
+    "Zahl3": 35,
+    "Zahl4": 42,
+    "Zahl5": 47,
+    "Zahl6": 6,
+    "Superzahl": 7,
+    "date": "2015-12-05"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 3,
+    "Zahl3": 30,
+    "Zahl4": 44,
+    "Zahl5": 48,
+    "Zahl6": 32,
+    "Superzahl": 4,
+    "date": "2015-12-09"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 3,
+    "Zahl3": 43,
+    "Zahl4": 31,
+    "Zahl5": 1,
+    "Zahl6": 6,
+    "Superzahl": 6,
+    "date": "2015-12-12"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 27,
+    "Zahl3": 24,
+    "Zahl4": 13,
+    "Zahl5": 21,
+    "Zahl6": 36,
+    "Superzahl": 3,
+    "date": "2015-12-16"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 33,
+    "Zahl3": 10,
+    "Zahl4": 46,
+    "Zahl5": 7,
+    "Zahl6": 1,
+    "Superzahl": 1,
+    "date": "2015-12-19"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 13,
+    "Zahl3": 34,
+    "Zahl4": 47,
+    "Zahl5": 32,
+    "Zahl6": 18,
+    "Superzahl": 8,
+    "date": "2015-12-23"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 22,
+    "Zahl3": 40,
+    "Zahl4": 15,
+    "Zahl5": 19,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2015-12-26"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 17,
+    "Zahl3": 27,
+    "Zahl4": 45,
+    "Zahl5": 8,
+    "Zahl6": 26,
+    "Superzahl": 4,
+    "date": "2015-12-30"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 47,
+    "Zahl3": 23,
+    "Zahl4": 43,
+    "Zahl5": 30,
+    "Zahl6": 1,
+    "Superzahl": 8,
+    "date": "2016-01-02"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 3,
+    "Zahl3": 45,
+    "Zahl4": 36,
+    "Zahl5": 27,
+    "Zahl6": 42,
+    "Superzahl": 0,
+    "date": "2016-01-06"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 10,
+    "Zahl3": 31,
+    "Zahl4": 34,
+    "Zahl5": 46,
+    "Zahl6": 48,
+    "Superzahl": 6,
+    "date": "2016-01-09"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 18,
+    "Zahl3": 46,
+    "Zahl4": 35,
+    "Zahl5": 25,
+    "Zahl6": 19,
+    "Superzahl": 0,
+    "date": "2016-01-13"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 31,
+    "Zahl3": 34,
+    "Zahl4": 23,
+    "Zahl5": 39,
+    "Zahl6": 9,
+    "Superzahl": 8,
+    "date": "2016-01-16"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 14,
+    "Zahl3": 15,
+    "Zahl4": 19,
+    "Zahl5": 7,
+    "Zahl6": 46,
+    "Superzahl": 3,
+    "date": "2016-01-20"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 26,
+    "Zahl3": 40,
+    "Zahl4": 16,
+    "Zahl5": 2,
+    "Zahl6": 25,
+    "Superzahl": 0,
+    "date": "2016-01-23"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 16,
+    "Zahl3": 12,
+    "Zahl4": 47,
+    "Zahl5": 29,
+    "Zahl6": 19,
+    "Superzahl": 3,
+    "date": "2016-01-27"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 48,
+    "Zahl3": 33,
+    "Zahl4": 18,
+    "Zahl5": 34,
+    "Zahl6": 23,
+    "Superzahl": 9,
+    "date": "2016-01-30"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 47,
+    "Zahl3": 19,
+    "Zahl4": 33,
+    "Zahl5": 18,
+    "Zahl6": 31,
+    "Superzahl": 8,
+    "date": "2016-02-03"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 10,
+    "Zahl3": 28,
+    "Zahl4": 16,
+    "Zahl5": 34,
+    "Zahl6": 49,
+    "Superzahl": 5,
+    "date": "2016-02-06"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 38,
+    "Zahl3": 32,
+    "Zahl4": 19,
+    "Zahl5": 2,
+    "Zahl6": 17,
+    "Superzahl": 4,
+    "date": "2016-02-10"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 20,
+    "Zahl3": 18,
+    "Zahl4": 30,
+    "Zahl5": 43,
+    "Zahl6": 32,
+    "Superzahl": 8,
+    "date": "2016-02-13"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 39,
+    "Zahl3": 38,
+    "Zahl4": 26,
+    "Zahl5": 32,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2016-02-17"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 31,
+    "Zahl3": 1,
+    "Zahl4": 16,
+    "Zahl5": 30,
+    "Zahl6": 13,
+    "Superzahl": 6,
+    "date": "2016-02-20"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 13,
+    "Zahl3": 5,
+    "Zahl4": 47,
+    "Zahl5": 31,
+    "Zahl6": 23,
+    "Superzahl": 5,
+    "date": "2016-02-24"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 37,
+    "Zahl3": 10,
+    "Zahl4": 49,
+    "Zahl5": 7,
+    "Zahl6": 25,
+    "Superzahl": 7,
+    "date": "2016-02-27"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 40,
+    "Zahl3": 8,
+    "Zahl4": 10,
+    "Zahl5": 17,
+    "Zahl6": 1,
+    "Superzahl": 9,
+    "date": "2016-03-02"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 10,
+    "Zahl3": 46,
+    "Zahl4": 33,
+    "Zahl5": 7,
+    "Zahl6": 37,
+    "Superzahl": 3,
+    "date": "2016-03-05"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 32,
+    "Zahl3": 37,
+    "Zahl4": 13,
+    "Zahl5": 46,
+    "Zahl6": 10,
+    "Superzahl": 7,
+    "date": "2016-03-09"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 49,
+    "Zahl3": 30,
+    "Zahl4": 26,
+    "Zahl5": 20,
+    "Zahl6": 47,
+    "Superzahl": 4,
+    "date": "2016-03-12"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 9,
+    "Zahl3": 29,
+    "Zahl4": 35,
+    "Zahl5": 11,
+    "Zahl6": 46,
+    "Superzahl": 6,
+    "date": "2016-03-16"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 4,
+    "Zahl3": 15,
+    "Zahl4": 49,
+    "Zahl5": 44,
+    "Zahl6": 10,
+    "Superzahl": 5,
+    "date": "2016-03-19"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 16,
+    "Zahl3": 31,
+    "Zahl4": 22,
+    "Zahl5": 10,
+    "Zahl6": 9,
+    "Superzahl": 0,
+    "date": "2016-03-23"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 1,
+    "Zahl3": 41,
+    "Zahl4": 40,
+    "Zahl5": 3,
+    "Zahl6": 33,
+    "Superzahl": 5,
+    "date": "2016-03-26"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 5,
+    "Zahl3": 1,
+    "Zahl4": 41,
+    "Zahl5": 9,
+    "Zahl6": 26,
+    "Superzahl": 1,
+    "date": "2016-03-30"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 1,
+    "Zahl3": 23,
+    "Zahl4": 28,
+    "Zahl5": 17,
+    "Zahl6": 10,
+    "Superzahl": 6,
+    "date": "2016-04-02"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 30,
+    "Zahl3": 33,
+    "Zahl4": 42,
+    "Zahl5": 25,
+    "Zahl6": 19,
+    "Superzahl": 4,
+    "date": "2016-04-06"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 4,
+    "Zahl3": 47,
+    "Zahl4": 39,
+    "Zahl5": 38,
+    "Zahl6": 46,
+    "Superzahl": 2,
+    "date": "2016-04-09"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 17,
+    "Zahl3": 49,
+    "Zahl4": 36,
+    "Zahl5": 2,
+    "Zahl6": 35,
+    "Superzahl": 7,
+    "date": "2016-04-13"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 20,
+    "Zahl3": 15,
+    "Zahl4": 22,
+    "Zahl5": 5,
+    "Zahl6": 14,
+    "Superzahl": 9,
+    "date": "2016-04-16"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 49,
+    "Zahl3": 20,
+    "Zahl4": 13,
+    "Zahl5": 5,
+    "Zahl6": 11,
+    "Superzahl": 8,
+    "date": "2016-04-20"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 8,
+    "Zahl3": 27,
+    "Zahl4": 17,
+    "Zahl5": 35,
+    "Zahl6": 16,
+    "Superzahl": 4,
+    "date": "2016-04-23"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 1,
+    "Zahl3": 21,
+    "Zahl4": 37,
+    "Zahl5": 26,
+    "Zahl6": 9,
+    "Superzahl": 6,
+    "date": "2016-04-27"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 36,
+    "Zahl3": 30,
+    "Zahl4": 28,
+    "Zahl5": 14,
+    "Zahl6": 26,
+    "Superzahl": 6,
+    "date": "2016-04-30"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 35,
+    "Zahl3": 2,
+    "Zahl4": 39,
+    "Zahl5": 49,
+    "Zahl6": 14,
+    "Superzahl": 5,
+    "date": "2016-05-04"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 34,
+    "Zahl3": 42,
+    "Zahl4": 44,
+    "Zahl5": 32,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2016-05-07"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 41,
+    "Zahl3": 39,
+    "Zahl4": 10,
+    "Zahl5": 31,
+    "Zahl6": 19,
+    "Superzahl": 5,
+    "date": "2016-05-11"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 5,
+    "Zahl3": 13,
+    "Zahl4": 30,
+    "Zahl5": 44,
+    "Zahl6": 26,
+    "Superzahl": 9,
+    "date": "2016-05-14"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 31,
+    "Zahl3": 10,
+    "Zahl4": 19,
+    "Zahl5": 13,
+    "Zahl6": 26,
+    "Superzahl": 4,
+    "date": "2016-05-18"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 5,
+    "Zahl3": 46,
+    "Zahl4": 47,
+    "Zahl5": 2,
+    "Zahl6": 29,
+    "Superzahl": 4,
+    "date": "2016-05-21"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 10,
+    "Zahl3": 36,
+    "Zahl4": 21,
+    "Zahl5": 6,
+    "Zahl6": 9,
+    "Superzahl": 6,
+    "date": "2016-05-25"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 17,
+    "Zahl3": 5,
+    "Zahl4": 45,
+    "Zahl5": 39,
+    "Zahl6": 24,
+    "Superzahl": 3,
+    "date": "2016-05-28"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 35,
+    "Zahl3": 30,
+    "Zahl4": 40,
+    "Zahl5": 46,
+    "Zahl6": 19,
+    "Superzahl": 2,
+    "date": "2016-06-01"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 22,
+    "Zahl3": 35,
+    "Zahl4": 42,
+    "Zahl5": 31,
+    "Zahl6": 5,
+    "Superzahl": 3,
+    "date": "2016-06-04"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 44,
+    "Zahl3": 30,
+    "Zahl4": 2,
+    "Zahl5": 5,
+    "Zahl6": 33,
+    "Superzahl": 6,
+    "date": "2016-06-08"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 6,
+    "Zahl3": 13,
+    "Zahl4": 27,
+    "Zahl5": 21,
+    "Zahl6": 38,
+    "Superzahl": 5,
+    "date": "2016-06-11"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 12,
+    "Zahl3": 33,
+    "Zahl4": 48,
+    "Zahl5": 49,
+    "Zahl6": 13,
+    "Superzahl": 7,
+    "date": "2016-06-15"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 27,
+    "Zahl3": 2,
+    "Zahl4": 17,
+    "Zahl5": 12,
+    "Zahl6": 19,
+    "Superzahl": 1,
+    "date": "2016-06-18"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 43,
+    "Zahl3": 19,
+    "Zahl4": 8,
+    "Zahl5": 41,
+    "Zahl6": 40,
+    "Superzahl": 8,
+    "date": "2016-06-22"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 34,
+    "Zahl3": 11,
+    "Zahl4": 6,
+    "Zahl5": 44,
+    "Zahl6": 2,
+    "Superzahl": 3,
+    "date": "2016-06-25"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 49,
+    "Zahl3": 4,
+    "Zahl4": 5,
+    "Zahl5": 32,
+    "Zahl6": 28,
+    "Superzahl": 4,
+    "date": "2016-06-29"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 15,
+    "Zahl3": 26,
+    "Zahl4": 6,
+    "Zahl5": 8,
+    "Zahl6": 4,
+    "Superzahl": 9,
+    "date": "2016-07-02"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 38,
+    "Zahl3": 42,
+    "Zahl4": 4,
+    "Zahl5": 37,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2016-07-06"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 34,
+    "Zahl3": 1,
+    "Zahl4": 49,
+    "Zahl5": 37,
+    "Zahl6": 40,
+    "Superzahl": 7,
+    "date": "2016-07-09"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 27,
+    "Zahl3": 14,
+    "Zahl4": 20,
+    "Zahl5": 41,
+    "Zahl6": 10,
+    "Superzahl": 7,
+    "date": "2016-07-13"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 22,
+    "Zahl3": 34,
+    "Zahl4": 44,
+    "Zahl5": 30,
+    "Zahl6": 1,
+    "Superzahl": 5,
+    "date": "2016-07-16"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 28,
+    "Zahl3": 40,
+    "Zahl4": 1,
+    "Zahl5": 20,
+    "Zahl6": 49,
+    "Superzahl": 5,
+    "date": "2016-07-20"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 25,
+    "Zahl3": 29,
+    "Zahl4": 48,
+    "Zahl5": 5,
+    "Zahl6": 43,
+    "Superzahl": 5,
+    "date": "2016-07-23"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 5,
+    "Zahl3": 18,
+    "Zahl4": 6,
+    "Zahl5": 17,
+    "Zahl6": 7,
+    "Superzahl": 1,
+    "date": "2016-07-27"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 6,
+    "Zahl3": 30,
+    "Zahl4": 23,
+    "Zahl5": 13,
+    "Zahl6": 26,
+    "Superzahl": 2,
+    "date": "2016-07-30"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 26,
+    "Zahl3": 42,
+    "Zahl4": 43,
+    "Zahl5": 21,
+    "Zahl6": 15,
+    "Superzahl": 6,
+    "date": "2016-08-03"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 26,
+    "Zahl3": 45,
+    "Zahl4": 6,
+    "Zahl5": 47,
+    "Zahl6": 25,
+    "Superzahl": 0,
+    "date": "2016-08-06"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 23,
+    "Zahl3": 12,
+    "Zahl4": 49,
+    "Zahl5": 17,
+    "Zahl6": 43,
+    "Superzahl": 9,
+    "date": "2016-08-10"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 30,
+    "Zahl3": 28,
+    "Zahl4": 39,
+    "Zahl5": 14,
+    "Zahl6": 37,
+    "Superzahl": 2,
+    "date": "2016-08-13"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 2,
+    "Zahl3": 30,
+    "Zahl4": 34,
+    "Zahl5": 10,
+    "Zahl6": 49,
+    "Superzahl": 1,
+    "date": "2016-08-17"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 30,
+    "Zahl3": 31,
+    "Zahl4": 45,
+    "Zahl5": 28,
+    "Zahl6": 37,
+    "Superzahl": 5,
+    "date": "2016-08-20"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 48,
+    "Zahl3": 16,
+    "Zahl4": 14,
+    "Zahl5": 6,
+    "Zahl6": 35,
+    "Superzahl": 2,
+    "date": "2016-08-24"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 33,
+    "Zahl3": 32,
+    "Zahl4": 43,
+    "Zahl5": 22,
+    "Zahl6": 1,
+    "Superzahl": 9,
+    "date": "2016-08-27"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 31,
+    "Zahl3": 41,
+    "Zahl4": 37,
+    "Zahl5": 40,
+    "Zahl6": 3,
+    "Superzahl": 3,
+    "date": "2016-08-31"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 8,
+    "Zahl3": 25,
+    "Zahl4": 14,
+    "Zahl5": 36,
+    "Zahl6": 18,
+    "Superzahl": 1,
+    "date": "2016-09-03"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 27,
+    "Zahl3": 7,
+    "Zahl4": 11,
+    "Zahl5": 19,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2016-09-07"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 1,
+    "Zahl3": 24,
+    "Zahl4": 43,
+    "Zahl5": 11,
+    "Zahl6": 3,
+    "Superzahl": 0,
+    "date": "2016-09-10"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 35,
+    "Zahl3": 20,
+    "Zahl4": 3,
+    "Zahl5": 2,
+    "Zahl6": 15,
+    "Superzahl": 8,
+    "date": "2016-09-14"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 46,
+    "Zahl3": 35,
+    "Zahl4": 47,
+    "Zahl5": 37,
+    "Zahl6": 34,
+    "Superzahl": 2,
+    "date": "2016-09-17"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 24,
+    "Zahl3": 11,
+    "Zahl4": 18,
+    "Zahl5": 1,
+    "Zahl6": 8,
+    "Superzahl": 5,
+    "date": "2016-09-21"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 21,
+    "Zahl3": 32,
+    "Zahl4": 15,
+    "Zahl5": 18,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2016-09-24"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 44,
+    "Zahl3": 11,
+    "Zahl4": 15,
+    "Zahl5": 38,
+    "Zahl6": 46,
+    "Superzahl": 2,
+    "date": "2016-09-28"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 34,
+    "Zahl3": 25,
+    "Zahl4": 37,
+    "Zahl5": 7,
+    "Zahl6": 26,
+    "Superzahl": 1,
+    "date": "2016-10-01"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 6,
+    "Zahl3": 1,
+    "Zahl4": 28,
+    "Zahl5": 41,
+    "Zahl6": 5,
+    "Superzahl": 1,
+    "date": "2016-10-05"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 48,
+    "Zahl3": 14,
+    "Zahl4": 33,
+    "Zahl5": 32,
+    "Zahl6": 21,
+    "Superzahl": 5,
+    "date": "2016-10-08"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 35,
+    "Zahl3": 47,
+    "Zahl4": 39,
+    "Zahl5": 37,
+    "Zahl6": 22,
+    "Superzahl": 2,
+    "date": "2016-10-12"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 41,
+    "Zahl3": 13,
+    "Zahl4": 7,
+    "Zahl5": 38,
+    "Zahl6": 19,
+    "Superzahl": 9,
+    "date": "2016-10-15"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 42,
+    "Zahl3": 16,
+    "Zahl4": 40,
+    "Zahl5": 43,
+    "Zahl6": 32,
+    "Superzahl": 5,
+    "date": "2016-10-19"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 2,
+    "Zahl3": 32,
+    "Zahl4": 21,
+    "Zahl5": 36,
+    "Zahl6": 26,
+    "Superzahl": 7,
+    "date": "2016-10-22"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 11,
+    "Zahl3": 18,
+    "Zahl4": 44,
+    "Zahl5": 45,
+    "Zahl6": 15,
+    "Superzahl": 6,
+    "date": "2016-10-26"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 36,
+    "Zahl3": 8,
+    "Zahl4": 5,
+    "Zahl5": 7,
+    "Zahl6": 26,
+    "Superzahl": 8,
+    "date": "2016-10-29"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 30,
+    "Zahl3": 1,
+    "Zahl4": 26,
+    "Zahl5": 48,
+    "Zahl6": 12,
+    "Superzahl": 6,
+    "date": "2016-11-02"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 42,
+    "Zahl3": 9,
+    "Zahl4": 43,
+    "Zahl5": 32,
+    "Zahl6": 35,
+    "Superzahl": 8,
+    "date": "2016-11-05"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 20,
+    "Zahl3": 33,
+    "Zahl4": 6,
+    "Zahl5": 41,
+    "Zahl6": 13,
+    "Superzahl": 5,
+    "date": "2016-11-09"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 47,
+    "Zahl3": 6,
+    "Zahl4": 2,
+    "Zahl5": 19,
+    "Zahl6": 9,
+    "Superzahl": 1,
+    "date": "2016-11-12"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 39,
+    "Zahl3": 19,
+    "Zahl4": 20,
+    "Zahl5": 13,
+    "Zahl6": 44,
+    "Superzahl": 8,
+    "date": "2016-11-16"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 39,
+    "Zahl3": 38,
+    "Zahl4": 15,
+    "Zahl5": 6,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2016-11-19"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 31,
+    "Zahl3": 44,
+    "Zahl4": 28,
+    "Zahl5": 27,
+    "Zahl6": 4,
+    "Superzahl": 7,
+    "date": "2016-11-23"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 41,
+    "Zahl3": 26,
+    "Zahl4": 42,
+    "Zahl5": 32,
+    "Zahl6": 45,
+    "Superzahl": 9,
+    "date": "2016-11-26"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 12,
+    "Zahl3": 19,
+    "Zahl4": 10,
+    "Zahl5": 1,
+    "Zahl6": 47,
+    "Superzahl": 6,
+    "date": "2016-11-30"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 47,
+    "Zahl3": 48,
+    "Zahl4": 39,
+    "Zahl5": 43,
+    "Zahl6": 5,
+    "Superzahl": 9,
+    "date": "2016-12-03"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 40,
+    "Zahl3": 48,
+    "Zahl4": 13,
+    "Zahl5": 18,
+    "Zahl6": 36,
+    "Superzahl": 8,
+    "date": "2016-12-07"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 11,
+    "Zahl3": 17,
+    "Zahl4": 49,
+    "Zahl5": 32,
+    "Zahl6": 37,
+    "Superzahl": 3,
+    "date": "2016-12-10"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 34,
+    "Zahl3": 42,
+    "Zahl4": 33,
+    "Zahl5": 43,
+    "Zahl6": 44,
+    "Superzahl": 4,
+    "date": "2016-12-14"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 6,
+    "Zahl3": 35,
+    "Zahl4": 24,
+    "Zahl5": 28,
+    "Zahl6": 34,
+    "Superzahl": 2,
+    "date": "2016-12-17"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 3,
+    "Zahl3": 23,
+    "Zahl4": 38,
+    "Zahl5": 21,
+    "Zahl6": 39,
+    "Superzahl": 7,
+    "date": "2016-12-21"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 18,
+    "Zahl3": 22,
+    "Zahl4": 11,
+    "Zahl5": 45,
+    "Zahl6": 4,
+    "Superzahl": 1,
+    "date": "2016-12-24"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 22,
+    "Zahl3": 30,
+    "Zahl4": 29,
+    "Zahl5": 4,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2016-12-28"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 37,
+    "Zahl3": 27,
+    "Zahl4": 29,
+    "Zahl5": 45,
+    "Zahl6": 47,
+    "Superzahl": 3,
+    "date": "2016-12-31"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 5,
+    "Zahl3": 39,
+    "Zahl4": 37,
+    "Zahl5": 21,
+    "Zahl6": 13,
+    "Superzahl": 2,
+    "date": "2017-01-04"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 12,
+    "Zahl3": 14,
+    "Zahl4": 45,
+    "Zahl5": 17,
+    "Zahl6": 46,
+    "Superzahl": 7,
+    "date": "2017-01-07"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 32,
+    "Zahl3": 27,
+    "Zahl4": 38,
+    "Zahl5": 34,
+    "Zahl6": 20,
+    "Superzahl": 1,
+    "date": "2017-01-11"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 37,
+    "Zahl3": 27,
+    "Zahl4": 4,
+    "Zahl5": 3,
+    "Zahl6": 28,
+    "Superzahl": 3,
+    "date": "2017-01-14"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 40,
+    "Zahl3": 10,
+    "Zahl4": 28,
+    "Zahl5": 11,
+    "Zahl6": 13,
+    "Superzahl": 1,
+    "date": "2017-01-18"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 14,
+    "Zahl3": 11,
+    "Zahl4": 9,
+    "Zahl5": 5,
+    "Zahl6": 39,
+    "Superzahl": 9,
+    "date": "2017-01-21"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 49,
+    "Zahl3": 17,
+    "Zahl4": 14,
+    "Zahl5": 1,
+    "Zahl6": 2,
+    "Superzahl": 5,
+    "date": "2017-01-25"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 15,
+    "Zahl3": 6,
+    "Zahl4": 9,
+    "Zahl5": 42,
+    "Zahl6": 38,
+    "Superzahl": 7,
+    "date": "2017-01-28"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 19,
+    "Zahl3": 21,
+    "Zahl4": 13,
+    "Zahl5": 3,
+    "Zahl6": 42,
+    "Superzahl": 9,
+    "date": "2017-02-01"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 28,
+    "Zahl3": 39,
+    "Zahl4": 37,
+    "Zahl5": 16,
+    "Zahl6": 49,
+    "Superzahl": 8,
+    "date": "2017-02-04"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 28,
+    "Zahl3": 46,
+    "Zahl4": 41,
+    "Zahl5": 30,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2017-02-08"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 45,
+    "Zahl3": 46,
+    "Zahl4": 32,
+    "Zahl5": 3,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2017-02-11"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 7,
+    "Zahl3": 33,
+    "Zahl4": 13,
+    "Zahl5": 18,
+    "Zahl6": 36,
+    "Superzahl": 4,
+    "date": "2017-02-15"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 20,
+    "Zahl3": 41,
+    "Zahl4": 27,
+    "Zahl5": 17,
+    "Zahl6": 24,
+    "Superzahl": 9,
+    "date": "2017-02-18"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 25,
+    "Zahl3": 42,
+    "Zahl4": 1,
+    "Zahl5": 5,
+    "Zahl6": 7,
+    "Superzahl": 3,
+    "date": "2017-02-22"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 28,
+    "Zahl3": 1,
+    "Zahl4": 9,
+    "Zahl5": 3,
+    "Zahl6": 32,
+    "Superzahl": 4,
+    "date": "2017-02-25"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 31,
+    "Zahl3": 12,
+    "Zahl4": 22,
+    "Zahl5": 38,
+    "Zahl6": 29,
+    "Superzahl": 4,
+    "date": "2017-03-01"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 1,
+    "Zahl3": 41,
+    "Zahl4": 23,
+    "Zahl5": 19,
+    "Zahl6": 22,
+    "Superzahl": 2,
+    "date": "2017-03-04"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 35,
+    "Zahl3": 3,
+    "Zahl4": 26,
+    "Zahl5": 16,
+    "Zahl6": 28,
+    "Superzahl": 6,
+    "date": "2017-03-08"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 46,
+    "Zahl3": 12,
+    "Zahl4": 49,
+    "Zahl5": 17,
+    "Zahl6": 4,
+    "Superzahl": 8,
+    "date": "2017-03-11"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 26,
+    "Zahl3": 40,
+    "Zahl4": 7,
+    "Zahl5": 16,
+    "Zahl6": 25,
+    "Superzahl": 1,
+    "date": "2017-03-15"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 23,
+    "Zahl3": 40,
+    "Zahl4": 4,
+    "Zahl5": 12,
+    "Zahl6": 27,
+    "Superzahl": 0,
+    "date": "2017-03-18"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 18,
+    "Zahl3": 4,
+    "Zahl4": 38,
+    "Zahl5": 22,
+    "Zahl6": 21,
+    "Superzahl": 6,
+    "date": "2017-03-22"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 11,
+    "Zahl3": 26,
+    "Zahl4": 25,
+    "Zahl5": 49,
+    "Zahl6": 1,
+    "Superzahl": 6,
+    "date": "2017-03-25"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 21,
+    "Zahl3": 24,
+    "Zahl4": 47,
+    "Zahl5": 28,
+    "Zahl6": 9,
+    "Superzahl": 2,
+    "date": "2017-03-29"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 8,
+    "Zahl3": 36,
+    "Zahl4": 5,
+    "Zahl5": 18,
+    "Zahl6": 9,
+    "Superzahl": 8,
+    "date": "2017-04-01"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 22,
+    "Zahl3": 6,
+    "Zahl4": 49,
+    "Zahl5": 1,
+    "Zahl6": 7,
+    "Superzahl": 2,
+    "date": "2017-04-05"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 7,
+    "Zahl3": 40,
+    "Zahl4": 39,
+    "Zahl5": 2,
+    "Zahl6": 47,
+    "Superzahl": 1,
+    "date": "2017-04-08"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 48,
+    "Zahl3": 14,
+    "Zahl4": 10,
+    "Zahl5": 11,
+    "Zahl6": 26,
+    "Superzahl": 5,
+    "date": "2017-04-12"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 36,
+    "Zahl3": 18,
+    "Zahl4": 21,
+    "Zahl5": 30,
+    "Zahl6": 27,
+    "Superzahl": 7,
+    "date": "2017-04-15"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 23,
+    "Zahl3": 48,
+    "Zahl4": 30,
+    "Zahl5": 41,
+    "Zahl6": 19,
+    "Superzahl": 0,
+    "date": "2017-04-19"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 25,
+    "Zahl3": 19,
+    "Zahl4": 1,
+    "Zahl5": 32,
+    "Zahl6": 12,
+    "Superzahl": 7,
+    "date": "2017-04-22"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 25,
+    "Zahl3": 37,
+    "Zahl4": 42,
+    "Zahl5": 39,
+    "Zahl6": 31,
+    "Superzahl": 3,
+    "date": "2017-04-26"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 4,
+    "Zahl3": 37,
+    "Zahl4": 49,
+    "Zahl5": 18,
+    "Zahl6": 3,
+    "Superzahl": 5,
+    "date": "2017-04-29"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 33,
+    "Zahl3": 18,
+    "Zahl4": 4,
+    "Zahl5": 12,
+    "Zahl6": 20,
+    "Superzahl": 8,
+    "date": "2017-05-03"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 32,
+    "Zahl3": 31,
+    "Zahl4": 47,
+    "Zahl5": 16,
+    "Zahl6": 26,
+    "Superzahl": 4,
+    "date": "2017-05-06"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 26,
+    "Zahl3": 38,
+    "Zahl4": 9,
+    "Zahl5": 18,
+    "Zahl6": 42,
+    "Superzahl": 8,
+    "date": "2017-05-10"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 7,
+    "Zahl3": 32,
+    "Zahl4": 45,
+    "Zahl5": 47,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2017-05-13"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 43,
+    "Zahl3": 23,
+    "Zahl4": 2,
+    "Zahl5": 26,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2017-05-17"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 29,
+    "Zahl3": 37,
+    "Zahl4": 1,
+    "Zahl5": 44,
+    "Zahl6": 34,
+    "Superzahl": 7,
+    "date": "2017-05-20"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 25,
+    "Zahl3": 44,
+    "Zahl4": 26,
+    "Zahl5": 13,
+    "Zahl6": 19,
+    "Superzahl": 3,
+    "date": "2017-05-24"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 24,
+    "Zahl3": 27,
+    "Zahl4": 49,
+    "Zahl5": 25,
+    "Zahl6": 29,
+    "Superzahl": 1,
+    "date": "2017-05-27"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 9,
+    "Zahl3": 24,
+    "Zahl4": 36,
+    "Zahl5": 17,
+    "Zahl6": 27,
+    "Superzahl": 7,
+    "date": "2017-05-31"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 24,
+    "Zahl3": 35,
+    "Zahl4": 32,
+    "Zahl5": 31,
+    "Zahl6": 46,
+    "Superzahl": 3,
+    "date": "2017-06-03"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 37,
+    "Zahl3": 17,
+    "Zahl4": 28,
+    "Zahl5": 6,
+    "Zahl6": 33,
+    "Superzahl": 4,
+    "date": "2017-06-07"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 42,
+    "Zahl3": 6,
+    "Zahl4": 4,
+    "Zahl5": 26,
+    "Zahl6": 16,
+    "Superzahl": 7,
+    "date": "2017-06-10"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 33,
+    "Zahl3": 36,
+    "Zahl4": 32,
+    "Zahl5": 29,
+    "Zahl6": 30,
+    "Superzahl": 1,
+    "date": "2017-06-14"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 49,
+    "Zahl3": 2,
+    "Zahl4": 6,
+    "Zahl5": 22,
+    "Zahl6": 44,
+    "Superzahl": 1,
+    "date": "2017-06-17"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 6,
+    "Zahl3": 44,
+    "Zahl4": 39,
+    "Zahl5": 7,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2017-06-21"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 27,
+    "Zahl3": 46,
+    "Zahl4": 43,
+    "Zahl5": 23,
+    "Zahl6": 13,
+    "Superzahl": 6,
+    "date": "2017-06-24"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 41,
+    "Zahl3": 29,
+    "Zahl4": 42,
+    "Zahl5": 17,
+    "Zahl6": 13,
+    "Superzahl": 4,
+    "date": "2017-06-28"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 15,
+    "Zahl3": 35,
+    "Zahl4": 47,
+    "Zahl5": 22,
+    "Zahl6": 3,
+    "Superzahl": 8,
+    "date": "2017-07-01"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 39,
+    "Zahl3": 40,
+    "Zahl4": 7,
+    "Zahl5": 34,
+    "Zahl6": 33,
+    "Superzahl": 0,
+    "date": "2017-07-05"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 40,
+    "Zahl3": 23,
+    "Zahl4": 27,
+    "Zahl5": 3,
+    "Zahl6": 17,
+    "Superzahl": 2,
+    "date": "2017-07-08"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 30,
+    "Zahl3": 22,
+    "Zahl4": 36,
+    "Zahl5": 49,
+    "Zahl6": 18,
+    "Superzahl": 7,
+    "date": "2017-07-12"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 38,
+    "Zahl3": 8,
+    "Zahl4": 32,
+    "Zahl5": 31,
+    "Zahl6": 25,
+    "Superzahl": 1,
+    "date": "2017-07-15"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 36,
+    "Zahl3": 17,
+    "Zahl4": 27,
+    "Zahl5": 41,
+    "Zahl6": 19,
+    "Superzahl": 1,
+    "date": "2017-07-19"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 5,
+    "Zahl3": 47,
+    "Zahl4": 27,
+    "Zahl5": 45,
+    "Zahl6": 41,
+    "Superzahl": 7,
+    "date": "2017-07-22"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 12,
+    "Zahl3": 27,
+    "Zahl4": 33,
+    "Zahl5": 26,
+    "Zahl6": 15,
+    "Superzahl": 0,
+    "date": "2017-07-26"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 37,
+    "Zahl3": 30,
+    "Zahl4": 20,
+    "Zahl5": 14,
+    "Zahl6": 29,
+    "Superzahl": 3,
+    "date": "2017-07-29"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 22,
+    "Zahl3": 21,
+    "Zahl4": 36,
+    "Zahl5": 49,
+    "Zahl6": 34,
+    "Superzahl": 5,
+    "date": "2017-08-02"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 18,
+    "Zahl3": 37,
+    "Zahl4": 14,
+    "Zahl5": 19,
+    "Zahl6": 23,
+    "Superzahl": 5,
+    "date": "2017-08-05"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 18,
+    "Zahl3": 39,
+    "Zahl4": 10,
+    "Zahl5": 41,
+    "Zahl6": 49,
+    "Superzahl": 7,
+    "date": "2017-08-09"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 27,
+    "Zahl3": 47,
+    "Zahl4": 49,
+    "Zahl5": 25,
+    "Zahl6": 5,
+    "Superzahl": 6,
+    "date": "2017-08-12"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 9,
+    "Zahl3": 36,
+    "Zahl4": 6,
+    "Zahl5": 38,
+    "Zahl6": 49,
+    "Superzahl": 3,
+    "date": "2017-08-16"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 2,
+    "Zahl3": 45,
+    "Zahl4": 29,
+    "Zahl5": 10,
+    "Zahl6": 48,
+    "Superzahl": 2,
+    "date": "2017-08-19"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 16,
+    "Zahl3": 32,
+    "Zahl4": 49,
+    "Zahl5": 23,
+    "Zahl6": 25,
+    "Superzahl": 6,
+    "date": "2017-08-23"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 2,
+    "Zahl3": 28,
+    "Zahl4": 11,
+    "Zahl5": 24,
+    "Zahl6": 49,
+    "Superzahl": 9,
+    "date": "2017-08-26"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 5,
+    "Zahl3": 9,
+    "Zahl4": 34,
+    "Zahl5": 21,
+    "Zahl6": 7,
+    "Superzahl": 3,
+    "date": "2017-08-30"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 5,
+    "Zahl3": 8,
+    "Zahl4": 3,
+    "Zahl5": 34,
+    "Zahl6": 33,
+    "Superzahl": 6,
+    "date": "2017-09-02"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 12,
+    "Zahl3": 48,
+    "Zahl4": 19,
+    "Zahl5": 16,
+    "Zahl6": 28,
+    "Superzahl": 3,
+    "date": "2017-09-06"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 14,
+    "Zahl3": 49,
+    "Zahl4": 8,
+    "Zahl5": 18,
+    "Zahl6": 27,
+    "Superzahl": 3,
+    "date": "2017-09-09"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 40,
+    "Zahl3": 18,
+    "Zahl4": 11,
+    "Zahl5": 30,
+    "Zahl6": 16,
+    "Superzahl": 6,
+    "date": "2017-09-13"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 27,
+    "Zahl3": 31,
+    "Zahl4": 35,
+    "Zahl5": 21,
+    "Zahl6": 26,
+    "Superzahl": 9,
+    "date": "2017-09-16"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 28,
+    "Zahl3": 3,
+    "Zahl4": 46,
+    "Zahl5": 9,
+    "Zahl6": 30,
+    "Superzahl": 3,
+    "date": "2017-09-20"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 15,
+    "Zahl3": 44,
+    "Zahl4": 19,
+    "Zahl5": 23,
+    "Zahl6": 38,
+    "Superzahl": 6,
+    "date": "2017-09-23"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 31,
+    "Zahl3": 25,
+    "Zahl4": 20,
+    "Zahl5": 37,
+    "Zahl6": 17,
+    "Superzahl": 6,
+    "date": "2017-09-27"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 23,
+    "Zahl3": 18,
+    "Zahl4": 19,
+    "Zahl5": 4,
+    "Zahl6": 33,
+    "Superzahl": 1,
+    "date": "2017-09-30"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 17,
+    "Zahl3": 19,
+    "Zahl4": 11,
+    "Zahl5": 15,
+    "Zahl6": 16,
+    "Superzahl": 4,
+    "date": "2017-10-04"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 21,
+    "Zahl3": 11,
+    "Zahl4": 20,
+    "Zahl5": 49,
+    "Zahl6": 30,
+    "Superzahl": 6,
+    "date": "2017-10-07"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 6,
+    "Zahl3": 3,
+    "Zahl4": 17,
+    "Zahl5": 21,
+    "Zahl6": 20,
+    "Superzahl": 7,
+    "date": "2017-10-11"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 10,
+    "Zahl3": 35,
+    "Zahl4": 7,
+    "Zahl5": 40,
+    "Zahl6": 9,
+    "Superzahl": 7,
+    "date": "2017-10-14"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 10,
+    "Zahl3": 11,
+    "Zahl4": 13,
+    "Zahl5": 7,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2017-10-18"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 4,
+    "Zahl3": 25,
+    "Zahl4": 34,
+    "Zahl5": 10,
+    "Zahl6": 46,
+    "Superzahl": 1,
+    "date": "2017-10-21"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 18,
+    "Zahl3": 42,
+    "Zahl4": 29,
+    "Zahl5": 32,
+    "Zahl6": 36,
+    "Superzahl": 8,
+    "date": "2017-10-25"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 1,
+    "Zahl3": 36,
+    "Zahl4": 24,
+    "Zahl5": 33,
+    "Zahl6": 20,
+    "Superzahl": 1,
+    "date": "2017-10-28"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 15,
+    "Zahl3": 8,
+    "Zahl4": 31,
+    "Zahl5": 3,
+    "Zahl6": 21,
+    "Superzahl": 9,
+    "date": "2017-11-01"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 47,
+    "Zahl3": 46,
+    "Zahl4": 14,
+    "Zahl5": 3,
+    "Zahl6": 7,
+    "Superzahl": 6,
+    "date": "2017-11-04"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 37,
+    "Zahl3": 43,
+    "Zahl4": 14,
+    "Zahl5": 38,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2017-11-08"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 1,
+    "Zahl3": 19,
+    "Zahl4": 16,
+    "Zahl5": 11,
+    "Zahl6": 37,
+    "Superzahl": 7,
+    "date": "2017-11-11"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 23,
+    "Zahl3": 46,
+    "Zahl4": 40,
+    "Zahl5": 35,
+    "Zahl6": 45,
+    "Superzahl": 5,
+    "date": "2017-11-15"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 5,
+    "Zahl3": 2,
+    "Zahl4": 35,
+    "Zahl5": 20,
+    "Zahl6": 12,
+    "Superzahl": 7,
+    "date": "2017-11-18"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 29,
+    "Zahl3": 32,
+    "Zahl4": 24,
+    "Zahl5": 48,
+    "Zahl6": 34,
+    "Superzahl": 9,
+    "date": "2017-11-22"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 37,
+    "Zahl3": 17,
+    "Zahl4": 11,
+    "Zahl5": 26,
+    "Zahl6": 43,
+    "Superzahl": 9,
+    "date": "2017-11-25"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 9,
+    "Zahl3": 30,
+    "Zahl4": 16,
+    "Zahl5": 25,
+    "Zahl6": 28,
+    "Superzahl": 8,
+    "date": "2017-11-29"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 33,
+    "Zahl3": 18,
+    "Zahl4": 12,
+    "Zahl5": 13,
+    "Zahl6": 3,
+    "Superzahl": 2,
+    "date": "2017-12-02"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 18,
+    "Zahl3": 11,
+    "Zahl4": 43,
+    "Zahl5": 35,
+    "Zahl6": 19,
+    "Superzahl": 9,
+    "date": "2017-12-06"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 12,
+    "Zahl3": 46,
+    "Zahl4": 16,
+    "Zahl5": 20,
+    "Zahl6": 7,
+    "Superzahl": 7,
+    "date": "2017-12-09"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 17,
+    "Zahl3": 2,
+    "Zahl4": 9,
+    "Zahl5": 27,
+    "Zahl6": 14,
+    "Superzahl": 0,
+    "date": "2017-12-13"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 30,
+    "Zahl3": 5,
+    "Zahl4": 23,
+    "Zahl5": 6,
+    "Zahl6": 18,
+    "Superzahl": 9,
+    "date": "2017-12-16"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 8,
+    "Zahl3": 13,
+    "Zahl4": 39,
+    "Zahl5": 44,
+    "Zahl6": 38,
+    "Superzahl": 4,
+    "date": "2017-12-20"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 38,
+    "Zahl3": 11,
+    "Zahl4": 32,
+    "Zahl5": 4,
+    "Zahl6": 31,
+    "Superzahl": 6,
+    "date": "2017-12-23"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 45,
+    "Zahl3": 37,
+    "Zahl4": 19,
+    "Zahl5": 17,
+    "Zahl6": 31,
+    "Superzahl": 0,
+    "date": "2017-12-27"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 48,
+    "Zahl3": 27,
+    "Zahl4": 11,
+    "Zahl5": 12,
+    "Zahl6": 14,
+    "Superzahl": 0,
+    "date": "2017-12-30"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 10,
+    "Zahl3": 34,
+    "Zahl4": 31,
+    "Zahl5": 15,
+    "Zahl6": 35,
+    "Superzahl": 8,
+    "date": "2018-01-03"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 47,
+    "Zahl3": 46,
+    "Zahl4": 32,
+    "Zahl5": 5,
+    "Zahl6": 14,
+    "Superzahl": 0,
+    "date": "2018-01-06"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 25,
+    "Zahl3": 3,
+    "Zahl4": 45,
+    "Zahl5": 22,
+    "Zahl6": 43,
+    "Superzahl": 6,
+    "date": "2018-01-10"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 31,
+    "Zahl3": 48,
+    "Zahl4": 6,
+    "Zahl5": 5,
+    "Zahl6": 16,
+    "Superzahl": 0,
+    "date": "2018-01-13"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 48,
+    "Zahl3": 13,
+    "Zahl4": 3,
+    "Zahl5": 27,
+    "Zahl6": 25,
+    "Superzahl": 2,
+    "date": "2018-01-17"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 45,
+    "Zahl3": 11,
+    "Zahl4": 33,
+    "Zahl5": 18,
+    "Zahl6": 15,
+    "Superzahl": 4,
+    "date": "2018-01-20"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 5,
+    "Zahl3": 45,
+    "Zahl4": 31,
+    "Zahl5": 18,
+    "Zahl6": 3,
+    "Superzahl": 7,
+    "date": "2018-01-24"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 24,
+    "Zahl3": 22,
+    "Zahl4": 43,
+    "Zahl5": 4,
+    "Zahl6": 36,
+    "Superzahl": 6,
+    "date": "2018-01-27"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 26,
+    "Zahl3": 3,
+    "Zahl4": 38,
+    "Zahl5": 8,
+    "Zahl6": 29,
+    "Superzahl": 8,
+    "date": "2018-01-31"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 39,
+    "Zahl3": 48,
+    "Zahl4": 13,
+    "Zahl5": 20,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2018-02-03"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 41,
+    "Zahl3": 28,
+    "Zahl4": 20,
+    "Zahl5": 25,
+    "Zahl6": 33,
+    "Superzahl": 5,
+    "date": "2018-02-07"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 41,
+    "Zahl3": 45,
+    "Zahl4": 20,
+    "Zahl5": 17,
+    "Zahl6": 35,
+    "Superzahl": 8,
+    "date": "2018-02-10"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 16,
+    "Zahl3": 20,
+    "Zahl4": 23,
+    "Zahl5": 24,
+    "Zahl6": 6,
+    "Superzahl": 6,
+    "date": "2018-02-14"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 15,
+    "Zahl3": 42,
+    "Zahl4": 37,
+    "Zahl5": 18,
+    "Zahl6": 26,
+    "Superzahl": 2,
+    "date": "2018-02-17"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 47,
+    "Zahl3": 6,
+    "Zahl4": 8,
+    "Zahl5": 40,
+    "Zahl6": 3,
+    "Superzahl": 7,
+    "date": "2018-02-21"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 33,
+    "Zahl3": 41,
+    "Zahl4": 18,
+    "Zahl5": 44,
+    "Zahl6": 47,
+    "Superzahl": 6,
+    "date": "2018-02-24"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 15,
+    "Zahl3": 32,
+    "Zahl4": 43,
+    "Zahl5": 47,
+    "Zahl6": 36,
+    "Superzahl": 6,
+    "date": "2018-02-28"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 37,
+    "Zahl3": 28,
+    "Zahl4": 44,
+    "Zahl5": 24,
+    "Zahl6": 40,
+    "Superzahl": 8,
+    "date": "2018-03-03"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 30,
+    "Zahl3": 28,
+    "Zahl4": 35,
+    "Zahl5": 24,
+    "Zahl6": 42,
+    "Superzahl": 1,
+    "date": "2018-03-07"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 34,
+    "Zahl3": 8,
+    "Zahl4": 49,
+    "Zahl5": 35,
+    "Zahl6": 19,
+    "Superzahl": 8,
+    "date": "2018-03-10"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 48,
+    "Zahl3": 13,
+    "Zahl4": 38,
+    "Zahl5": 30,
+    "Zahl6": 45,
+    "Superzahl": 7,
+    "date": "2018-03-14"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 29,
+    "Zahl3": 1,
+    "Zahl4": 22,
+    "Zahl5": 17,
+    "Zahl6": 46,
+    "Superzahl": 7,
+    "date": "2018-03-17"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 48,
+    "Zahl3": 26,
+    "Zahl4": 29,
+    "Zahl5": 20,
+    "Zahl6": 43,
+    "Superzahl": 0,
+    "date": "2018-03-21"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 27,
+    "Zahl3": 34,
+    "Zahl4": 3,
+    "Zahl5": 42,
+    "Zahl6": 45,
+    "Superzahl": 1,
+    "date": "2018-03-24"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 47,
+    "Zahl3": 31,
+    "Zahl4": 38,
+    "Zahl5": 23,
+    "Zahl6": 25,
+    "Superzahl": 7,
+    "date": "2018-03-28"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 8,
+    "Zahl3": 1,
+    "Zahl4": 46,
+    "Zahl5": 12,
+    "Zahl6": 48,
+    "Superzahl": 5,
+    "date": "2018-03-31"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 46,
+    "Zahl3": 13,
+    "Zahl4": 30,
+    "Zahl5": 28,
+    "Zahl6": 23,
+    "Superzahl": 7,
+    "date": "2018-04-04"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 27,
+    "Zahl3": 47,
+    "Zahl4": 19,
+    "Zahl5": 34,
+    "Zahl6": 15,
+    "Superzahl": 8,
+    "date": "2018-04-07"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 20,
+    "Zahl3": 25,
+    "Zahl4": 27,
+    "Zahl5": 48,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2018-04-11"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 4,
+    "Zahl3": 34,
+    "Zahl4": 33,
+    "Zahl5": 47,
+    "Zahl6": 9,
+    "Superzahl": 6,
+    "date": "2018-04-14"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 37,
+    "Zahl3": 7,
+    "Zahl4": 10,
+    "Zahl5": 2,
+    "Zahl6": 4,
+    "Superzahl": 8,
+    "date": "2018-04-18"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 29,
+    "Zahl3": 12,
+    "Zahl4": 19,
+    "Zahl5": 23,
+    "Zahl6": 15,
+    "Superzahl": 5,
+    "date": "2018-04-21"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 6,
+    "Zahl3": 11,
+    "Zahl4": 10,
+    "Zahl5": 25,
+    "Zahl6": 4,
+    "Superzahl": 6,
+    "date": "2018-04-25"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 48,
+    "Zahl3": 2,
+    "Zahl4": 33,
+    "Zahl5": 47,
+    "Zahl6": 9,
+    "Superzahl": 4,
+    "date": "2018-04-28"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 3,
+    "Zahl3": 5,
+    "Zahl4": 44,
+    "Zahl5": 19,
+    "Zahl6": 12,
+    "Superzahl": 7,
+    "date": "2018-05-02"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 34,
+    "Zahl3": 49,
+    "Zahl4": 1,
+    "Zahl5": 17,
+    "Zahl6": 31,
+    "Superzahl": 7,
+    "date": "2018-05-05"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 37,
+    "Zahl3": 43,
+    "Zahl4": 25,
+    "Zahl5": 3,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2018-05-09"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 23,
+    "Zahl3": 38,
+    "Zahl4": 36,
+    "Zahl5": 42,
+    "Zahl6": 29,
+    "Superzahl": 0,
+    "date": "2018-05-12"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 19,
+    "Zahl3": 12,
+    "Zahl4": 2,
+    "Zahl5": 46,
+    "Zahl6": 34,
+    "Superzahl": 9,
+    "date": "2018-05-16"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 27,
+    "Zahl3": 44,
+    "Zahl4": 3,
+    "Zahl5": 49,
+    "Zahl6": 4,
+    "Superzahl": 2,
+    "date": "2018-05-19"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 45,
+    "Zahl3": 16,
+    "Zahl4": 7,
+    "Zahl5": 47,
+    "Zahl6": 36,
+    "Superzahl": 6,
+    "date": "2018-05-23"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 27,
+    "Zahl3": 24,
+    "Zahl4": 16,
+    "Zahl5": 47,
+    "Zahl6": 10,
+    "Superzahl": 6,
+    "date": "2018-05-26"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 15,
+    "Zahl3": 35,
+    "Zahl4": 23,
+    "Zahl5": 38,
+    "Zahl6": 48,
+    "Superzahl": 2,
+    "date": "2018-05-30"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 30,
+    "Zahl3": 1,
+    "Zahl4": 19,
+    "Zahl5": 31,
+    "Zahl6": 10,
+    "Superzahl": 7,
+    "date": "2018-06-02"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 13,
+    "Zahl3": 3,
+    "Zahl4": 15,
+    "Zahl5": 8,
+    "Zahl6": 42,
+    "Superzahl": 6,
+    "date": "2018-06-06"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 13,
+    "Zahl3": 34,
+    "Zahl4": 16,
+    "Zahl5": 42,
+    "Zahl6": 35,
+    "Superzahl": 9,
+    "date": "2018-06-09"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 48,
+    "Zahl3": 3,
+    "Zahl4": 6,
+    "Zahl5": 10,
+    "Zahl6": 46,
+    "Superzahl": 3,
+    "date": "2018-06-13"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 40,
+    "Zahl3": 19,
+    "Zahl4": 4,
+    "Zahl5": 31,
+    "Zahl6": 33,
+    "Superzahl": 2,
+    "date": "2018-06-16"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 31,
+    "Zahl3": 33,
+    "Zahl4": 36,
+    "Zahl5": 6,
+    "Zahl6": 43,
+    "Superzahl": 5,
+    "date": "2018-06-20"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 49,
+    "Zahl3": 29,
+    "Zahl4": 48,
+    "Zahl5": 17,
+    "Zahl6": 6,
+    "Superzahl": 1,
+    "date": "2018-06-23"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 46,
+    "Zahl3": 13,
+    "Zahl4": 35,
+    "Zahl5": 45,
+    "Zahl6": 17,
+    "Superzahl": 3,
+    "date": "2018-06-27"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 42,
+    "Zahl3": 40,
+    "Zahl4": 38,
+    "Zahl5": 16,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2018-06-30"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 1,
+    "Zahl3": 37,
+    "Zahl4": 5,
+    "Zahl5": 32,
+    "Zahl6": 10,
+    "Superzahl": 8,
+    "date": "2018-07-04"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 25,
+    "Zahl3": 13,
+    "Zahl4": 5,
+    "Zahl5": 18,
+    "Zahl6": 2,
+    "Superzahl": 2,
+    "date": "2018-07-07"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 18,
+    "Zahl3": 3,
+    "Zahl4": 1,
+    "Zahl5": 42,
+    "Zahl6": 28,
+    "Superzahl": 5,
+    "date": "2018-07-11"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 48,
+    "Zahl3": 41,
+    "Zahl4": 40,
+    "Zahl5": 47,
+    "Zahl6": 30,
+    "Superzahl": 0,
+    "date": "2018-07-14"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 5,
+    "Zahl3": 14,
+    "Zahl4": 19,
+    "Zahl5": 41,
+    "Zahl6": 22,
+    "Superzahl": 1,
+    "date": "2018-07-18"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 29,
+    "Zahl3": 6,
+    "Zahl4": 49,
+    "Zahl5": 1,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2018-07-21"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 41,
+    "Zahl3": 9,
+    "Zahl4": 39,
+    "Zahl5": 43,
+    "Zahl6": 40,
+    "Superzahl": 9,
+    "date": "2018-07-25"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 11,
+    "Zahl3": 7,
+    "Zahl4": 31,
+    "Zahl5": 34,
+    "Zahl6": 36,
+    "Superzahl": 1,
+    "date": "2018-07-28"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 25,
+    "Zahl3": 22,
+    "Zahl4": 45,
+    "Zahl5": 2,
+    "Zahl6": 32,
+    "Superzahl": 2,
+    "date": "2018-08-01"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 25,
+    "Zahl3": 29,
+    "Zahl4": 30,
+    "Zahl5": 6,
+    "Zahl6": 31,
+    "Superzahl": 3,
+    "date": "2018-08-04"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 49,
+    "Zahl3": 8,
+    "Zahl4": 40,
+    "Zahl5": 26,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2018-08-08"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 8,
+    "Zahl3": 47,
+    "Zahl4": 46,
+    "Zahl5": 10,
+    "Zahl6": 36,
+    "Superzahl": 8,
+    "date": "2018-08-11"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 6,
+    "Zahl3": 31,
+    "Zahl4": 24,
+    "Zahl5": 18,
+    "Zahl6": 29,
+    "Superzahl": 9,
+    "date": "2018-08-15"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 14,
+    "Zahl3": 46,
+    "Zahl4": 42,
+    "Zahl5": 34,
+    "Zahl6": 3,
+    "Superzahl": 3,
+    "date": "2018-08-18"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 15,
+    "Zahl3": 16,
+    "Zahl4": 26,
+    "Zahl5": 6,
+    "Zahl6": 32,
+    "Superzahl": 0,
+    "date": "2018-08-22"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 31,
+    "Zahl3": 8,
+    "Zahl4": 16,
+    "Zahl5": 15,
+    "Zahl6": 20,
+    "Superzahl": 2,
+    "date": "2018-08-25"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 24,
+    "Zahl3": 3,
+    "Zahl4": 17,
+    "Zahl5": 22,
+    "Zahl6": 39,
+    "Superzahl": 9,
+    "date": "2018-08-29"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 46,
+    "Zahl3": 4,
+    "Zahl4": 12,
+    "Zahl5": 38,
+    "Zahl6": 21,
+    "Superzahl": 1,
+    "date": "2018-09-01"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 15,
+    "Zahl3": 9,
+    "Zahl4": 46,
+    "Zahl5": 13,
+    "Zahl6": 3,
+    "Superzahl": 4,
+    "date": "2018-09-05"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 23,
+    "Zahl3": 29,
+    "Zahl4": 27,
+    "Zahl5": 30,
+    "Zahl6": 6,
+    "Superzahl": 2,
+    "date": "2018-09-08"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 28,
+    "Zahl3": 7,
+    "Zahl4": 24,
+    "Zahl5": 31,
+    "Zahl6": 32,
+    "Superzahl": 6,
+    "date": "2018-09-12"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 39,
+    "Zahl3": 26,
+    "Zahl4": 1,
+    "Zahl5": 12,
+    "Zahl6": 14,
+    "Superzahl": 1,
+    "date": "2018-09-15"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 8,
+    "Zahl3": 3,
+    "Zahl4": 47,
+    "Zahl5": 30,
+    "Zahl6": 19,
+    "Superzahl": 0,
+    "date": "2018-09-19"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 37,
+    "Zahl3": 41,
+    "Zahl4": 33,
+    "Zahl5": 42,
+    "Zahl6": 47,
+    "Superzahl": 0,
+    "date": "2018-09-22"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 36,
+    "Zahl3": 44,
+    "Zahl4": 10,
+    "Zahl5": 38,
+    "Zahl6": 25,
+    "Superzahl": 3,
+    "date": "2018-09-26"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 5,
+    "Zahl3": 19,
+    "Zahl4": 4,
+    "Zahl5": 16,
+    "Zahl6": 45,
+    "Superzahl": 7,
+    "date": "2018-09-29"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 39,
+    "Zahl3": 9,
+    "Zahl4": 30,
+    "Zahl5": 29,
+    "Zahl6": 3,
+    "Superzahl": 9,
+    "date": "2018-10-03"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 27,
+    "Zahl3": 45,
+    "Zahl4": 2,
+    "Zahl5": 33,
+    "Zahl6": 26,
+    "Superzahl": 3,
+    "date": "2018-10-06"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 14,
+    "Zahl3": 32,
+    "Zahl4": 18,
+    "Zahl5": 1,
+    "Zahl6": 45,
+    "Superzahl": 0,
+    "date": "2018-10-10"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 36,
+    "Zahl3": 7,
+    "Zahl4": 9,
+    "Zahl5": 27,
+    "Zahl6": 11,
+    "Superzahl": 7,
+    "date": "2018-10-13"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 35,
+    "Zahl3": 20,
+    "Zahl4": 36,
+    "Zahl5": 9,
+    "Zahl6": 24,
+    "Superzahl": 2,
+    "date": "2018-10-17"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 2,
+    "Zahl3": 16,
+    "Zahl4": 32,
+    "Zahl5": 45,
+    "Zahl6": 13,
+    "Superzahl": 7,
+    "date": "2018-10-20"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 24,
+    "Zahl3": 37,
+    "Zahl4": 32,
+    "Zahl5": 5,
+    "Zahl6": 13,
+    "Superzahl": 7,
+    "date": "2018-10-24"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 35,
+    "Zahl3": 47,
+    "Zahl4": 40,
+    "Zahl5": 8,
+    "Zahl6": 38,
+    "Superzahl": 2,
+    "date": "2018-10-27"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 40,
+    "Zahl3": 13,
+    "Zahl4": 22,
+    "Zahl5": 16,
+    "Zahl6": 6,
+    "Superzahl": 5,
+    "date": "2018-10-31"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 18,
+    "Zahl3": 20,
+    "Zahl4": 6,
+    "Zahl5": 28,
+    "Zahl6": 42,
+    "Superzahl": 1,
+    "date": "2018-11-03"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 41,
+    "Zahl3": 15,
+    "Zahl4": 37,
+    "Zahl5": 4,
+    "Zahl6": 31,
+    "Superzahl": 4,
+    "date": "2018-11-07"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 13,
+    "Zahl3": 14,
+    "Zahl4": 40,
+    "Zahl5": 29,
+    "Zahl6": 41,
+    "Superzahl": 7,
+    "date": "2018-11-10"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 9,
+    "Zahl3": 31,
+    "Zahl4": 4,
+    "Zahl5": 27,
+    "Zahl6": 41,
+    "Superzahl": 9,
+    "date": "2018-11-14"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 40,
+    "Zahl3": 31,
+    "Zahl4": 18,
+    "Zahl5": 6,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2018-11-17"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 24,
+    "Zahl3": 29,
+    "Zahl4": 47,
+    "Zahl5": 18,
+    "Zahl6": 42,
+    "Superzahl": 7,
+    "date": "2018-11-21"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 37,
+    "Zahl3": 15,
+    "Zahl4": 45,
+    "Zahl5": 14,
+    "Zahl6": 40,
+    "Superzahl": 1,
+    "date": "2018-11-24"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 49,
+    "Zahl3": 48,
+    "Zahl4": 28,
+    "Zahl5": 26,
+    "Zahl6": 23,
+    "Superzahl": 0,
+    "date": "2018-11-28"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 46,
+    "Zahl3": 31,
+    "Zahl4": 6,
+    "Zahl5": 8,
+    "Zahl6": 27,
+    "Superzahl": 2,
+    "date": "2018-12-01"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 29,
+    "Zahl3": 49,
+    "Zahl4": 36,
+    "Zahl5": 47,
+    "Zahl6": 13,
+    "Superzahl": 5,
+    "date": "2018-12-05"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 44,
+    "Zahl3": 26,
+    "Zahl4": 25,
+    "Zahl5": 6,
+    "Zahl6": 46,
+    "Superzahl": 3,
+    "date": "2018-12-08"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 20,
+    "Zahl3": 7,
+    "Zahl4": 34,
+    "Zahl5": 48,
+    "Zahl6": 33,
+    "Superzahl": 6,
+    "date": "2018-12-12"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 45,
+    "Zahl3": 31,
+    "Zahl4": 23,
+    "Zahl5": 1,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2018-12-15"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 34,
+    "Zahl3": 19,
+    "Zahl4": 4,
+    "Zahl5": 32,
+    "Zahl6": 12,
+    "Superzahl": 4,
+    "date": "2018-12-19"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 43,
+    "Zahl3": 25,
+    "Zahl4": 21,
+    "Zahl5": 8,
+    "Zahl6": 44,
+    "Superzahl": 5,
+    "date": "2018-12-22"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 43,
+    "Zahl3": 30,
+    "Zahl4": 22,
+    "Zahl5": 36,
+    "Zahl6": 16,
+    "Superzahl": 4,
+    "date": "2018-12-26"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 4,
+    "Zahl3": 14,
+    "Zahl4": 25,
+    "Zahl5": 38,
+    "Zahl6": 44,
+    "Superzahl": 4,
+    "date": "2018-12-29"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 17,
+    "Zahl3": 36,
+    "Zahl4": 5,
+    "Zahl5": 13,
+    "Zahl6": 19,
+    "Superzahl": 4,
+    "date": "2019-01-02"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 16,
+    "Zahl3": 22,
+    "Zahl4": 4,
+    "Zahl5": 45,
+    "Zahl6": 31,
+    "Superzahl": 8,
+    "date": "2019-01-05"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 8,
+    "Zahl3": 7,
+    "Zahl4": 29,
+    "Zahl5": 14,
+    "Zahl6": 22,
+    "Superzahl": 7,
+    "date": "2019-01-09"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 31,
+    "Zahl3": 4,
+    "Zahl4": 25,
+    "Zahl5": 38,
+    "Zahl6": 40,
+    "Superzahl": 6,
+    "date": "2019-01-12"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 5,
+    "Zahl3": 31,
+    "Zahl4": 12,
+    "Zahl5": 6,
+    "Zahl6": 13,
+    "Superzahl": 4,
+    "date": "2019-01-16"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 6,
+    "Zahl3": 36,
+    "Zahl4": 24,
+    "Zahl5": 29,
+    "Zahl6": 12,
+    "Superzahl": 9,
+    "date": "2019-01-19"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 33,
+    "Zahl3": 35,
+    "Zahl4": 37,
+    "Zahl5": 7,
+    "Zahl6": 6,
+    "Superzahl": 3,
+    "date": "2019-01-23"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 35,
+    "Zahl3": 31,
+    "Zahl4": 18,
+    "Zahl5": 29,
+    "Zahl6": 16,
+    "Superzahl": 6,
+    "date": "2019-01-26"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 23,
+    "Zahl3": 13,
+    "Zahl4": 36,
+    "Zahl5": 22,
+    "Zahl6": 19,
+    "Superzahl": 6,
+    "date": "2019-01-30"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 30,
+    "Zahl3": 29,
+    "Zahl4": 21,
+    "Zahl5": 34,
+    "Zahl6": 3,
+    "Superzahl": 3,
+    "date": "2019-02-02"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 22,
+    "Zahl3": 21,
+    "Zahl4": 5,
+    "Zahl5": 33,
+    "Zahl6": 36,
+    "Superzahl": 5,
+    "date": "2019-02-06"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 34,
+    "Zahl3": 49,
+    "Zahl4": 2,
+    "Zahl5": 42,
+    "Zahl6": 39,
+    "Superzahl": 2,
+    "date": "2019-02-09"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 23,
+    "Zahl3": 42,
+    "Zahl4": 43,
+    "Zahl5": 5,
+    "Zahl6": 11,
+    "Superzahl": 9,
+    "date": "2019-02-13"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 9,
+    "Zahl3": 10,
+    "Zahl4": 18,
+    "Zahl5": 22,
+    "Zahl6": 6,
+    "Superzahl": 7,
+    "date": "2019-02-16"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 11,
+    "Zahl3": 5,
+    "Zahl4": 12,
+    "Zahl5": 48,
+    "Zahl6": 19,
+    "Superzahl": 2,
+    "date": "2019-02-20"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 47,
+    "Zahl3": 29,
+    "Zahl4": 15,
+    "Zahl5": 8,
+    "Zahl6": 21,
+    "Superzahl": 1,
+    "date": "2019-02-23"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 24,
+    "Zahl3": 13,
+    "Zahl4": 11,
+    "Zahl5": 20,
+    "Zahl6": 19,
+    "Superzahl": 2,
+    "date": "2019-02-27"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 41,
+    "Zahl3": 48,
+    "Zahl4": 38,
+    "Zahl5": 46,
+    "Zahl6": 42,
+    "Superzahl": 6,
+    "date": "2019-03-02"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 1,
+    "Zahl3": 46,
+    "Zahl4": 9,
+    "Zahl5": 35,
+    "Zahl6": 37,
+    "Superzahl": 5,
+    "date": "2019-03-06"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 8,
+    "Zahl3": 20,
+    "Zahl4": 12,
+    "Zahl5": 32,
+    "Zahl6": 22,
+    "Superzahl": 6,
+    "date": "2019-03-09"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 19,
+    "Zahl3": 33,
+    "Zahl4": 36,
+    "Zahl5": 34,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2019-03-13"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 22,
+    "Zahl3": 10,
+    "Zahl4": 14,
+    "Zahl5": 46,
+    "Zahl6": 39,
+    "Superzahl": 1,
+    "date": "2019-03-16"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 4,
+    "Zahl3": 44,
+    "Zahl4": 47,
+    "Zahl5": 40,
+    "Zahl6": 9,
+    "Superzahl": 3,
+    "date": "2019-03-20"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 23,
+    "Zahl3": 42,
+    "Zahl4": 44,
+    "Zahl5": 26,
+    "Zahl6": 29,
+    "Superzahl": 8,
+    "date": "2019-03-23"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 15,
+    "Zahl3": 40,
+    "Zahl4": 31,
+    "Zahl5": 36,
+    "Zahl6": 48,
+    "Superzahl": 1,
+    "date": "2019-03-27"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 3,
+    "Zahl3": 26,
+    "Zahl4": 46,
+    "Zahl5": 28,
+    "Zahl6": 29,
+    "Superzahl": 4,
+    "date": "2019-03-30"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 2,
+    "Zahl3": 7,
+    "Zahl4": 22,
+    "Zahl5": 9,
+    "Zahl6": 5,
+    "Superzahl": 6,
+    "date": "2019-04-03"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 12,
+    "Zahl3": 21,
+    "Zahl4": 41,
+    "Zahl5": 32,
+    "Zahl6": 42,
+    "Superzahl": 3,
+    "date": "2019-04-06"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 22,
+    "Zahl3": 37,
+    "Zahl4": 4,
+    "Zahl5": 39,
+    "Zahl6": 1,
+    "Superzahl": 4,
+    "date": "2019-04-10"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 4,
+    "Zahl3": 19,
+    "Zahl4": 29,
+    "Zahl5": 41,
+    "Zahl6": 36,
+    "Superzahl": 1,
+    "date": "2019-04-13"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 38,
+    "Zahl3": 42,
+    "Zahl4": 18,
+    "Zahl5": 27,
+    "Zahl6": 45,
+    "Superzahl": 6,
+    "date": "2019-04-17"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 29,
+    "Zahl3": 25,
+    "Zahl4": 41,
+    "Zahl5": 8,
+    "Zahl6": 6,
+    "Superzahl": 8,
+    "date": "2019-04-20"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 1,
+    "Zahl3": 9,
+    "Zahl4": 47,
+    "Zahl5": 11,
+    "Zahl6": 49,
+    "Superzahl": 1,
+    "date": "2019-04-24"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 19,
+    "Zahl3": 13,
+    "Zahl4": 2,
+    "Zahl5": 14,
+    "Zahl6": 48,
+    "Superzahl": 5,
+    "date": "2019-04-27"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 38,
+    "Zahl3": 16,
+    "Zahl4": 4,
+    "Zahl5": 47,
+    "Zahl6": 31,
+    "Superzahl": 6,
+    "date": "2019-05-01"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 1,
+    "Zahl3": 19,
+    "Zahl4": 24,
+    "Zahl5": 35,
+    "Zahl6": 42,
+    "Superzahl": 8,
+    "date": "2019-05-04"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 41,
+    "Zahl3": 5,
+    "Zahl4": 16,
+    "Zahl5": 15,
+    "Zahl6": 10,
+    "Superzahl": 7,
+    "date": "2019-05-08"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 15,
+    "Zahl3": 47,
+    "Zahl4": 25,
+    "Zahl5": 42,
+    "Zahl6": 31,
+    "Superzahl": 0,
+    "date": "2019-05-11"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 18,
+    "Zahl3": 13,
+    "Zahl4": 45,
+    "Zahl5": 36,
+    "Zahl6": 35,
+    "Superzahl": 9,
+    "date": "2019-05-15"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 26,
+    "Zahl3": 39,
+    "Zahl4": 11,
+    "Zahl5": 32,
+    "Zahl6": 47,
+    "Superzahl": 4,
+    "date": "2019-05-18"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 6,
+    "Zahl3": 16,
+    "Zahl4": 46,
+    "Zahl5": 41,
+    "Zahl6": 40,
+    "Superzahl": 6,
+    "date": "2019-05-22"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 6,
+    "Zahl3": 12,
+    "Zahl4": 15,
+    "Zahl5": 21,
+    "Zahl6": 36,
+    "Superzahl": 9,
+    "date": "2019-05-25"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 44,
+    "Zahl3": 2,
+    "Zahl4": 29,
+    "Zahl5": 32,
+    "Zahl6": 40,
+    "Superzahl": 2,
+    "date": "2019-05-29"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 22,
+    "Zahl3": 30,
+    "Zahl4": 29,
+    "Zahl5": 15,
+    "Zahl6": 3,
+    "Superzahl": 7,
+    "date": "2019-06-01"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 42,
+    "Zahl3": 11,
+    "Zahl4": 3,
+    "Zahl5": 6,
+    "Zahl6": 49,
+    "Superzahl": 7,
+    "date": "2019-06-05"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 45,
+    "Zahl3": 1,
+    "Zahl4": 13,
+    "Zahl5": 21,
+    "Zahl6": 44,
+    "Superzahl": 4,
+    "date": "2019-06-08"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 21,
+    "Zahl3": 47,
+    "Zahl4": 2,
+    "Zahl5": 24,
+    "Zahl6": 41,
+    "Superzahl": 1,
+    "date": "2019-06-12"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 43,
+    "Zahl3": 27,
+    "Zahl4": 40,
+    "Zahl5": 6,
+    "Zahl6": 33,
+    "Superzahl": 3,
+    "date": "2019-06-15"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 4,
+    "Zahl3": 38,
+    "Zahl4": 20,
+    "Zahl5": 41,
+    "Zahl6": 23,
+    "Superzahl": 3,
+    "date": "2019-06-19"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 10,
+    "Zahl3": 12,
+    "Zahl4": 30,
+    "Zahl5": 49,
+    "Zahl6": 11,
+    "Superzahl": 3,
+    "date": "2019-06-22"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 13,
+    "Zahl3": 42,
+    "Zahl4": 48,
+    "Zahl5": 21,
+    "Zahl6": 19,
+    "Superzahl": 8,
+    "date": "2019-06-26"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 34,
+    "Zahl3": 45,
+    "Zahl4": 8,
+    "Zahl5": 1,
+    "Zahl6": 43,
+    "Superzahl": 1,
+    "date": "2019-06-29"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 45,
+    "Zahl3": 37,
+    "Zahl4": 39,
+    "Zahl5": 48,
+    "Zahl6": 2,
+    "Superzahl": 7,
+    "date": "2019-07-03"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 27,
+    "Zahl3": 45,
+    "Zahl4": 40,
+    "Zahl5": 22,
+    "Zahl6": 19,
+    "Superzahl": 9,
+    "date": "2019-07-06"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 37,
+    "Zahl3": 25,
+    "Zahl4": 14,
+    "Zahl5": 39,
+    "Zahl6": 3,
+    "Superzahl": 9,
+    "date": "2019-07-10"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 10,
+    "Zahl3": 30,
+    "Zahl4": 3,
+    "Zahl5": 26,
+    "Zahl6": 42,
+    "Superzahl": 3,
+    "date": "2019-07-13"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 8,
+    "Zahl3": 40,
+    "Zahl4": 19,
+    "Zahl5": 47,
+    "Zahl6": 48,
+    "Superzahl": 5,
+    "date": "2019-07-17"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 5,
+    "Zahl3": 24,
+    "Zahl4": 9,
+    "Zahl5": 36,
+    "Zahl6": 29,
+    "Superzahl": 2,
+    "date": "2019-07-20"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 27,
+    "Zahl3": 40,
+    "Zahl4": 45,
+    "Zahl5": 23,
+    "Zahl6": 39,
+    "Superzahl": 9,
+    "date": "2019-07-24"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 17,
+    "Zahl3": 5,
+    "Zahl4": 23,
+    "Zahl5": 21,
+    "Zahl6": 35,
+    "Superzahl": 6,
+    "date": "2019-07-27"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 1,
+    "Zahl3": 35,
+    "Zahl4": 17,
+    "Zahl5": 13,
+    "Zahl6": 23,
+    "Superzahl": 7,
+    "date": "2019-07-31"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 44,
+    "Zahl3": 34,
+    "Zahl4": 40,
+    "Zahl5": 2,
+    "Zahl6": 3,
+    "Superzahl": 7,
+    "date": "2019-08-03"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 30,
+    "Zahl3": 27,
+    "Zahl4": 47,
+    "Zahl5": 21,
+    "Zahl6": 15,
+    "Superzahl": 2,
+    "date": "2019-08-07"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 18,
+    "Zahl3": 10,
+    "Zahl4": 16,
+    "Zahl5": 1,
+    "Zahl6": 35,
+    "Superzahl": 2,
+    "date": "2019-08-10"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 15,
+    "Zahl3": 3,
+    "Zahl4": 18,
+    "Zahl5": 30,
+    "Zahl6": 41,
+    "Superzahl": 1,
+    "date": "2019-08-14"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 45,
+    "Zahl3": 9,
+    "Zahl4": 28,
+    "Zahl5": 2,
+    "Zahl6": 6,
+    "Superzahl": 0,
+    "date": "2019-08-17"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 44,
+    "Zahl3": 45,
+    "Zahl4": 30,
+    "Zahl5": 39,
+    "Zahl6": 12,
+    "Superzahl": 9,
+    "date": "2019-08-21"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 42,
+    "Zahl3": 5,
+    "Zahl4": 38,
+    "Zahl5": 29,
+    "Zahl6": 9,
+    "Superzahl": 1,
+    "date": "2019-08-24"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 31,
+    "Zahl3": 10,
+    "Zahl4": 34,
+    "Zahl5": 22,
+    "Zahl6": 14,
+    "Superzahl": 3,
+    "date": "2019-08-28"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 3,
+    "Zahl3": 17,
+    "Zahl4": 25,
+    "Zahl5": 5,
+    "Zahl6": 2,
+    "Superzahl": 4,
+    "date": "2019-08-31"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 34,
+    "Zahl3": 29,
+    "Zahl4": 28,
+    "Zahl5": 42,
+    "Zahl6": 36,
+    "Superzahl": 4,
+    "date": "2019-09-04"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 36,
+    "Zahl3": 29,
+    "Zahl4": 9,
+    "Zahl5": 11,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2019-09-07"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 28,
+    "Zahl3": 17,
+    "Zahl4": 3,
+    "Zahl5": 8,
+    "Zahl6": 38,
+    "Superzahl": 1,
+    "date": "2019-09-11"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 43,
+    "Zahl3": 16,
+    "Zahl4": 31,
+    "Zahl5": 34,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2019-09-14"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 24,
+    "Zahl3": 18,
+    "Zahl4": 34,
+    "Zahl5": 46,
+    "Zahl6": 48,
+    "Superzahl": 8,
+    "date": "2019-09-18"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 47,
+    "Zahl3": 37,
+    "Zahl4": 16,
+    "Zahl5": 12,
+    "Zahl6": 14,
+    "Superzahl": 6,
+    "date": "2019-09-21"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 5,
+    "Zahl3": 37,
+    "Zahl4": 33,
+    "Zahl5": 7,
+    "Zahl6": 23,
+    "Superzahl": 8,
+    "date": "2019-09-25"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 30,
+    "Zahl3": 44,
+    "Zahl4": 24,
+    "Zahl5": 13,
+    "Zahl6": 27,
+    "Superzahl": 7,
+    "date": "2019-09-28"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 48,
+    "Zahl3": 29,
+    "Zahl4": 26,
+    "Zahl5": 33,
+    "Zahl6": 31,
+    "Superzahl": 0,
+    "date": "2019-10-02"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 8,
+    "Zahl3": 47,
+    "Zahl4": 49,
+    "Zahl5": 27,
+    "Zahl6": 36,
+    "Superzahl": 5,
+    "date": "2019-10-05"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 12,
+    "Zahl3": 32,
+    "Zahl4": 22,
+    "Zahl5": 40,
+    "Zahl6": 2,
+    "Superzahl": 8,
+    "date": "2019-10-09"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 4,
+    "Zahl3": 23,
+    "Zahl4": 36,
+    "Zahl5": 44,
+    "Zahl6": 42,
+    "Superzahl": 7,
+    "date": "2019-10-12"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 5,
+    "Zahl3": 31,
+    "Zahl4": 38,
+    "Zahl5": 9,
+    "Zahl6": 12,
+    "Superzahl": 8,
+    "date": "2019-10-16"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 7,
+    "Zahl3": 38,
+    "Zahl4": 4,
+    "Zahl5": 33,
+    "Zahl6": 11,
+    "Superzahl": 9,
+    "date": "2019-10-19"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 16,
+    "Zahl3": 19,
+    "Zahl4": 31,
+    "Zahl5": 26,
+    "Zahl6": 1,
+    "Superzahl": 5,
+    "date": "2019-10-23"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 17,
+    "Zahl3": 44,
+    "Zahl4": 2,
+    "Zahl5": 37,
+    "Zahl6": 11,
+    "Superzahl": 6,
+    "date": "2019-10-26"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 28,
+    "Zahl3": 48,
+    "Zahl4": 23,
+    "Zahl5": 44,
+    "Zahl6": 22,
+    "Superzahl": 9,
+    "date": "2019-10-30"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 6,
+    "Zahl3": 41,
+    "Zahl4": 15,
+    "Zahl5": 25,
+    "Zahl6": 17,
+    "Superzahl": 3,
+    "date": "2019-11-02"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 39,
+    "Zahl3": 46,
+    "Zahl4": 45,
+    "Zahl5": 32,
+    "Zahl6": 7,
+    "Superzahl": 4,
+    "date": "2019-11-06"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 33,
+    "Zahl3": 40,
+    "Zahl4": 44,
+    "Zahl5": 28,
+    "Zahl6": 31,
+    "Superzahl": 7,
+    "date": "2019-11-09"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 44,
+    "Zahl3": 38,
+    "Zahl4": 20,
+    "Zahl5": 18,
+    "Zahl6": 29,
+    "Superzahl": 0,
+    "date": "2019-11-13"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 25,
+    "Zahl3": 4,
+    "Zahl4": 1,
+    "Zahl5": 28,
+    "Zahl6": 16,
+    "Superzahl": 1,
+    "date": "2019-11-16"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 18,
+    "Zahl3": 2,
+    "Zahl4": 42,
+    "Zahl5": 31,
+    "Zahl6": 7,
+    "Superzahl": 0,
+    "date": "2019-11-20"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 24,
+    "Zahl3": 5,
+    "Zahl4": 28,
+    "Zahl5": 11,
+    "Zahl6": 26,
+    "Superzahl": 5,
+    "date": "2019-11-23"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 40,
+    "Zahl3": 1,
+    "Zahl4": 20,
+    "Zahl5": 12,
+    "Zahl6": 33,
+    "Superzahl": 9,
+    "date": "2019-11-27"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 33,
+    "Zahl3": 47,
+    "Zahl4": 38,
+    "Zahl5": 43,
+    "Zahl6": 42,
+    "Superzahl": 5,
+    "date": "2019-11-30"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 46,
+    "Zahl3": 12,
+    "Zahl4": 35,
+    "Zahl5": 45,
+    "Zahl6": 13,
+    "Superzahl": 2,
+    "date": "2019-12-04"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 11,
+    "Zahl3": 20,
+    "Zahl4": 19,
+    "Zahl5": 2,
+    "Zahl6": 43,
+    "Superzahl": 4,
+    "date": "2019-12-07"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 27,
+    "Zahl3": 36,
+    "Zahl4": 45,
+    "Zahl5": 14,
+    "Zahl6": 32,
+    "Superzahl": 5,
+    "date": "2019-12-11"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 20,
+    "Zahl3": 31,
+    "Zahl4": 16,
+    "Zahl5": 38,
+    "Zahl6": 34,
+    "Superzahl": 8,
+    "date": "2019-12-14"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 42,
+    "Zahl3": 6,
+    "Zahl4": 48,
+    "Zahl5": 20,
+    "Zahl6": 19,
+    "Superzahl": 4,
+    "date": "2019-12-18"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 4,
+    "Zahl3": 13,
+    "Zahl4": 14,
+    "Zahl5": 35,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2019-12-21"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 41,
+    "Zahl3": 33,
+    "Zahl4": 36,
+    "Zahl5": 22,
+    "Zahl6": 17,
+    "Superzahl": 2,
+    "date": "2019-12-25"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 19,
+    "Zahl3": 7,
+    "Zahl4": 18,
+    "Zahl5": 24,
+    "Zahl6": 23,
+    "Superzahl": 2,
+    "date": "2019-12-28"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 17,
+    "Zahl3": 44,
+    "Zahl4": 13,
+    "Zahl5": 7,
+    "Zahl6": 37,
+    "Superzahl": 8,
+    "date": "2020-01-01"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 7,
+    "Zahl3": 27,
+    "Zahl4": 1,
+    "Zahl5": 18,
+    "Zahl6": 13,
+    "Superzahl": 1,
+    "date": "2020-01-04"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 11,
+    "Zahl3": 25,
+    "Zahl4": 3,
+    "Zahl5": 2,
+    "Zahl6": 27,
+    "Superzahl": 2,
+    "date": "2020-01-08"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 48,
+    "Zahl3": 19,
+    "Zahl4": 28,
+    "Zahl5": 42,
+    "Zahl6": 10,
+    "Superzahl": 9,
+    "date": "2020-01-11"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 24,
+    "Zahl3": 8,
+    "Zahl4": 46,
+    "Zahl5": 31,
+    "Zahl6": 43,
+    "Superzahl": 4,
+    "date": "2020-01-15"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 41,
+    "Zahl3": 22,
+    "Zahl4": 43,
+    "Zahl5": 14,
+    "Zahl6": 32,
+    "Superzahl": 3,
+    "date": "2020-01-18"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 41,
+    "Zahl3": 33,
+    "Zahl4": 23,
+    "Zahl5": 3,
+    "Zahl6": 47,
+    "Superzahl": 4,
+    "date": "2020-01-22"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 12,
+    "Zahl3": 9,
+    "Zahl4": 28,
+    "Zahl5": 34,
+    "Zahl6": 43,
+    "Superzahl": 3,
+    "date": "2020-01-25"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 24,
+    "Zahl3": 48,
+    "Zahl4": 17,
+    "Zahl5": 49,
+    "Zahl6": 39,
+    "Superzahl": 0,
+    "date": "2020-01-29"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 8,
+    "Zahl3": 42,
+    "Zahl4": 32,
+    "Zahl5": 12,
+    "Zahl6": 7,
+    "Superzahl": 6,
+    "date": "2020-02-01"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 39,
+    "Zahl3": 13,
+    "Zahl4": 37,
+    "Zahl5": 16,
+    "Zahl6": 31,
+    "Superzahl": 7,
+    "date": "2020-02-05"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 36,
+    "Zahl3": 42,
+    "Zahl4": 38,
+    "Zahl5": 10,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2020-02-08"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 24,
+    "Zahl3": 31,
+    "Zahl4": 41,
+    "Zahl5": 2,
+    "Zahl6": 10,
+    "Superzahl": 3,
+    "date": "2020-02-12"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 20,
+    "Zahl3": 40,
+    "Zahl4": 22,
+    "Zahl5": 5,
+    "Zahl6": 11,
+    "Superzahl": 5,
+    "date": "2020-02-15"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 27,
+    "Zahl3": 3,
+    "Zahl4": 11,
+    "Zahl5": 7,
+    "Zahl6": 42,
+    "Superzahl": 7,
+    "date": "2020-02-19"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 6,
+    "Zahl3": 31,
+    "Zahl4": 24,
+    "Zahl5": 21,
+    "Zahl6": 32,
+    "Superzahl": 0,
+    "date": "2020-02-22"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 5,
+    "Zahl3": 33,
+    "Zahl4": 2,
+    "Zahl5": 18,
+    "Zahl6": 45,
+    "Superzahl": 7,
+    "date": "2020-02-26"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 42,
+    "Zahl3": 10,
+    "Zahl4": 3,
+    "Zahl5": 9,
+    "Zahl6": 8,
+    "Superzahl": 0,
+    "date": "2020-02-29"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 46,
+    "Zahl3": 14,
+    "Zahl4": 19,
+    "Zahl5": 29,
+    "Zahl6": 47,
+    "Superzahl": 5,
+    "date": "2020-03-04"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 26,
+    "Zahl3": 36,
+    "Zahl4": 11,
+    "Zahl5": 44,
+    "Zahl6": 16,
+    "Superzahl": 0,
+    "date": "2020-03-07"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 23,
+    "Zahl3": 49,
+    "Zahl4": 41,
+    "Zahl5": 47,
+    "Zahl6": 7,
+    "Superzahl": 5,
+    "date": "2020-03-11"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 49,
+    "Zahl3": 11,
+    "Zahl4": 30,
+    "Zahl5": 2,
+    "Zahl6": 19,
+    "Superzahl": 2,
+    "date": "2020-03-14"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 31,
+    "Zahl3": 28,
+    "Zahl4": 13,
+    "Zahl5": 34,
+    "Zahl6": 22,
+    "Superzahl": 5,
+    "date": "2020-03-18"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 4,
+    "Zahl3": 36,
+    "Zahl4": 34,
+    "Zahl5": 26,
+    "Zahl6": 1,
+    "Superzahl": 4,
+    "date": "2020-03-21"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 6,
+    "Zahl3": 18,
+    "Zahl4": 35,
+    "Zahl5": 21,
+    "Zahl6": 49,
+    "Superzahl": 9,
+    "date": "2020-03-25"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 36,
+    "Zahl3": 4,
+    "Zahl4": 39,
+    "Zahl5": 28,
+    "Zahl6": 2,
+    "Superzahl": 7,
+    "date": "2020-03-28"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 46,
+    "Zahl3": 48,
+    "Zahl4": 39,
+    "Zahl5": 22,
+    "Zahl6": 4,
+    "Superzahl": 6,
+    "date": "2020-04-01"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 24,
+    "Zahl3": 43,
+    "Zahl4": 41,
+    "Zahl5": 17,
+    "Zahl6": 9,
+    "Superzahl": 1,
+    "date": "2020-04-04"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 25,
+    "Zahl3": 22,
+    "Zahl4": 18,
+    "Zahl5": 44,
+    "Zahl6": 5,
+    "Superzahl": 4,
+    "date": "2020-04-08"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 29,
+    "Zahl3": 47,
+    "Zahl4": 13,
+    "Zahl5": 18,
+    "Zahl6": 42,
+    "Superzahl": 4,
+    "date": "2020-04-11"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 24,
+    "Zahl3": 27,
+    "Zahl4": 30,
+    "Zahl5": 11,
+    "Zahl6": 46,
+    "Superzahl": 0,
+    "date": "2020-04-15"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 28,
+    "Zahl3": 42,
+    "Zahl4": 11,
+    "Zahl5": 39,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2020-04-18"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 29,
+    "Zahl3": 34,
+    "Zahl4": 9,
+    "Zahl5": 49,
+    "Zahl6": 39,
+    "Superzahl": 7,
+    "date": "2020-04-22"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 17,
+    "Zahl3": 19,
+    "Zahl4": 30,
+    "Zahl5": 25,
+    "Zahl6": 11,
+    "Superzahl": 4,
+    "date": "2020-04-25"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 5,
+    "Zahl3": 41,
+    "Zahl4": 32,
+    "Zahl5": 7,
+    "Zahl6": 36,
+    "Superzahl": 9,
+    "date": "2020-04-29"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 11,
+    "Zahl3": 27,
+    "Zahl4": 4,
+    "Zahl5": 49,
+    "Zahl6": 16,
+    "Superzahl": 2,
+    "date": "2020-05-02"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 19,
+    "Zahl3": 47,
+    "Zahl4": 43,
+    "Zahl5": 5,
+    "Zahl6": 34,
+    "Superzahl": 5,
+    "date": "2020-05-06"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 2,
+    "Zahl3": 23,
+    "Zahl4": 9,
+    "Zahl5": 17,
+    "Zahl6": 22,
+    "Superzahl": 7,
+    "date": "2020-05-09"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 21,
+    "Zahl3": 46,
+    "Zahl4": 43,
+    "Zahl5": 20,
+    "Zahl6": 12,
+    "Superzahl": 4,
+    "date": "2020-05-13"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 8,
+    "Zahl3": 3,
+    "Zahl4": 6,
+    "Zahl5": 11,
+    "Zahl6": 48,
+    "Superzahl": 4,
+    "date": "2020-05-16"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 31,
+    "Zahl3": 33,
+    "Zahl4": 45,
+    "Zahl5": 49,
+    "Zahl6": 9,
+    "Superzahl": 1,
+    "date": "2020-05-20"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 35,
+    "Zahl3": 1,
+    "Zahl4": 27,
+    "Zahl5": 11,
+    "Zahl6": 4,
+    "Superzahl": 8,
+    "date": "2020-05-23"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 43,
+    "Zahl3": 47,
+    "Zahl4": 39,
+    "Zahl5": 4,
+    "Zahl6": 36,
+    "Superzahl": 3,
+    "date": "2020-05-27"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 18,
+    "Zahl3": 35,
+    "Zahl4": 5,
+    "Zahl5": 33,
+    "Zahl6": 43,
+    "Superzahl": 0,
+    "date": "2020-05-30"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 25,
+    "Zahl3": 33,
+    "Zahl4": 38,
+    "Zahl5": 31,
+    "Zahl6": 43,
+    "Superzahl": 0,
+    "date": "2020-06-03"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 21,
+    "Zahl3": 25,
+    "Zahl4": 49,
+    "Zahl5": 40,
+    "Zahl6": 18,
+    "Superzahl": 1,
+    "date": "2020-06-06"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 42,
+    "Zahl3": 11,
+    "Zahl4": 2,
+    "Zahl5": 20,
+    "Zahl6": 17,
+    "Superzahl": 1,
+    "date": "2020-06-10"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 14,
+    "Zahl3": 36,
+    "Zahl4": 38,
+    "Zahl5": 43,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2020-06-13"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 29,
+    "Zahl3": 13,
+    "Zahl4": 48,
+    "Zahl5": 38,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2020-06-17"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 11,
+    "Zahl3": 7,
+    "Zahl4": 2,
+    "Zahl5": 40,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2020-06-20"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 5,
+    "Zahl3": 18,
+    "Zahl4": 34,
+    "Zahl5": 11,
+    "Zahl6": 41,
+    "Superzahl": 3,
+    "date": "2020-06-24"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 49,
+    "Zahl3": 24,
+    "Zahl4": 27,
+    "Zahl5": 14,
+    "Zahl6": 21,
+    "Superzahl": 4,
+    "date": "2020-06-27"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 32,
+    "Zahl3": 36,
+    "Zahl4": 2,
+    "Zahl5": 44,
+    "Zahl6": 39,
+    "Superzahl": 1,
+    "date": "2020-07-01"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 49,
+    "Zahl3": 17,
+    "Zahl4": 36,
+    "Zahl5": 33,
+    "Zahl6": 6,
+    "Superzahl": 0,
+    "date": "2020-07-04"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 41,
+    "Zahl3": 9,
+    "Zahl4": 44,
+    "Zahl5": 28,
+    "Zahl6": 23,
+    "Superzahl": 7,
+    "date": "2020-07-08"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 32,
+    "Zahl3": 46,
+    "Zahl4": 16,
+    "Zahl5": 38,
+    "Zahl6": 8,
+    "Superzahl": 7,
+    "date": "2020-07-11"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 13,
+    "Zahl3": 25,
+    "Zahl4": 14,
+    "Zahl5": 35,
+    "Zahl6": 47,
+    "Superzahl": 6,
+    "date": "2020-07-15"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 11,
+    "Zahl3": 25,
+    "Zahl4": 34,
+    "Zahl5": 28,
+    "Zahl6": 49,
+    "Superzahl": 7,
+    "date": "2020-07-18"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 25,
+    "Zahl3": 17,
+    "Zahl4": 6,
+    "Zahl5": 11,
+    "Zahl6": 24,
+    "Superzahl": 1,
+    "date": "2020-07-22"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 37,
+    "Zahl3": 10,
+    "Zahl4": 2,
+    "Zahl5": 27,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2020-07-25"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 20,
+    "Zahl3": 15,
+    "Zahl4": 34,
+    "Zahl5": 3,
+    "Zahl6": 43,
+    "Superzahl": 7,
+    "date": "2020-07-29"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 1,
+    "Zahl3": 33,
+    "Zahl4": 20,
+    "Zahl5": 24,
+    "Zahl6": 38,
+    "Superzahl": 0,
+    "date": "2020-08-01"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 42,
+    "Zahl3": 33,
+    "Zahl4": 6,
+    "Zahl5": 8,
+    "Zahl6": 24,
+    "Superzahl": 4,
+    "date": "2020-08-05"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 48,
+    "Zahl3": 8,
+    "Zahl4": 18,
+    "Zahl5": 14,
+    "Zahl6": 25,
+    "Superzahl": 7,
+    "date": "2020-08-08"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 35,
+    "Zahl3": 20,
+    "Zahl4": 34,
+    "Zahl5": 4,
+    "Zahl6": 45,
+    "Superzahl": 4,
+    "date": "2020-08-12"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 40,
+    "Zahl3": 44,
+    "Zahl4": 31,
+    "Zahl5": 46,
+    "Zahl6": 16,
+    "Superzahl": 0,
+    "date": "2020-08-15"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 48,
+    "Zahl3": 38,
+    "Zahl4": 18,
+    "Zahl5": 5,
+    "Zahl6": 22,
+    "Superzahl": 1,
+    "date": "2020-08-19"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 2,
+    "Zahl3": 10,
+    "Zahl4": 37,
+    "Zahl5": 1,
+    "Zahl6": 8,
+    "Superzahl": 5,
+    "date": "2020-08-22"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 18,
+    "Zahl3": 39,
+    "Zahl4": 26,
+    "Zahl5": 15,
+    "Zahl6": 3,
+    "Superzahl": 3,
+    "date": "2020-08-26"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 1,
+    "Zahl3": 36,
+    "Zahl4": 12,
+    "Zahl5": 48,
+    "Zahl6": 20,
+    "Superzahl": 5,
+    "date": "2020-08-29"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 49,
+    "Zahl3": 6,
+    "Zahl4": 10,
+    "Zahl5": 23,
+    "Zahl6": 45,
+    "Superzahl": 3,
+    "date": "2020-09-02"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 1,
+    "Zahl3": 19,
+    "Zahl4": 3,
+    "Zahl5": 13,
+    "Zahl6": 44,
+    "Superzahl": 5,
+    "date": "2020-09-05"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 49,
+    "Zahl3": 24,
+    "Zahl4": 46,
+    "Zahl5": 22,
+    "Zahl6": 9,
+    "Superzahl": 0,
+    "date": "2020-09-09"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 11,
+    "Zahl3": 16,
+    "Zahl4": 41,
+    "Zahl5": 40,
+    "Zahl6": 28,
+    "Superzahl": 7,
+    "date": "2020-09-12"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 43,
+    "Zahl3": 8,
+    "Zahl4": 48,
+    "Zahl5": 31,
+    "Zahl6": 44,
+    "Superzahl": 8,
+    "date": "2020-09-16"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 38,
+    "Zahl3": 29,
+    "Zahl4": 23,
+    "Zahl5": 8,
+    "Zahl6": 1,
+    "Superzahl": 2,
+    "date": "2020-09-19"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 6,
+    "Zahl3": 32,
+    "Zahl4": 25,
+    "Zahl5": 19,
+    "Zahl6": 33,
+    "Superzahl": 0,
+    "date": "2020-09-23"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 22,
+    "Zahl3": 6,
+    "Zahl4": 47,
+    "Zahl5": 27,
+    "Zahl6": 12,
+    "Superzahl": 7,
+    "date": "2020-09-26"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 5,
+    "Zahl3": 7,
+    "Zahl4": 43,
+    "Zahl5": 33,
+    "Zahl6": 21,
+    "Superzahl": 4,
+    "date": "2020-09-30"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 13,
+    "Zahl3": 20,
+    "Zahl4": 25,
+    "Zahl5": 33,
+    "Zahl6": 10,
+    "Superzahl": 8,
+    "date": "2020-10-03"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 38,
+    "Zahl3": 5,
+    "Zahl4": 37,
+    "Zahl5": 44,
+    "Zahl6": 8,
+    "Superzahl": 0,
+    "date": "2020-10-07"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 16,
+    "Zahl3": 8,
+    "Zahl4": 33,
+    "Zahl5": 22,
+    "Zahl6": 4,
+    "Superzahl": 6,
+    "date": "2020-10-10"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 27,
+    "Zahl3": 14,
+    "Zahl4": 25,
+    "Zahl5": 26,
+    "Zahl6": 6,
+    "Superzahl": 2,
+    "date": "2020-10-14"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 2,
+    "Zahl3": 41,
+    "Zahl4": 16,
+    "Zahl5": 5,
+    "Zahl6": 48,
+    "Superzahl": 8,
+    "date": "2020-10-17"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 16,
+    "Zahl3": 20,
+    "Zahl4": 34,
+    "Zahl5": 23,
+    "Zahl6": 47,
+    "Superzahl": 6,
+    "date": "2020-10-21"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 1,
+    "Zahl3": 20,
+    "Zahl4": 24,
+    "Zahl5": 40,
+    "Zahl6": 6,
+    "Superzahl": 6,
+    "date": "2020-10-24"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 43,
+    "Zahl3": 12,
+    "Zahl4": 23,
+    "Zahl5": 36,
+    "Zahl6": 2,
+    "Superzahl": 4,
+    "date": "2020-10-28"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 11,
+    "Zahl3": 8,
+    "Zahl4": 21,
+    "Zahl5": 1,
+    "Zahl6": 26,
+    "Superzahl": 8,
+    "date": "2020-10-31"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 45,
+    "Zahl3": 2,
+    "Zahl4": 7,
+    "Zahl5": 43,
+    "Zahl6": 17,
+    "Superzahl": 9,
+    "date": "2020-11-04"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 40,
+    "Zahl3": 45,
+    "Zahl4": 33,
+    "Zahl5": 36,
+    "Zahl6": 24,
+    "Superzahl": 4,
+    "date": "2020-11-07"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 33,
+    "Zahl3": 10,
+    "Zahl4": 38,
+    "Zahl5": 37,
+    "Zahl6": 11,
+    "Superzahl": 9,
+    "date": "2020-11-11"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 18,
+    "Zahl3": 16,
+    "Zahl4": 20,
+    "Zahl5": 10,
+    "Zahl6": 1,
+    "Superzahl": 4,
+    "date": "2020-11-14"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 35,
+    "Zahl3": 41,
+    "Zahl4": 29,
+    "Zahl5": 8,
+    "Zahl6": 19,
+    "Superzahl": 7,
+    "date": "2020-11-18"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 25,
+    "Zahl3": 39,
+    "Zahl4": 1,
+    "Zahl5": 14,
+    "Zahl6": 21,
+    "Superzahl": 0,
+    "date": "2020-11-21"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 10,
+    "Zahl3": 30,
+    "Zahl4": 11,
+    "Zahl5": 17,
+    "Zahl6": 16,
+    "Superzahl": 4,
+    "date": "2020-11-25"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 28,
+    "Zahl3": 13,
+    "Zahl4": 2,
+    "Zahl5": 47,
+    "Zahl6": 35,
+    "Superzahl": 8,
+    "date": "2020-11-28"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 41,
+    "Zahl3": 2,
+    "Zahl4": 43,
+    "Zahl5": 32,
+    "Zahl6": 44,
+    "Superzahl": 1,
+    "date": "2020-12-02"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 25,
+    "Zahl3": 15,
+    "Zahl4": 41,
+    "Zahl5": 12,
+    "Zahl6": 48,
+    "Superzahl": 5,
+    "date": "2020-12-05"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 13,
+    "Zahl3": 3,
+    "Zahl4": 15,
+    "Zahl5": 40,
+    "Zahl6": 11,
+    "Superzahl": 2,
+    "date": "2020-12-09"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 39,
+    "Zahl3": 3,
+    "Zahl4": 2,
+    "Zahl5": 21,
+    "Zahl6": 1,
+    "Superzahl": 7,
+    "date": "2020-12-12"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 19,
+    "Zahl3": 17,
+    "Zahl4": 2,
+    "Zahl5": 22,
+    "Zahl6": 48,
+    "Superzahl": 6,
+    "date": "2020-12-16"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 48,
+    "Zahl3": 3,
+    "Zahl4": 6,
+    "Zahl5": 47,
+    "Zahl6": 22,
+    "Superzahl": 0,
+    "date": "2020-12-19"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 12,
+    "Zahl3": 37,
+    "Zahl4": 13,
+    "Zahl5": 38,
+    "Zahl6": 11,
+    "Superzahl": 7,
+    "date": "2020-12-23"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 12,
+    "Zahl3": 7,
+    "Zahl4": 13,
+    "Zahl5": 2,
+    "Zahl6": 5,
+    "Superzahl": 3,
+    "date": "2020-12-26"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 8,
+    "Zahl3": 44,
+    "Zahl4": 5,
+    "Zahl5": 40,
+    "Zahl6": 45,
+    "Superzahl": 9,
+    "date": "2020-12-30"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 7,
+    "Zahl3": 34,
+    "Zahl4": 28,
+    "Zahl5": 16,
+    "Zahl6": 8,
+    "Superzahl": 6,
+    "date": "2021-01-02"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 21,
+    "Zahl3": 14,
+    "Zahl4": 32,
+    "Zahl5": 37,
+    "Zahl6": 44,
+    "Superzahl": 6,
+    "date": "2021-01-06"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 41,
+    "Zahl3": 19,
+    "Zahl4": 16,
+    "Zahl5": 20,
+    "Zahl6": 7,
+    "Superzahl": 5,
+    "date": "2021-01-09"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 23,
+    "Zahl3": 38,
+    "Zahl4": 40,
+    "Zahl5": 26,
+    "Zahl6": 7,
+    "Superzahl": 6,
+    "date": "2021-01-13"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 45,
+    "Zahl3": 1,
+    "Zahl4": 5,
+    "Zahl5": 35,
+    "Zahl6": 37,
+    "Superzahl": 3,
+    "date": "2021-01-16"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 11,
+    "Zahl3": 35,
+    "Zahl4": 6,
+    "Zahl5": 31,
+    "Zahl6": 5,
+    "Superzahl": 0,
+    "date": "2021-01-20"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 49,
+    "Zahl3": 32,
+    "Zahl4": 13,
+    "Zahl5": 16,
+    "Zahl6": 12,
+    "Superzahl": 7,
+    "date": "2021-01-23"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 45,
+    "Zahl3": 4,
+    "Zahl4": 16,
+    "Zahl5": 1,
+    "Zahl6": 15,
+    "Superzahl": 3,
+    "date": "2021-01-27"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 40,
+    "Zahl3": 33,
+    "Zahl4": 43,
+    "Zahl5": 6,
+    "Zahl6": 36,
+    "Superzahl": 1,
+    "date": "2021-01-30"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 3,
+    "Zahl3": 12,
+    "Zahl4": 10,
+    "Zahl5": 6,
+    "Zahl6": 47,
+    "Superzahl": 9,
+    "date": "2021-02-03"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 8,
+    "Zahl3": 12,
+    "Zahl4": 38,
+    "Zahl5": 41,
+    "Zahl6": 23,
+    "Superzahl": 9,
+    "date": "2021-02-06"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 32,
+    "Zahl3": 27,
+    "Zahl4": 46,
+    "Zahl5": 19,
+    "Zahl6": 5,
+    "Superzahl": 6,
+    "date": "2021-02-10"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 15,
+    "Zahl3": 29,
+    "Zahl4": 47,
+    "Zahl5": 20,
+    "Zahl6": 14,
+    "Superzahl": 9,
+    "date": "2021-02-13"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 29,
+    "Zahl3": 48,
+    "Zahl4": 40,
+    "Zahl5": 25,
+    "Zahl6": 10,
+    "Superzahl": 9,
+    "date": "2021-02-17"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 26,
+    "Zahl3": 6,
+    "Zahl4": 42,
+    "Zahl5": 3,
+    "Zahl6": 15,
+    "Superzahl": 4,
+    "date": "2021-02-20"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 5,
+    "Zahl3": 46,
+    "Zahl4": 13,
+    "Zahl5": 1,
+    "Zahl6": 44,
+    "Superzahl": 3,
+    "date": "2021-02-24"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 2,
+    "Zahl3": 47,
+    "Zahl4": 23,
+    "Zahl5": 9,
+    "Zahl6": 19,
+    "Superzahl": 7,
+    "date": "2021-02-27"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 23,
+    "Zahl3": 9,
+    "Zahl4": 27,
+    "Zahl5": 10,
+    "Zahl6": 1,
+    "Superzahl": 4,
+    "date": "2021-03-03"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 35,
+    "Zahl3": 3,
+    "Zahl4": 29,
+    "Zahl5": 1,
+    "Zahl6": 7,
+    "Superzahl": 7,
+    "date": "2021-03-06"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 8,
+    "Zahl3": 7,
+    "Zahl4": 46,
+    "Zahl5": 30,
+    "Zahl6": 21,
+    "Superzahl": 6,
+    "date": "2021-03-10"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 24,
+    "Zahl3": 4,
+    "Zahl4": 47,
+    "Zahl5": 19,
+    "Zahl6": 48,
+    "Superzahl": 8,
+    "date": "2021-03-13"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 1,
+    "Zahl3": 31,
+    "Zahl4": 18,
+    "Zahl5": 41,
+    "Zahl6": 30,
+    "Superzahl": 3,
+    "date": "2021-03-17"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 15,
+    "Zahl3": 35,
+    "Zahl4": 16,
+    "Zahl5": 2,
+    "Zahl6": 17,
+    "Superzahl": 7,
+    "date": "2021-03-20"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 23,
+    "Zahl3": 4,
+    "Zahl4": 14,
+    "Zahl5": 11,
+    "Zahl6": 48,
+    "Superzahl": 4,
+    "date": "2021-03-24"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 12,
+    "Zahl3": 31,
+    "Zahl4": 46,
+    "Zahl5": 4,
+    "Zahl6": 19,
+    "Superzahl": 6,
+    "date": "2021-03-27"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 12,
+    "Zahl3": 1,
+    "Zahl4": 16,
+    "Zahl5": 48,
+    "Zahl6": 24,
+    "Superzahl": 4,
+    "date": "2021-03-31"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 29,
+    "Zahl3": 36,
+    "Zahl4": 40,
+    "Zahl5": 23,
+    "Zahl6": 34,
+    "Superzahl": 6,
+    "date": "2021-04-03"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 18,
+    "Zahl3": 19,
+    "Zahl4": 9,
+    "Zahl5": 10,
+    "Zahl6": 36,
+    "Superzahl": 0,
+    "date": "2021-04-07"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 4,
+    "Zahl3": 45,
+    "Zahl4": 6,
+    "Zahl5": 9,
+    "Zahl6": 15,
+    "Superzahl": 7,
+    "date": "2021-04-10"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 18,
+    "Zahl3": 4,
+    "Zahl4": 46,
+    "Zahl5": 20,
+    "Zahl6": 19,
+    "Superzahl": 5,
+    "date": "2021-04-14"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 26,
+    "Zahl3": 22,
+    "Zahl4": 25,
+    "Zahl5": 36,
+    "Zahl6": 18,
+    "Superzahl": 0,
+    "date": "2021-04-17"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 47,
+    "Zahl3": 18,
+    "Zahl4": 27,
+    "Zahl5": 37,
+    "Zahl6": 24,
+    "Superzahl": 0,
+    "date": "2021-04-21"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 1,
+    "Zahl3": 24,
+    "Zahl4": 25,
+    "Zahl5": 4,
+    "Zahl6": 34,
+    "Superzahl": 1,
+    "date": "2021-04-24"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 46,
+    "Zahl3": 13,
+    "Zahl4": 31,
+    "Zahl5": 21,
+    "Zahl6": 23,
+    "Superzahl": 0,
+    "date": "2021-04-28"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 42,
+    "Zahl3": 15,
+    "Zahl4": 37,
+    "Zahl5": 21,
+    "Zahl6": 1,
+    "Superzahl": 1,
+    "date": "2021-05-01"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 21,
+    "Zahl3": 10,
+    "Zahl4": 15,
+    "Zahl5": 6,
+    "Zahl6": 4,
+    "Superzahl": 8,
+    "date": "2021-05-05"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 22,
+    "Zahl3": 10,
+    "Zahl4": 47,
+    "Zahl5": 23,
+    "Zahl6": 13,
+    "Superzahl": 2,
+    "date": "2021-05-08"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 42,
+    "Zahl3": 2,
+    "Zahl4": 1,
+    "Zahl5": 18,
+    "Zahl6": 44,
+    "Superzahl": 6,
+    "date": "2021-05-12"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 5,
+    "Zahl3": 2,
+    "Zahl4": 25,
+    "Zahl5": 26,
+    "Zahl6": 41,
+    "Superzahl": 1,
+    "date": "2021-05-15"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 14,
+    "Zahl3": 38,
+    "Zahl4": 45,
+    "Zahl5": 5,
+    "Zahl6": 25,
+    "Superzahl": 4,
+    "date": "2021-05-19"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 40,
+    "Zahl3": 8,
+    "Zahl4": 17,
+    "Zahl5": 3,
+    "Zahl6": 43,
+    "Superzahl": 2,
+    "date": "2021-05-22"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 44,
+    "Zahl3": 46,
+    "Zahl4": 2,
+    "Zahl5": 35,
+    "Zahl6": 23,
+    "Superzahl": 7,
+    "date": "2021-05-26"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 16,
+    "Zahl3": 9,
+    "Zahl4": 45,
+    "Zahl5": 10,
+    "Zahl6": 46,
+    "Superzahl": 8,
+    "date": "2021-05-29"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 15,
+    "Zahl3": 35,
+    "Zahl4": 10,
+    "Zahl5": 45,
+    "Zahl6": 39,
+    "Superzahl": 0,
+    "date": "2021-06-02"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 35,
+    "Zahl3": 31,
+    "Zahl4": 47,
+    "Zahl5": 14,
+    "Zahl6": 44,
+    "Superzahl": 1,
+    "date": "2021-06-05"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 41,
+    "Zahl3": 22,
+    "Zahl4": 17,
+    "Zahl5": 49,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2021-06-09"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 49,
+    "Zahl3": 5,
+    "Zahl4": 1,
+    "Zahl5": 29,
+    "Zahl6": 11,
+    "Superzahl": 0,
+    "date": "2021-06-12"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 44,
+    "Zahl3": 22,
+    "Zahl4": 1,
+    "Zahl5": 25,
+    "Zahl6": 28,
+    "Superzahl": 7,
+    "date": "2021-06-16"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 11,
+    "Zahl3": 36,
+    "Zahl4": 19,
+    "Zahl5": 21,
+    "Zahl6": 35,
+    "Superzahl": 2,
+    "date": "2021-06-19"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 9,
+    "Zahl3": 46,
+    "Zahl4": 20,
+    "Zahl5": 33,
+    "Zahl6": 6,
+    "Superzahl": 5,
+    "date": "2021-06-23"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 19,
+    "Zahl3": 17,
+    "Zahl4": 45,
+    "Zahl5": 24,
+    "Zahl6": 13,
+    "Superzahl": 0,
+    "date": "2021-06-26"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 32,
+    "Zahl3": 15,
+    "Zahl4": 4,
+    "Zahl5": 10,
+    "Zahl6": 27,
+    "Superzahl": 8,
+    "date": "2021-06-30"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 18,
+    "Zahl3": 10,
+    "Zahl4": 9,
+    "Zahl5": 20,
+    "Zahl6": 5,
+    "Superzahl": 2,
+    "date": "2021-07-03"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 43,
+    "Zahl3": 31,
+    "Zahl4": 29,
+    "Zahl5": 23,
+    "Zahl6": 2,
+    "Superzahl": 9,
+    "date": "2021-07-07"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 25,
+    "Zahl3": 47,
+    "Zahl4": 2,
+    "Zahl5": 8,
+    "Zahl6": 32,
+    "Superzahl": 6,
+    "date": "2021-07-10"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 49,
+    "Zahl3": 26,
+    "Zahl4": 33,
+    "Zahl5": 1,
+    "Zahl6": 12,
+    "Superzahl": 6,
+    "date": "2021-07-14"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 17,
+    "Zahl3": 25,
+    "Zahl4": 49,
+    "Zahl5": 33,
+    "Zahl6": 30,
+    "Superzahl": 9,
+    "date": "2021-07-17"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 39,
+    "Zahl3": 8,
+    "Zahl4": 18,
+    "Zahl5": 48,
+    "Zahl6": 38,
+    "Superzahl": 2,
+    "date": "2021-07-21"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 14,
+    "Zahl3": 22,
+    "Zahl4": 23,
+    "Zahl5": 45,
+    "Zahl6": 8,
+    "Superzahl": 3,
+    "date": "2021-07-24"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 31,
+    "Zahl3": 11,
+    "Zahl4": 8,
+    "Zahl5": 10,
+    "Zahl6": 47,
+    "Superzahl": 3,
+    "date": "2021-07-28"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 8,
+    "Zahl3": 26,
+    "Zahl4": 24,
+    "Zahl5": 1,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2021-07-31"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 1,
+    "Zahl3": 6,
+    "Zahl4": 30,
+    "Zahl5": 5,
+    "Zahl6": 41,
+    "Superzahl": 2,
+    "date": "2021-08-04"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 19,
+    "Zahl3": 30,
+    "Zahl4": 9,
+    "Zahl5": 14,
+    "Zahl6": 40,
+    "Superzahl": 3,
+    "date": "2021-08-07"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 49,
+    "Zahl3": 34,
+    "Zahl4": 6,
+    "Zahl5": 12,
+    "Zahl6": 22,
+    "Superzahl": 1,
+    "date": "2021-08-11"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 19,
+    "Zahl3": 2,
+    "Zahl4": 17,
+    "Zahl5": 48,
+    "Zahl6": 39,
+    "Superzahl": 1,
+    "date": "2021-08-14"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 7,
+    "Zahl3": 48,
+    "Zahl4": 43,
+    "Zahl5": 22,
+    "Zahl6": 27,
+    "Superzahl": 6,
+    "date": "2021-08-18"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 23,
+    "Zahl3": 19,
+    "Zahl4": 15,
+    "Zahl5": 12,
+    "Zahl6": 7,
+    "Superzahl": 0,
+    "date": "2021-08-21"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 12,
+    "Zahl3": 11,
+    "Zahl4": 9,
+    "Zahl5": 6,
+    "Zahl6": 33,
+    "Superzahl": 7,
+    "date": "2021-08-25"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 46,
+    "Zahl3": 24,
+    "Zahl4": 25,
+    "Zahl5": 18,
+    "Zahl6": 41,
+    "Superzahl": 7,
+    "date": "2021-08-28"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 5,
+    "Zahl3": 49,
+    "Zahl4": 16,
+    "Zahl5": 48,
+    "Zahl6": 3,
+    "Superzahl": 0,
+    "date": "2021-09-01"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 5,
+    "Zahl3": 44,
+    "Zahl4": 2,
+    "Zahl5": 15,
+    "Zahl6": 39,
+    "Superzahl": 7,
+    "date": "2021-09-04"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 30,
+    "Zahl3": 13,
+    "Zahl4": 44,
+    "Zahl5": 41,
+    "Zahl6": 21,
+    "Superzahl": 3,
+    "date": "2021-09-08"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 43,
+    "Zahl3": 33,
+    "Zahl4": 34,
+    "Zahl5": 23,
+    "Zahl6": 6,
+    "Superzahl": 7,
+    "date": "2021-09-11"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 21,
+    "Zahl3": 41,
+    "Zahl4": 8,
+    "Zahl5": 37,
+    "Zahl6": 40,
+    "Superzahl": 5,
+    "date": "2021-09-15"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 36,
+    "Zahl3": 9,
+    "Zahl4": 49,
+    "Zahl5": 6,
+    "Zahl6": 34,
+    "Superzahl": 2,
+    "date": "2021-09-18"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 31,
+    "Zahl3": 13,
+    "Zahl4": 5,
+    "Zahl5": 3,
+    "Zahl6": 22,
+    "Superzahl": 7,
+    "date": "2021-09-22"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 41,
+    "Zahl3": 47,
+    "Zahl4": 30,
+    "Zahl5": 27,
+    "Zahl6": 19,
+    "Superzahl": 7,
+    "date": "2021-09-25"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 16,
+    "Zahl3": 43,
+    "Zahl4": 11,
+    "Zahl5": 36,
+    "Zahl6": 31,
+    "Superzahl": 4,
+    "date": "2021-09-29"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 46,
+    "Zahl3": 10,
+    "Zahl4": 43,
+    "Zahl5": 4,
+    "Zahl6": 7,
+    "Superzahl": 4,
+    "date": "2021-10-02"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 29,
+    "Zahl3": 27,
+    "Zahl4": 8,
+    "Zahl5": 40,
+    "Zahl6": 3,
+    "Superzahl": 2,
+    "date": "2021-10-06"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 11,
+    "Zahl3": 47,
+    "Zahl4": 17,
+    "Zahl5": 49,
+    "Zahl6": 1,
+    "Superzahl": 3,
+    "date": "2021-10-09"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 4,
+    "Zahl3": 7,
+    "Zahl4": 31,
+    "Zahl5": 10,
+    "Zahl6": 18,
+    "Superzahl": 5,
+    "date": "2021-10-13"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 27,
+    "Zahl3": 7,
+    "Zahl4": 21,
+    "Zahl5": 29,
+    "Zahl6": 20,
+    "Superzahl": 6,
+    "date": "2021-10-16"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 16,
+    "Zahl3": 15,
+    "Zahl4": 43,
+    "Zahl5": 24,
+    "Zahl6": 7,
+    "Superzahl": 5,
+    "date": "2021-10-20"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 26,
+    "Zahl3": 1,
+    "Zahl4": 19,
+    "Zahl5": 10,
+    "Zahl6": 28,
+    "Superzahl": 2,
+    "date": "2021-10-23"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 25,
+    "Zahl3": 16,
+    "Zahl4": 45,
+    "Zahl5": 21,
+    "Zahl6": 1,
+    "Superzahl": 6,
+    "date": "2021-10-27"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 45,
+    "Zahl3": 6,
+    "Zahl4": 31,
+    "Zahl5": 11,
+    "Zahl6": 42,
+    "Superzahl": 4,
+    "date": "2021-10-30"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 44,
+    "Zahl3": 14,
+    "Zahl4": 49,
+    "Zahl5": 10,
+    "Zahl6": 28,
+    "Superzahl": 0,
+    "date": "2021-11-03"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 41,
+    "Zahl3": 44,
+    "Zahl4": 6,
+    "Zahl5": 27,
+    "Zahl6": 9,
+    "Superzahl": 9,
+    "date": "2021-11-06"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 16,
+    "Zahl3": 32,
+    "Zahl4": 8,
+    "Zahl5": 6,
+    "Zahl6": 22,
+    "Superzahl": 7,
+    "date": "2021-11-10"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 4,
+    "Zahl3": 25,
+    "Zahl4": 6,
+    "Zahl5": 3,
+    "Zahl6": 42,
+    "Superzahl": 0,
+    "date": "2021-11-13"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 25,
+    "Zahl3": 21,
+    "Zahl4": 47,
+    "Zahl5": 15,
+    "Zahl6": 5,
+    "Superzahl": 9,
+    "date": "2021-11-17"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 24,
+    "Zahl3": 26,
+    "Zahl4": 40,
+    "Zahl5": 8,
+    "Zahl6": 47,
+    "Superzahl": 7,
+    "date": "2021-11-20"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 9,
+    "Zahl3": 25,
+    "Zahl4": 24,
+    "Zahl5": 19,
+    "Zahl6": 5,
+    "Superzahl": 7,
+    "date": "2021-11-24"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 15,
+    "Zahl3": 29,
+    "Zahl4": 14,
+    "Zahl5": 37,
+    "Zahl6": 7,
+    "Superzahl": 3,
+    "date": "2021-11-27"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 8,
+    "Zahl3": 5,
+    "Zahl4": 34,
+    "Zahl5": 12,
+    "Zahl6": 13,
+    "Superzahl": 7,
+    "date": "2021-12-01"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 1,
+    "Zahl3": 31,
+    "Zahl4": 40,
+    "Zahl5": 44,
+    "Zahl6": 9,
+    "Superzahl": 7,
+    "date": "2021-12-04"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 15,
+    "Zahl3": 18,
+    "Zahl4": 44,
+    "Zahl5": 26,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2021-12-08"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 46,
+    "Zahl3": 40,
+    "Zahl4": 23,
+    "Zahl5": 9,
+    "Zahl6": 1,
+    "Superzahl": 0,
+    "date": "2021-12-11"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 10,
+    "Zahl3": 17,
+    "Zahl4": 4,
+    "Zahl5": 28,
+    "Zahl6": 5,
+    "Superzahl": 2,
+    "date": "2021-12-15"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 10,
+    "Zahl3": 16,
+    "Zahl4": 28,
+    "Zahl5": 43,
+    "Zahl6": 25,
+    "Superzahl": 8,
+    "date": "2021-12-18"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 13,
+    "Zahl3": 48,
+    "Zahl4": 37,
+    "Zahl5": 40,
+    "Zahl6": 46,
+    "Superzahl": 6,
+    "date": "2021-12-22"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 42,
+    "Zahl3": 46,
+    "Zahl4": 15,
+    "Zahl5": 27,
+    "Zahl6": 41,
+    "Superzahl": 7,
+    "date": "2021-12-25"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 20,
+    "Zahl3": 14,
+    "Zahl4": 46,
+    "Zahl5": 6,
+    "Zahl6": 10,
+    "Superzahl": 0,
+    "date": "2021-12-29"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 13,
+    "Zahl3": 16,
+    "Zahl4": 14,
+    "Zahl5": 24,
+    "Zahl6": 15,
+    "Superzahl": 2,
+    "date": "2022-01-01"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 7,
+    "Zahl3": 6,
+    "Zahl4": 4,
+    "Zahl5": 41,
+    "Zahl6": 2,
+    "Superzahl": 0,
+    "date": "2022-01-05"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 38,
+    "Zahl3": 17,
+    "Zahl4": 2,
+    "Zahl5": 30,
+    "Zahl6": 19,
+    "Superzahl": 9,
+    "date": "2022-01-08"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 38,
+    "Zahl3": 10,
+    "Zahl4": 48,
+    "Zahl5": 16,
+    "Zahl6": 33,
+    "Superzahl": 4,
+    "date": "2022-01-12"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 43,
+    "Zahl3": 48,
+    "Zahl4": 49,
+    "Zahl5": 5,
+    "Zahl6": 42,
+    "Superzahl": 9,
+    "date": "2022-01-15"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 45,
+    "Zahl3": 19,
+    "Zahl4": 48,
+    "Zahl5": 49,
+    "Zahl6": 17,
+    "Superzahl": 4,
+    "date": "2022-01-19"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 46,
+    "Zahl3": 5,
+    "Zahl4": 49,
+    "Zahl5": 13,
+    "Zahl6": 9,
+    "Superzahl": 5,
+    "date": "2022-01-22"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 19,
+    "Zahl3": 41,
+    "Zahl4": 8,
+    "Zahl5": 3,
+    "Zahl6": 15,
+    "Superzahl": 6,
+    "date": "2022-01-26"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 24,
+    "Zahl3": 3,
+    "Zahl4": 26,
+    "Zahl5": 17,
+    "Zahl6": 2,
+    "Superzahl": 7,
+    "date": "2022-01-29"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 33,
+    "Zahl3": 44,
+    "Zahl4": 28,
+    "Zahl5": 40,
+    "Zahl6": 27,
+    "Superzahl": 1,
+    "date": "2022-02-02"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 19,
+    "Zahl3": 45,
+    "Zahl4": 4,
+    "Zahl5": 17,
+    "Zahl6": 26,
+    "Superzahl": 3,
+    "date": "2022-02-05"
+  },
+  {
+    "Zahl1": 16,
+    "Zahl2": 33,
+    "Zahl3": 26,
+    "Zahl4": 32,
+    "Zahl5": 45,
+    "Zahl6": 25,
+    "Superzahl": 3,
+    "date": "2022-02-09"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 2,
+    "Zahl3": 13,
+    "Zahl4": 17,
+    "Zahl5": 31,
+    "Zahl6": 48,
+    "Superzahl": 6,
+    "date": "2022-02-12"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 30,
+    "Zahl3": 29,
+    "Zahl4": 16,
+    "Zahl5": 7,
+    "Zahl6": 33,
+    "Superzahl": 4,
+    "date": "2022-02-16"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 10,
+    "Zahl3": 45,
+    "Zahl4": 27,
+    "Zahl5": 3,
+    "Zahl6": 2,
+    "Superzahl": 3,
+    "date": "2022-02-19"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 11,
+    "Zahl3": 47,
+    "Zahl4": 24,
+    "Zahl5": 7,
+    "Zahl6": 5,
+    "Superzahl": 2,
+    "date": "2022-02-23"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 49,
+    "Zahl3": 45,
+    "Zahl4": 33,
+    "Zahl5": 16,
+    "Zahl6": 6,
+    "Superzahl": 7,
+    "date": "2022-02-26"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 44,
+    "Zahl3": 49,
+    "Zahl4": 15,
+    "Zahl5": 5,
+    "Zahl6": 3,
+    "Superzahl": 7,
+    "date": "2022-03-02"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 26,
+    "Zahl3": 10,
+    "Zahl4": 25,
+    "Zahl5": 22,
+    "Zahl6": 41,
+    "Superzahl": 0,
+    "date": "2022-03-05"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 18,
+    "Zahl3": 19,
+    "Zahl4": 38,
+    "Zahl5": 28,
+    "Zahl6": 8,
+    "Superzahl": 4,
+    "date": "2022-03-09"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 9,
+    "Zahl3": 35,
+    "Zahl4": 36,
+    "Zahl5": 1,
+    "Zahl6": 20,
+    "Superzahl": 1,
+    "date": "2022-03-12"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 6,
+    "Zahl3": 1,
+    "Zahl4": 16,
+    "Zahl5": 8,
+    "Zahl6": 40,
+    "Superzahl": 0,
+    "date": "2022-03-16"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 5,
+    "Zahl3": 1,
+    "Zahl4": 28,
+    "Zahl5": 26,
+    "Zahl6": 41,
+    "Superzahl": 5,
+    "date": "2022-03-19"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 15,
+    "Zahl3": 3,
+    "Zahl4": 12,
+    "Zahl5": 30,
+    "Zahl6": 39,
+    "Superzahl": 8,
+    "date": "2022-03-23"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 19,
+    "Zahl3": 14,
+    "Zahl4": 48,
+    "Zahl5": 16,
+    "Zahl6": 45,
+    "Superzahl": 4,
+    "date": "2022-03-26"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 27,
+    "Zahl3": 41,
+    "Zahl4": 12,
+    "Zahl5": 13,
+    "Zahl6": 6,
+    "Superzahl": 3,
+    "date": "2022-03-30"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 14,
+    "Zahl3": 46,
+    "Zahl4": 38,
+    "Zahl5": 49,
+    "Zahl6": 37,
+    "Superzahl": 2,
+    "date": "2022-04-02"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 24,
+    "Zahl3": 31,
+    "Zahl4": 22,
+    "Zahl5": 19,
+    "Zahl6": 2,
+    "Superzahl": 6,
+    "date": "2022-04-06"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 17,
+    "Zahl3": 27,
+    "Zahl4": 45,
+    "Zahl5": 5,
+    "Zahl6": 43,
+    "Superzahl": 6,
+    "date": "2022-04-09"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 42,
+    "Zahl3": 22,
+    "Zahl4": 7,
+    "Zahl5": 29,
+    "Zahl6": 46,
+    "Superzahl": 2,
+    "date": "2022-04-13"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 44,
+    "Zahl3": 8,
+    "Zahl4": 19,
+    "Zahl5": 24,
+    "Zahl6": 7,
+    "Superzahl": 4,
+    "date": "2022-04-16"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 10,
+    "Zahl3": 20,
+    "Zahl4": 16,
+    "Zahl5": 19,
+    "Zahl6": 44,
+    "Superzahl": 3,
+    "date": "2022-04-20"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 32,
+    "Zahl3": 29,
+    "Zahl4": 13,
+    "Zahl5": 34,
+    "Zahl6": 38,
+    "Superzahl": 6,
+    "date": "2022-04-23"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 3,
+    "Zahl3": 17,
+    "Zahl4": 19,
+    "Zahl5": 46,
+    "Zahl6": 40,
+    "Superzahl": 8,
+    "date": "2022-04-27"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 14,
+    "Zahl3": 48,
+    "Zahl4": 20,
+    "Zahl5": 44,
+    "Zahl6": 2,
+    "Superzahl": 1,
+    "date": "2022-04-30"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 49,
+    "Zahl3": 11,
+    "Zahl4": 31,
+    "Zahl5": 41,
+    "Zahl6": 4,
+    "Superzahl": 2,
+    "date": "2022-05-04"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 14,
+    "Zahl3": 43,
+    "Zahl4": 35,
+    "Zahl5": 34,
+    "Zahl6": 26,
+    "Superzahl": 2,
+    "date": "2022-05-07"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 28,
+    "Zahl3": 27,
+    "Zahl4": 24,
+    "Zahl5": 45,
+    "Zahl6": 2,
+    "Superzahl": 4,
+    "date": "2022-05-11"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 37,
+    "Zahl3": 25,
+    "Zahl4": 34,
+    "Zahl5": 39,
+    "Zahl6": 30,
+    "Superzahl": 9,
+    "date": "2022-05-14"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 10,
+    "Zahl3": 41,
+    "Zahl4": 25,
+    "Zahl5": 45,
+    "Zahl6": 43,
+    "Superzahl": 6,
+    "date": "2022-05-18"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 3,
+    "Zahl3": 44,
+    "Zahl4": 1,
+    "Zahl5": 4,
+    "Zahl6": 30,
+    "Superzahl": 4,
+    "date": "2022-05-21"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 5,
+    "Zahl3": 15,
+    "Zahl4": 28,
+    "Zahl5": 32,
+    "Zahl6": 1,
+    "Superzahl": 5,
+    "date": "2022-05-25"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 20,
+    "Zahl3": 4,
+    "Zahl4": 1,
+    "Zahl5": 25,
+    "Zahl6": 36,
+    "Superzahl": 1,
+    "date": "2022-05-28"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 48,
+    "Zahl3": 2,
+    "Zahl4": 4,
+    "Zahl5": 9,
+    "Zahl6": 42,
+    "Superzahl": 9,
+    "date": "2022-06-01"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 6,
+    "Zahl3": 33,
+    "Zahl4": 11,
+    "Zahl5": 23,
+    "Zahl6": 34,
+    "Superzahl": 4,
+    "date": "2022-06-04"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 11,
+    "Zahl3": 34,
+    "Zahl4": 48,
+    "Zahl5": 1,
+    "Zahl6": 33,
+    "Superzahl": 1,
+    "date": "2022-06-08"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 11,
+    "Zahl3": 17,
+    "Zahl4": 44,
+    "Zahl5": 22,
+    "Zahl6": 29,
+    "Superzahl": 8,
+    "date": "2022-06-11"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 30,
+    "Zahl3": 29,
+    "Zahl4": 44,
+    "Zahl5": 11,
+    "Zahl6": 47,
+    "Superzahl": 0,
+    "date": "2022-06-15"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 37,
+    "Zahl3": 23,
+    "Zahl4": 45,
+    "Zahl5": 26,
+    "Zahl6": 46,
+    "Superzahl": 2,
+    "date": "2022-06-18"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 46,
+    "Zahl3": 23,
+    "Zahl4": 7,
+    "Zahl5": 36,
+    "Zahl6": 29,
+    "Superzahl": 5,
+    "date": "2022-06-22"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 4,
+    "Zahl3": 21,
+    "Zahl4": 43,
+    "Zahl5": 2,
+    "Zahl6": 28,
+    "Superzahl": 5,
+    "date": "2022-06-25"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 45,
+    "Zahl3": 24,
+    "Zahl4": 21,
+    "Zahl5": 22,
+    "Zahl6": 40,
+    "Superzahl": 8,
+    "date": "2022-06-29"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 7,
+    "Zahl3": 37,
+    "Zahl4": 45,
+    "Zahl5": 8,
+    "Zahl6": 9,
+    "Superzahl": 7,
+    "date": "2022-07-02"
+  },
+  {
+    "Zahl1": 38,
+    "Zahl2": 47,
+    "Zahl3": 41,
+    "Zahl4": 48,
+    "Zahl5": 1,
+    "Zahl6": 26,
+    "Superzahl": 6,
+    "date": "2022-07-06"
+  },
+  {
+    "Zahl1": 19,
+    "Zahl2": 4,
+    "Zahl3": 23,
+    "Zahl4": 40,
+    "Zahl5": 41,
+    "Zahl6": 43,
+    "Superzahl": 6,
+    "date": "2022-07-09"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 29,
+    "Zahl3": 45,
+    "Zahl4": 11,
+    "Zahl5": 30,
+    "Zahl6": 10,
+    "Superzahl": 8,
+    "date": "2022-07-13"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 23,
+    "Zahl3": 17,
+    "Zahl4": 15,
+    "Zahl5": 26,
+    "Zahl6": 20,
+    "Superzahl": 8,
+    "date": "2022-07-16"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 42,
+    "Zahl3": 49,
+    "Zahl4": 43,
+    "Zahl5": 2,
+    "Zahl6": 3,
+    "Superzahl": 2,
+    "date": "2022-07-20"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 13,
+    "Zahl3": 49,
+    "Zahl4": 7,
+    "Zahl5": 35,
+    "Zahl6": 6,
+    "Superzahl": 3,
+    "date": "2022-07-23"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 23,
+    "Zahl3": 46,
+    "Zahl4": 16,
+    "Zahl5": 28,
+    "Zahl6": 1,
+    "Superzahl": 0,
+    "date": "2022-07-27"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 19,
+    "Zahl3": 27,
+    "Zahl4": 34,
+    "Zahl5": 25,
+    "Zahl6": 8,
+    "Superzahl": 6,
+    "date": "2022-07-30"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 13,
+    "Zahl3": 21,
+    "Zahl4": 43,
+    "Zahl5": 11,
+    "Zahl6": 5,
+    "Superzahl": 9,
+    "date": "2022-08-03"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 30,
+    "Zahl3": 27,
+    "Zahl4": 8,
+    "Zahl5": 46,
+    "Zahl6": 16,
+    "Superzahl": 7,
+    "date": "2022-08-06"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 10,
+    "Zahl3": 18,
+    "Zahl4": 22,
+    "Zahl5": 27,
+    "Zahl6": 26,
+    "Superzahl": 2,
+    "date": "2022-08-10"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 6,
+    "Zahl3": 28,
+    "Zahl4": 16,
+    "Zahl5": 20,
+    "Zahl6": 7,
+    "Superzahl": 6,
+    "date": "2022-08-13"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 1,
+    "Zahl3": 44,
+    "Zahl4": 34,
+    "Zahl5": 29,
+    "Zahl6": 46,
+    "Superzahl": 0,
+    "date": "2022-08-17"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 19,
+    "Zahl3": 40,
+    "Zahl4": 36,
+    "Zahl5": 32,
+    "Zahl6": 12,
+    "Superzahl": 1,
+    "date": "2022-08-20"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 40,
+    "Zahl3": 34,
+    "Zahl4": 7,
+    "Zahl5": 15,
+    "Zahl6": 49,
+    "Superzahl": 6,
+    "date": "2022-08-24"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 16,
+    "Zahl3": 7,
+    "Zahl4": 46,
+    "Zahl5": 32,
+    "Zahl6": 39,
+    "Superzahl": 5,
+    "date": "2022-08-27"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 18,
+    "Zahl3": 11,
+    "Zahl4": 24,
+    "Zahl5": 5,
+    "Zahl6": 1,
+    "Superzahl": 7,
+    "date": "2022-08-31"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 3,
+    "Zahl3": 36,
+    "Zahl4": 39,
+    "Zahl5": 6,
+    "Zahl6": 49,
+    "Superzahl": 2,
+    "date": "2022-09-03"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 11,
+    "Zahl3": 41,
+    "Zahl4": 14,
+    "Zahl5": 16,
+    "Zahl6": 8,
+    "Superzahl": 3,
+    "date": "2022-09-07"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 2,
+    "Zahl3": 12,
+    "Zahl4": 26,
+    "Zahl5": 1,
+    "Zahl6": 13,
+    "Superzahl": 9,
+    "date": "2022-09-10"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 39,
+    "Zahl3": 11,
+    "Zahl4": 16,
+    "Zahl5": 9,
+    "Zahl6": 2,
+    "Superzahl": 5,
+    "date": "2022-09-14"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 2,
+    "Zahl3": 46,
+    "Zahl4": 6,
+    "Zahl5": 18,
+    "Zahl6": 3,
+    "Superzahl": 5,
+    "date": "2022-09-17"
+  },
+  {
+    "Zahl1": 36,
+    "Zahl2": 8,
+    "Zahl3": 30,
+    "Zahl4": 48,
+    "Zahl5": 7,
+    "Zahl6": 24,
+    "Superzahl": 8,
+    "date": "2022-09-21"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 6,
+    "Zahl3": 15,
+    "Zahl4": 41,
+    "Zahl5": 12,
+    "Zahl6": 13,
+    "Superzahl": 5,
+    "date": "2022-09-24"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 12,
+    "Zahl3": 13,
+    "Zahl4": 44,
+    "Zahl5": 49,
+    "Zahl6": 4,
+    "Superzahl": 6,
+    "date": "2022-09-28"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 43,
+    "Zahl3": 19,
+    "Zahl4": 1,
+    "Zahl5": 3,
+    "Zahl6": 37,
+    "Superzahl": 0,
+    "date": "2022-10-01"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 37,
+    "Zahl3": 9,
+    "Zahl4": 38,
+    "Zahl5": 10,
+    "Zahl6": 17,
+    "Superzahl": 5,
+    "date": "2022-10-05"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 15,
+    "Zahl3": 38,
+    "Zahl4": 49,
+    "Zahl5": 7,
+    "Zahl6": 36,
+    "Superzahl": 7,
+    "date": "2022-10-08"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 26,
+    "Zahl3": 16,
+    "Zahl4": 35,
+    "Zahl5": 49,
+    "Zahl6": 21,
+    "Superzahl": 2,
+    "date": "2022-10-12"
+  },
+  {
+    "Zahl1": 37,
+    "Zahl2": 48,
+    "Zahl3": 11,
+    "Zahl4": 29,
+    "Zahl5": 32,
+    "Zahl6": 43,
+    "Superzahl": 7,
+    "date": "2022-10-15"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 36,
+    "Zahl3": 23,
+    "Zahl4": 1,
+    "Zahl5": 15,
+    "Zahl6": 49,
+    "Superzahl": 2,
+    "date": "2022-10-19"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 4,
+    "Zahl3": 14,
+    "Zahl4": 1,
+    "Zahl5": 46,
+    "Zahl6": 24,
+    "Superzahl": 1,
+    "date": "2022-10-22"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 46,
+    "Zahl3": 16,
+    "Zahl4": 21,
+    "Zahl5": 23,
+    "Zahl6": 24,
+    "Superzahl": 1,
+    "date": "2022-10-26"
+  },
+  {
+    "Zahl1": 11,
+    "Zahl2": 20,
+    "Zahl3": 9,
+    "Zahl4": 5,
+    "Zahl5": 13,
+    "Zahl6": 34,
+    "Superzahl": 7,
+    "date": "2022-10-29"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 48,
+    "Zahl3": 17,
+    "Zahl4": 16,
+    "Zahl5": 15,
+    "Zahl6": 21,
+    "Superzahl": 1,
+    "date": "2022-11-02"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 12,
+    "Zahl3": 42,
+    "Zahl4": 27,
+    "Zahl5": 35,
+    "Zahl6": 32,
+    "Superzahl": 8,
+    "date": "2022-11-05"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 32,
+    "Zahl3": 2,
+    "Zahl4": 16,
+    "Zahl5": 47,
+    "Zahl6": 29,
+    "Superzahl": 5,
+    "date": "2022-11-09"
+  },
+  {
+    "Zahl1": 47,
+    "Zahl2": 12,
+    "Zahl3": 14,
+    "Zahl4": 7,
+    "Zahl5": 21,
+    "Zahl6": 4,
+    "Superzahl": 6,
+    "date": "2022-11-12"
+  },
+  {
+    "Zahl1": 9,
+    "Zahl2": 37,
+    "Zahl3": 1,
+    "Zahl4": 35,
+    "Zahl5": 11,
+    "Zahl6": 30,
+    "Superzahl": 8,
+    "date": "2022-11-16"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 13,
+    "Zahl3": 4,
+    "Zahl4": 42,
+    "Zahl5": 21,
+    "Zahl6": 20,
+    "Superzahl": 0,
+    "date": "2022-11-19"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 29,
+    "Zahl3": 22,
+    "Zahl4": 25,
+    "Zahl5": 1,
+    "Zahl6": 49,
+    "Superzahl": 0,
+    "date": "2022-11-23"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 48,
+    "Zahl3": 11,
+    "Zahl4": 31,
+    "Zahl5": 34,
+    "Zahl6": 24,
+    "Superzahl": 2,
+    "date": "2022-11-26"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 1,
+    "Zahl3": 10,
+    "Zahl4": 43,
+    "Zahl5": 2,
+    "Zahl6": 42,
+    "Superzahl": 8,
+    "date": "2022-11-30"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 10,
+    "Zahl3": 45,
+    "Zahl4": 29,
+    "Zahl5": 4,
+    "Zahl6": 41,
+    "Superzahl": 7,
+    "date": "2022-12-03"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 14,
+    "Zahl3": 16,
+    "Zahl4": 39,
+    "Zahl5": 30,
+    "Zahl6": 37,
+    "Superzahl": 8,
+    "date": "2022-12-07"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 26,
+    "Zahl3": 3,
+    "Zahl4": 17,
+    "Zahl5": 5,
+    "Zahl6": 31,
+    "Superzahl": 8,
+    "date": "2022-12-10"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 46,
+    "Zahl3": 43,
+    "Zahl4": 10,
+    "Zahl5": 30,
+    "Zahl6": 48,
+    "Superzahl": 3,
+    "date": "2022-12-14"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 3,
+    "Zahl3": 37,
+    "Zahl4": 42,
+    "Zahl5": 1,
+    "Zahl6": 45,
+    "Superzahl": 3,
+    "date": "2022-12-17"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 49,
+    "Zahl3": 24,
+    "Zahl4": 2,
+    "Zahl5": 42,
+    "Zahl6": 47,
+    "Superzahl": 1,
+    "date": "2022-12-21"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 37,
+    "Zahl3": 18,
+    "Zahl4": 7,
+    "Zahl5": 41,
+    "Zahl6": 28,
+    "Superzahl": 3,
+    "date": "2022-12-24"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 4,
+    "Zahl3": 14,
+    "Zahl4": 27,
+    "Zahl5": 17,
+    "Zahl6": 42,
+    "Superzahl": 3,
+    "date": "2022-12-28"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 16,
+    "Zahl3": 18,
+    "Zahl4": 4,
+    "Zahl5": 13,
+    "Zahl6": 32,
+    "Superzahl": 8,
+    "date": "2022-12-31"
+  },
+  {
+    "Zahl1": 31,
+    "Zahl2": 47,
+    "Zahl3": 29,
+    "Zahl4": 37,
+    "Zahl5": 34,
+    "Zahl6": 19,
+    "Superzahl": 0,
+    "date": "2023-01-04"
+  },
+  {
+    "Zahl1": 10,
+    "Zahl2": 18,
+    "Zahl3": 26,
+    "Zahl4": 40,
+    "Zahl5": 11,
+    "Zahl6": 20,
+    "Superzahl": 2,
+    "date": "2023-01-07"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 21,
+    "Zahl3": 17,
+    "Zahl4": 24,
+    "Zahl5": 48,
+    "Zahl6": 32,
+    "Superzahl": 5,
+    "date": "2023-01-11"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 38,
+    "Zahl3": 24,
+    "Zahl4": 6,
+    "Zahl5": 42,
+    "Zahl6": 43,
+    "Superzahl": 3,
+    "date": "2023-01-14"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 46,
+    "Zahl3": 8,
+    "Zahl4": 25,
+    "Zahl5": 1,
+    "Zahl6": 37,
+    "Superzahl": 9,
+    "date": "2023-01-18"
+  },
+  {
+    "Zahl1": 43,
+    "Zahl2": 45,
+    "Zahl3": 19,
+    "Zahl4": 4,
+    "Zahl5": 44,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2023-01-21"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 37,
+    "Zahl3": 11,
+    "Zahl4": 12,
+    "Zahl5": 6,
+    "Zahl6": 20,
+    "Superzahl": 2,
+    "date": "2023-01-25"
+  },
+  {
+    "Zahl1": 5,
+    "Zahl2": 38,
+    "Zahl3": 20,
+    "Zahl4": 30,
+    "Zahl5": 14,
+    "Zahl6": 44,
+    "Superzahl": 8,
+    "date": "2023-01-28"
+  },
+  {
+    "Zahl1": 34,
+    "Zahl2": 36,
+    "Zahl3": 20,
+    "Zahl4": 49,
+    "Zahl5": 6,
+    "Zahl6": 40,
+    "Superzahl": 5,
+    "date": "2023-02-01"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 33,
+    "Zahl3": 31,
+    "Zahl4": 35,
+    "Zahl5": 37,
+    "Zahl6": 34,
+    "Superzahl": 8,
+    "date": "2023-02-04"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 14,
+    "Zahl3": 8,
+    "Zahl4": 17,
+    "Zahl5": 21,
+    "Zahl6": 39,
+    "Superzahl": 9,
+    "date": "2023-02-08"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 12,
+    "Zahl3": 11,
+    "Zahl4": 19,
+    "Zahl5": 28,
+    "Zahl6": 9,
+    "Superzahl": 3,
+    "date": "2023-02-11"
+  },
+  {
+    "Zahl1": 45,
+    "Zahl2": 37,
+    "Zahl3": 33,
+    "Zahl4": 19,
+    "Zahl5": 22,
+    "Zahl6": 26,
+    "Superzahl": 6,
+    "date": "2023-02-15"
+  },
+  {
+    "Zahl1": 40,
+    "Zahl2": 43,
+    "Zahl3": 28,
+    "Zahl4": 49,
+    "Zahl5": 7,
+    "Zahl6": 36,
+    "Superzahl": 8,
+    "date": "2023-02-18"
+  },
+  {
+    "Zahl1": 46,
+    "Zahl2": 9,
+    "Zahl3": 4,
+    "Zahl4": 27,
+    "Zahl5": 6,
+    "Zahl6": 44,
+    "Superzahl": 8,
+    "date": "2023-02-22"
+  },
+  {
+    "Zahl1": 23,
+    "Zahl2": 5,
+    "Zahl3": 48,
+    "Zahl4": 26,
+    "Zahl5": 12,
+    "Zahl6": 33,
+    "Superzahl": 4,
+    "date": "2023-02-25"
+  },
+  {
+    "Zahl1": 8,
+    "Zahl2": 21,
+    "Zahl3": 28,
+    "Zahl4": 14,
+    "Zahl5": 47,
+    "Zahl6": 23,
+    "Superzahl": 9,
+    "date": "2023-03-01"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 1,
+    "Zahl3": 8,
+    "Zahl4": 45,
+    "Zahl5": 48,
+    "Zahl6": 7,
+    "Superzahl": 0,
+    "date": "2023-03-04"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 25,
+    "Zahl3": 43,
+    "Zahl4": 26,
+    "Zahl5": 23,
+    "Zahl6": 5,
+    "Superzahl": 2,
+    "date": "2023-03-08"
+  },
+  {
+    "Zahl1": 17,
+    "Zahl2": 20,
+    "Zahl3": 23,
+    "Zahl4": 32,
+    "Zahl5": 22,
+    "Zahl6": 27,
+    "Superzahl": 7,
+    "date": "2023-03-11"
+  },
+  {
+    "Zahl1": 39,
+    "Zahl2": 17,
+    "Zahl3": 34,
+    "Zahl4": 44,
+    "Zahl5": 3,
+    "Zahl6": 19,
+    "Superzahl": 8,
+    "date": "2023-03-15"
+  },
+  {
+    "Zahl1": 27,
+    "Zahl2": 3,
+    "Zahl3": 23,
+    "Zahl4": 5,
+    "Zahl5": 44,
+    "Zahl6": 9,
+    "Superzahl": 9,
+    "date": "2023-03-18"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 19,
+    "Zahl3": 33,
+    "Zahl4": 35,
+    "Zahl5": 38,
+    "Zahl6": 40,
+    "Superzahl": 3,
+    "date": "2023-03-22"
+  },
+  {
+    "Zahl1": 21,
+    "Zahl2": 16,
+    "Zahl3": 15,
+    "Zahl4": 36,
+    "Zahl5": 35,
+    "Zahl6": 10,
+    "Superzahl": 5,
+    "date": "2023-03-25"
+  },
+  {
+    "Zahl1": 48,
+    "Zahl2": 37,
+    "Zahl3": 40,
+    "Zahl4": 2,
+    "Zahl5": 43,
+    "Zahl6": 19,
+    "Superzahl": 5,
+    "date": "2023-03-29"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 45,
+    "Zahl3": 36,
+    "Zahl4": 42,
+    "Zahl5": 33,
+    "Zahl6": 27,
+    "Superzahl": 9,
+    "date": "2023-04-01"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 6,
+    "Zahl3": 41,
+    "Zahl4": 47,
+    "Zahl5": 4,
+    "Zahl6": 15,
+    "Superzahl": 5,
+    "date": "2023-04-05"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 49,
+    "Zahl3": 40,
+    "Zahl4": 2,
+    "Zahl5": 16,
+    "Zahl6": 34,
+    "Superzahl": 3,
+    "date": "2023-04-08"
+  },
+  {
+    "Zahl1": 20,
+    "Zahl2": 7,
+    "Zahl3": 34,
+    "Zahl4": 33,
+    "Zahl5": 44,
+    "Zahl6": 28,
+    "Superzahl": 8,
+    "date": "2023-04-12"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 43,
+    "Zahl3": 22,
+    "Zahl4": 12,
+    "Zahl5": 7,
+    "Zahl6": 34,
+    "Superzahl": 1,
+    "date": "2023-04-15"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 3,
+    "Zahl3": 16,
+    "Zahl4": 36,
+    "Zahl5": 31,
+    "Zahl6": 18,
+    "Superzahl": 6,
+    "date": "2023-04-19"
+  },
+  {
+    "Zahl1": 41,
+    "Zahl2": 48,
+    "Zahl3": 26,
+    "Zahl4": 21,
+    "Zahl5": 34,
+    "Zahl6": 13,
+    "Superzahl": 7,
+    "date": "2023-04-22"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 3,
+    "Zahl3": 1,
+    "Zahl4": 49,
+    "Zahl5": 41,
+    "Zahl6": 18,
+    "Superzahl": 7,
+    "date": "2023-04-26"
+  },
+  {
+    "Zahl1": 13,
+    "Zahl2": 24,
+    "Zahl3": 14,
+    "Zahl4": 40,
+    "Zahl5": 9,
+    "Zahl6": 23,
+    "Superzahl": 0,
+    "date": "2023-04-29"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 47,
+    "Zahl3": 42,
+    "Zahl4": 14,
+    "Zahl5": 16,
+    "Zahl6": 37,
+    "Superzahl": 1,
+    "date": "2023-05-03"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 47,
+    "Zahl3": 18,
+    "Zahl4": 19,
+    "Zahl5": 9,
+    "Zahl6": 31,
+    "Superzahl": 9,
+    "date": "2023-05-06"
+  },
+  {
+    "Zahl1": 14,
+    "Zahl2": 49,
+    "Zahl3": 23,
+    "Zahl4": 10,
+    "Zahl5": 44,
+    "Zahl6": 25,
+    "Superzahl": 8,
+    "date": "2023-05-10"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 26,
+    "Zahl3": 39,
+    "Zahl4": 28,
+    "Zahl5": 4,
+    "Zahl6": 1,
+    "Superzahl": 1,
+    "date": "2023-05-13"
+  },
+  {
+    "Zahl1": 26,
+    "Zahl2": 36,
+    "Zahl3": 31,
+    "Zahl4": 45,
+    "Zahl5": 2,
+    "Zahl6": 29,
+    "Superzahl": 6,
+    "date": "2023-05-17"
+  },
+  {
+    "Zahl1": 42,
+    "Zahl2": 33,
+    "Zahl3": 24,
+    "Zahl4": 34,
+    "Zahl5": 5,
+    "Zahl6": 6,
+    "Superzahl": 3,
+    "date": "2023-05-20"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 7,
+    "Zahl3": 9,
+    "Zahl4": 43,
+    "Zahl5": 1,
+    "Zahl6": 16,
+    "Superzahl": 5,
+    "date": "2023-05-24"
+  },
+  {
+    "Zahl1": 3,
+    "Zahl2": 18,
+    "Zahl3": 7,
+    "Zahl4": 28,
+    "Zahl5": 34,
+    "Zahl6": 12,
+    "Superzahl": 4,
+    "date": "2023-05-27"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 45,
+    "Zahl3": 22,
+    "Zahl4": 30,
+    "Zahl5": 39,
+    "Zahl6": 41,
+    "Superzahl": 6,
+    "date": "2023-05-31"
+  },
+  {
+    "Zahl1": 1,
+    "Zahl2": 18,
+    "Zahl3": 4,
+    "Zahl4": 23,
+    "Zahl5": 30,
+    "Zahl6": 6,
+    "Superzahl": 0,
+    "date": "2023-06-03"
+  },
+  {
+    "Zahl1": 49,
+    "Zahl2": 17,
+    "Zahl3": 40,
+    "Zahl4": 30,
+    "Zahl5": 19,
+    "Zahl6": 33,
+    "Superzahl": 6,
+    "date": "2023-06-07"
+  },
+  {
+    "Zahl1": 12,
+    "Zahl2": 30,
+    "Zahl3": 37,
+    "Zahl4": 16,
+    "Zahl5": 24,
+    "Zahl6": 28,
+    "Superzahl": 0,
+    "date": "2023-06-10"
+  },
+  {
+    "Zahl1": 15,
+    "Zahl2": 12,
+    "Zahl3": 21,
+    "Zahl4": 44,
+    "Zahl5": 17,
+    "Zahl6": 29,
+    "Superzahl": 5,
+    "date": "2023-06-14"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 19,
+    "Zahl3": 22,
+    "Zahl4": 15,
+    "Zahl5": 32,
+    "Zahl6": 43,
+    "Superzahl": 4,
+    "date": "2023-06-17"
+  },
+  {
+    "Zahl1": 22,
+    "Zahl2": 47,
+    "Zahl3": 43,
+    "Zahl4": 12,
+    "Zahl5": 6,
+    "Zahl6": 19,
+    "Superzahl": 6,
+    "date": "2023-06-21"
+  },
+  {
+    "Zahl1": 24,
+    "Zahl2": 26,
+    "Zahl3": 31,
+    "Zahl4": 43,
+    "Zahl5": 42,
+    "Zahl6": 4,
+    "Superzahl": 4,
+    "date": "2023-06-24"
+  },
+  {
+    "Zahl1": 28,
+    "Zahl2": 5,
+    "Zahl3": 18,
+    "Zahl4": 30,
+    "Zahl5": 37,
+    "Zahl6": 34,
+    "Superzahl": 1,
+    "date": "2023-06-28"
+  },
+  {
+    "Zahl1": 18,
+    "Zahl2": 27,
+    "Zahl3": 24,
+    "Zahl4": 13,
+    "Zahl5": 38,
+    "Zahl6": 43,
+    "Superzahl": 3,
+    "date": "2023-07-01"
+  },
+  {
+    "Zahl1": 44,
+    "Zahl2": 34,
+    "Zahl3": 23,
+    "Zahl4": 20,
+    "Zahl5": 2,
+    "Zahl6": 16,
+    "Superzahl": 3,
+    "date": "2023-07-05"
+  },
+  {
+    "Zahl1": 25,
+    "Zahl2": 3,
+    "Zahl3": 44,
+    "Zahl4": 37,
+    "Zahl5": 29,
+    "Zahl6": 14,
+    "Superzahl": 0,
+    "date": "2023-07-08"
+  },
+  {
+    "Zahl1": 30,
+    "Zahl2": 21,
+    "Zahl3": 7,
+    "Zahl4": 9,
+    "Zahl5": 2,
+    "Zahl6": 19,
+    "Superzahl": 2,
+    "date": "2023-07-12"
+  },
+  {
+    "Zahl1": 6,
+    "Zahl2": 30,
+    "Zahl3": 17,
+    "Zahl4": 11,
+    "Zahl5": 8,
+    "Zahl6": 39,
+    "Superzahl": 1,
+    "date": "2023-07-15"
+  },
+  {
+    "Zahl1": 32,
+    "Zahl2": 34,
+    "Zahl3": 4,
+    "Zahl4": 33,
+    "Zahl5": 19,
+    "Zahl6": 25,
+    "Superzahl": 4,
+    "date": "2023-07-19"
+  },
+  {
+    "Zahl1": 2,
+    "Zahl2": 41,
+    "Zahl3": 15,
+    "Zahl4": 40,
+    "Zahl5": 31,
+    "Zahl6": 37,
+    "Superzahl": 3,
+    "date": "2023-07-22"
+  },
+  {
+    "Zahl1": 7,
+    "Zahl2": 32,
+    "Zahl3": 23,
+    "Zahl4": 45,
+    "Zahl5": 21,
+    "Zahl6": 35,
+    "Superzahl": 3,
+    "date": "2023-07-26"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 10,
+    "Zahl3": 3,
+    "Zahl4": 41,
+    "Zahl5": 45,
+    "Zahl6": 19,
+    "Superzahl": 6,
+    "date": "2023-07-29"
+  },
+  {
+    "Zahl1": 29,
+    "Zahl2": 23,
+    "Zahl3": 21,
+    "Zahl4": 30,
+    "Zahl5": 7,
+    "Zahl6": 44,
+    "Superzahl": 4,
+    "date": "2023-08-02"
+  },
+  {
+    "Zahl1": 35,
+    "Zahl2": 49,
+    "Zahl3": 42,
+    "Zahl4": 4,
+    "Zahl5": 23,
+    "Zahl6": 22,
+    "Superzahl": 4,
+    "date": "2023-08-05"
+  },
+  {
+    "Zahl1": 33,
+    "Zahl2": 35,
+    "Zahl3": 37,
+    "Zahl4": 29,
+    "Zahl5": 16,
+    "Zahl6": 24,
+    "Superzahl": 7,
+    "date": "2023-08-09"
+  },
+  {
+    "Zahl1": 4,
+    "Zahl2": 5,
+    "Zahl3": 14,
+    "Zahl4": 19,
+    "Zahl5": 26,
+    "Zahl6": 41,
+    "Superzahl": 8,
+    "date": "2023-08-16"
+  }
+]
