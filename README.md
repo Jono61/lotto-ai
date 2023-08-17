@@ -9,8 +9,11 @@ This project develops a deep learning-based system for predicting Lotto numbers 
 ## Scripts
 
 `yarn install`: Installs the dependencies
+
 `yarn transform`: Transforms `./data/lotto.csv` into `./data/lotto.json` for training. Add latest lottery draw values to `lotto.csv` before training.
+
 `yarn train`: Training of the model
+
 `yarn predict`: Prediction of lotto numbers
 
 
